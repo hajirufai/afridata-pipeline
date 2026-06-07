@@ -1,0 +1,105 @@
+/* AfriData Dashboard — Custom Styles */
+
+/* Cards */
+.card {
+    @apply bg-white dark:bg-surface-800 rounded-xl p-5 shadow-sm border border-gray-200 dark:border-gray-700;
+}
+.card-title {
+    @apply text-base font-semibold text-gray-700 dark:text-gray-200 mb-3;
+}
+
+/* Chart container */
+.chart-container {
+    position: relative;
+    width: 100%;
+    min-height: 300px;
+}
+.chart-container canvas {
+    width: 100% !important;
+    max-height: 380px;
+}
+
+/* Tabs */
+.tab-btn {
+    @apply px-4 py-2 rounded-lg text-sm font-medium whitespace-nowrap transition-all;
+    @apply text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white hover:bg-gray-100 dark:hover:bg-gray-700;
+}
+.tab-btn.active {
+    @apply bg-primary-500 text-white shadow-sm;
+}
+
+/* Selects */
+.select-input {
+    @apply px-3 py-2 rounded-lg text-sm border border-gray-300 dark:border-gray-600 bg-white dark:bg-surface-700 text-gray-700 dark:text-gray-200 focus:outline-none focus:ring-2 focus:ring-primary-500;
+}
+
+/* KPI card */
+.kpi-card {
+    @apply bg-white dark:bg-surface-800 rounded-xl p-4 shadow-sm border border-gray-200 dark:border-gray-700 cursor-pointer transition-all hover:shadow-md hover:-translate-y-0.5;
+}
+.kpi-value {
+    @apply text-2xl font-bold bg-gradient-to-r from-primary-600 to-primary-400 bg-clip-text text-transparent;
+}
+.kpi-label {
+    @apply text-xs text-gray-500 dark:text-gray-400 mt-1;
+}
+
+/* Rankings table rows */
+#rankings-body tr {
+    @apply border-b border-gray-100 dark:border-gray-700/50 hover:bg-gray-50 dark:hover:bg-surface-700/50 cursor-pointer transition-colors;
+}
+
+/* Quality gauge */
+.quality-gauge {
+    @apply relative w-24 h-24;
+}
+
+/* Leaflet overrides for dark mode */
+.dark .leaflet-tile {
+    filter: brightness(0.8) contrast(1.1);
+}
+.dark .leaflet-container {
+    background: #1e293b;
+}
+.leaflet-popup-content-wrapper {
+    @apply bg-white dark:bg-surface-800 text-gray-800 dark:text-gray-100 rounded-lg shadow-lg;
+}
+.leaflet-popup-tip {
+    @apply bg-white dark:bg-surface-800;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { @apply bg-gray-300 dark:bg-gray-600 rounded-full; }
+
+/* Animations */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(8px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+.tab-panel:not(.hidden) {
+    animation: fadeIn 0.3s ease-out;
+}
+
+/* Modal indicator cards */
+.modal-ind {
+    @apply p-3 rounded-lg bg-gray-50 dark:bg-surface-700;
+}
+.modal-ind-value {
+    @apply text-lg font-bold text-gray-800 dark:text-gray-100;
+}
+.modal-ind-label {
+    @apply text-xs text-gray-500 dark:text-gray-400;
+}
+
+/* Flag emoji alignment */
+.country-flag {
+    font-size: 1.25rem;
+    line-height: 1;
+}
+
+/* Loading spinner */
+.spinner {
+    @apply w-8 h-8 border-4 border-primary-200 border-t-primary-500 rounded-full animate-spin mx-auto;
+}

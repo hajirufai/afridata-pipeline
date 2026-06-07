@@ -1,0 +1,108 @@
+{
+  "gdp": {
+    "name": "GDP (current US$)",
+    "category": "Economy",
+    "unit": "US$",
+    "avg": 53813453237.08,
+    "min": 822154621.09,
+    "max": 401144998373.59,
+    "median": 19697474118.53,
+    "countries": 54
+  },
+  "gdp_growth": {
+    "name": "GDP Growth (annual %)",
+    "category": "Economy",
+    "unit": "%",
+    "avg": 3.67,
+    "min": -13.96,
+    "max": 10.3,
+    "median": 4.11,
+    "countries": 54
+  },
+  "population": {
+    "name": "Population",
+    "category": "Demographics",
+    "unit": "count",
+    "avg": 28024176.98,
+    "min": 121354.0,
+    "max": 232679478.0,
+    "median": 14608754.5,
+    "countries": 54
+  },
+  "inflation": {
+    "name": "Inflation (CPI, annual %)",
+    "category": "Economy",
+    "unit": "%",
+    "avg": 14.11,
+    "min": 0.31,
+    "max": 138.81,
+    "median": 4.21,
+    "countries": 52
+  },
+  "unemployment": {
+    "name": "Unemployment (% of labor force)",
+    "category": "Labor",
+    "unit": "%",
+    "avg": 8.95,
+    "min": 0.38,
+    "max": 34.64,
+    "median": 5.95,
+    "countries": 53
+  },
+  "life_expectancy": {
+    "name": "Life Expectancy at Birth",
+    "category": "Health",
+    "unit": "years",
+    "avg": 65.69,
+    "min": 54.63,
+    "max": 76.71,
+    "median": 65.85,
+    "countries": 54
+  },
+  "internet_users": {
+    "name": "Internet Users (% of population)",
+    "category": "Technology",
+    "unit": "%",
+    "avg": 43.13,
+    "min": 6.67,
+    "max": 91.2,
+    "median": 40.09,
+    "countries": 54
+  },
+  "electricity_access": {
+    "name": "Access to Electricity (%)",
+    "category": "Infrastructure",
+    "unit": "%",
+    "avg": 59.87,
+    "min": 5.4,
+    "max": 100.0,
+    "median": 58.25,
+    "countries": 54
+  },
+  "literacy_rate": {
+    "name": "Literacy Rate (adult %)",
+    "category": "Education",
+    "unit": "%",
+    "avg": 68.12,
+    "min": 26.83,
+    "max": 94.29,
+    "median": 71.55,
+    "countries": 52
+  },
+  "fdi_inflows": {
+    "name": "FDI Inflows (% of GDP)",
+    "category": "Investment",
+    "unit": "%",
+    "avg": 3.64,
+    "min": -2.03,
+    "max": 15.43,
+    "median": 2.16,
+    "countries": 54
+  },
+  "_africa_totals": {
+    "total_gdp": 2905926474802.0,
+    "total_population": 1513305557.0,
+    "countries_tracked": 54,
+    "indicators_tracked": 10
+  }
+}

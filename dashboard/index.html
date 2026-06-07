@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AfriData — African Economic Dashboard</title>
+    <meta name="description" content="Interactive dashboard tracking 10 key economic indicators across 54 African countries, powered by World Bank data.">
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        primary: { 50:'#eff6ff',100:'#dbeafe',200:'#bfdbfe',300:'#93c5fd',400:'#60a5fa',500:'#3b82f6',600:'#2563eb',700:'#1d4ed8',800:'#1e40af',900:'#1e3a8a' },
+                        accent: { 400:'#facc15',500:'#eab308',600:'#ca8a04' },
+                        surface: { 50:'#f8fafc',100:'#f1f5f9',200:'#e2e8f0',700:'#334155',800:'#1e293b',900:'#0f172a' }
+                    }
+                }
+            }
+        }
+    </script>
+
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+
+    <!-- Leaflet -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/styles.css">
+
+    <!-- Favicon -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌍</text></svg>">
+</head>
+<body class="bg-surface-50 dark:bg-surface-900 text-gray-800 dark:text-gray-100 transition-colors duration-300">
+
+    <!-- Header -->
+    <header class="sticky top-0 z-50 bg-white/80 dark:bg-surface-800/80 backdrop-blur-lg border-b border-gray-200 dark:border-gray-700">
+        <div class="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
+            <div class="flex items-center gap-3">
+                <span class="text-2xl">🌍</span>
+                <div>
+                    <h1 class="text-xl font-bold bg-gradient-to-r from-primary-600 to-primary-400 bg-clip-text text-transparent">AfriData</h1>
+                    <p class="text-xs text-gray-500 dark:text-gray-400">African Economic Intelligence</p>
+                </div>
+            </div>
+            <div class="flex items-center gap-3">
+                <div id="quality-badge" class="hidden sm:flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-medium bg-green-100 dark:bg-green-900/30 text-green-700 dark:text-green-400">
+                    <span class="w-2 h-2 rounded-full bg-green-500 animate-pulse"></span>
+                    <span>Quality: <span id="quality-score">—</span>/100</span>
+                </div>
+                <button id="theme-toggle" class="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors" title="Toggle theme">
+                    <svg id="sun-icon" class="w-5 h-5 hidden dark:block" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"/></svg>
+                    <svg id="moon-icon" class="w-5 h-5 dark:hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"/></svg>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-7xl mx-auto px-4 py-6 space-y-6">
+
+        <!-- KPI Cards -->
+        <section id="kpi-section">
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-4" id="kpi-cards">
+                <!-- Populated by JS -->
+            </div>
+        </section>
+
+        <!-- Navigation Tabs -->
+        <nav class="flex gap-1 bg-white dark:bg-surface-800 rounded-xl p-1 shadow-sm border border-gray-200 dark:border-gray-700 overflow-x-auto">
+            <button class="tab-btn active" data-tab="overview">📊 Overview</button>
+            <button class="tab-btn" data-tab="map">🗺️ Map</button>
+            <button class="tab-btn" data-tab="compare">📈 Compare</button>
+            <button class="tab-btn" data-tab="rankings">🏆 Rankings</button>
+            <button class="tab-btn" data-tab="quality">✅ Quality</button>
+        </nav>
+
+        <!-- Tab Panels -->
+
+        <!-- Overview -->
+        <section id="tab-overview" class="tab-panel">
+            <div class="grid lg:grid-cols-2 gap-6">
+                <div class="card">
+                    <h3 class="card-title">GDP by Country (Top 15)</h3>
+                    <div class="chart-container"><canvas id="chart-gdp-bar"></canvas></div>
+                </div>
+                <div class="card">
+                    <h3 class="card-title">Population Distribution by Region</h3>
+                    <div class="chart-container"><canvas id="chart-pop-region"></canvas></div>
+                </div>
+                <div class="card">
+                    <h3 class="card-title">Average GDP Growth Over Time (Africa)</h3>
+                    <div class="chart-container"><canvas id="chart-gdp-growth-line"></canvas></div>
+                </div>
+                <div class="card">
+                    <h3 class="card-title">Life Expectancy vs GDP per Capita</h3>
+                    <div class="chart-container"><canvas id="chart-scatter"></canvas></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Map -->
+        <section id="tab-map" class="tab-panel hidden">
+            <div class="card">
+                <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 mb-4">
+                    <h3 class="card-title !mb-0">Africa Choropleth Map</h3>
+                    <select id="map-indicator" class="select-input">
+                        <option value="gdp">GDP (US$)</option>
+                        <option value="gdp_growth">GDP Growth (%)</option>
+                        <option value="population">Population</option>
+                        <option value="inflation">Inflation (%)</option>
+                        <option value="unemployment">Unemployment (%)</option>
+                        <option value="life_expectancy">Life Expectancy</option>
+                        <option value="internet_users">Internet Users (%)</option>
+                        <option value="electricity_access">Electricity Access (%)</option>
+                        <option value="fdi_inflows">FDI Inflows (% GDP)</option>
+                    </select>
+                </div>
+                <div id="map" class="w-full h-[500px] rounded-lg overflow-hidden"></div>
+                <div id="map-legend" class="mt-3 flex items-center gap-2 text-xs text-gray-500 dark:text-gray-400"></div>
+            </div>
+        </section>
+
+        <!-- Compare -->
+        <section id="tab-compare" class="tab-panel hidden">
+            <div class="card">
+                <div class="flex flex-col sm:flex-row gap-3 mb-4">
+                    <div class="flex-1">
+                        <label class="text-sm font-medium text-gray-600 dark:text-gray-400 mb-1 block">Indicator</label>
+                        <select id="compare-indicator" class="select-input w-full">
+                            <option value="gdp">GDP (US$)</option>
+                            <option value="gdp_growth">GDP Growth (%)</option>
+                            <option value="population">Population</option>
+                            <option value="inflation">Inflation (%)</option>
+                            <option value="unemployment">Unemployment (%)</option>
+                            <option value="life_expectancy">Life Expectancy</option>
+                            <option value="internet_users">Internet Users (%)</option>
+                            <option value="electricity_access">Electricity Access (%)</option>
+                            <option value="fdi_inflows">FDI Inflows (% GDP)</option>
+                        </select>
+                    </div>
+                    <div class="flex-1">
+                        <label class="text-sm font-medium text-gray-600 dark:text-gray-400 mb-1 block">Countries (select up to 6)</label>
+                        <select id="compare-countries" multiple class="select-input w-full h-24">
+                            <!-- populated by JS -->
+                        </select>
+                    </div>
+                </div>
+                <div class="chart-container"><canvas id="chart-compare"></canvas></div>
+            </div>
+        </section>
+
+        <!-- Rankings -->
+        <section id="tab-rankings" class="tab-panel hidden">
+            <div class="card">
+                <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 mb-4">
+                    <h3 class="card-title !mb-0">Country Rankings</h3>
+                    <select id="ranking-indicator" class="select-input">
+                        <option value="gdp">GDP (US$)</option>
+                        <option value="gdp_growth">GDP Growth (%)</option>
+                        <option value="population">Population</option>
+                        <option value="inflation">Inflation (%)</option>
+                        <option value="unemployment">Unemployment (%)</option>
+                        <option value="life_expectancy">Life Expectancy</option>
+                        <option value="internet_users">Internet Users (%)</option>
+                        <option value="electricity_access">Electricity Access (%)</option>
+                        <option value="fdi_inflows">FDI Inflows (% GDP)</option>
+                    </select>
+                </div>
+                <div class="overflow-x-auto">
+                    <table class="w-full text-sm">
+                        <thead>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th class="text-left py-2 px-3 font-semibold text-gray-500 dark:text-gray-400">#</th>
+                                <th class="text-left py-2 px-3 font-semibold text-gray-500 dark:text-gray-400">Country</th>
+                                <th class="text-right py-2 px-3 font-semibold text-gray-500 dark:text-gray-400">Value</th>
+                                <th class="text-right py-2 px-3 font-semibold text-gray-500 dark:text-gray-400">Year</th>
+                            </tr>
+                        </thead>
+                        <tbody id="rankings-body">
+                            <!-- populated by JS -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- Quality -->
+        <section id="tab-quality" class="tab-panel hidden">
+            <div class="grid md:grid-cols-3 gap-4 mb-6" id="quality-cards">
+                <!-- populated by JS -->
+            </div>
+            <div class="card">
+                <h3 class="card-title">Quality Details by Indicator</h3>
+                <div class="overflow-x-auto">
+                    <table class="w-full text-sm">
+                        <thead>
+                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                                <th class="text-left py-2 px-3 font-semibold text-gray-500 dark:text-gray-400">Indicator</th>
+                                <th class="text-right py-2 px-3 font-semibold text-gray-500 dark:text-gray-400">Completeness</th>
+                                <th class="text-right py-2 px-3 font-semibold text-gray-500 dark:text-gray-400">Validity</th>
+                                <th class="text-right py-2 px-3 font-semibold text-gray-500 dark:text-gray-400">Freshness</th>
+                            </tr>
+                        </thead>
+                        <tbody id="quality-details-body">
+                            <!-- populated by JS -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- Country Detail Modal -->
+        <div id="country-modal" class="fixed inset-0 z-50 hidden items-center justify-center bg-black/50 backdrop-blur-sm p-4">
+            <div class="bg-white dark:bg-surface-800 rounded-2xl max-w-2xl w-full max-h-[90vh] overflow-y-auto shadow-2xl">
+                <div class="p-6">
+                    <div class="flex items-center justify-between mb-4">
+                        <h2 id="modal-title" class="text-xl font-bold"></h2>
+                        <button id="modal-close" class="p-1 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
+                        </button>
+                    </div>
+                    <div id="modal-meta" class="text-sm text-gray-500 dark:text-gray-400 mb-4"></div>
+                    <div class="grid grid-cols-2 gap-3 mb-6" id="modal-indicators"></div>
+                    <div class="chart-container"><canvas id="chart-modal-trend"></canvas></div>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="mt-12 border-t border-gray-200 dark:border-gray-700 py-6">
+        <div class="max-w-7xl mx-auto px-4 text-center text-sm text-gray-500 dark:text-gray-400">
+            <p>Built by <a href="https://github.com/hajirufai" target="_blank" class="text-primary-500 hover:underline">Haji Rufai</a> · Data from <a href="https://data.worldbank.org/" target="_blank" class="text-primary-500 hover:underline">World Bank Open Data</a></p>
+            <p class="mt-1">54 countries · 10 indicators · 25 years of data · Updated daily via GitHub Actions</p>
+        </div>
+    </footer>
+
+    <!-- App JS -->
+    <script src="js/app.js"></script>
+</body>
+</html>
