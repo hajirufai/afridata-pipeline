@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-06-07T07:30:57.216619+00:00",
+  "last_run": "2026-06-08T07:51:57.605806+00:00",
   "dimensions": {
     "completeness": {
       "score": 89.0,
@@ -216,20 +216,6 @@
           "status": "pass"
         },
         {
-          "indicator": "SP.POP.TOTL",
-          "name": "Population",
-          "latest_year": 2024,
-          "countries_with_data": 54,
-          "status": "pass"
-        },
-        {
-          "indicator": "IT.NET.USER.ZS",
-          "name": "Internet Users (% of population)",
-          "latest_year": 2024,
-          "countries_with_data": 54,
-          "status": "pass"
-        },
-        {
           "indicator": "NY.GDP.MKTP.CD",
           "name": "GDP (current US$)",
           "latest_year": 2024,
@@ -253,6 +239,20 @@
         {
           "indicator": "BX.KLT.DINV.WD.GD.ZS",
           "name": "FDI Inflows (% of GDP)",
+          "latest_year": 2024,
+          "countries_with_data": 54,
+          "status": "pass"
+        },
+        {
+          "indicator": "SP.POP.TOTL",
+          "name": "Population",
+          "latest_year": 2024,
+          "countries_with_data": 54,
+          "status": "pass"
+        },
+        {
+          "indicator": "IT.NET.USER.ZS",
+          "name": "Internet Users (% of population)",
           "latest_year": 2024,
           "countries_with_data": 54,
           "status": "pass"
