@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-06-08T07:51:57.605806+00:00",
+  "last_run": "2026-06-09T07:22:25.550747+00:00",
   "dimensions": {
     "completeness": {
       "score": 89.0,
@@ -195,22 +195,15 @@
       "score": 99.0,
       "details": [
         {
-          "indicator": "FP.CPI.TOTL.ZG",
-          "name": "Inflation (CPI, annual %)",
+          "indicator": "SP.POP.TOTL",
+          "name": "Population",
           "latest_year": 2024,
-          "countries_with_data": 52,
+          "countries_with_data": 54,
           "status": "pass"
         },
         {
-          "indicator": "SL.UEM.TOTL.ZS",
-          "name": "Unemployment (% of labor force)",
-          "latest_year": 2024,
-          "countries_with_data": 53,
-          "status": "pass"
-        },
-        {
-          "indicator": "SP.DYN.LE00.IN",
-          "name": "Life Expectancy at Birth",
+          "indicator": "IT.NET.USER.ZS",
+          "name": "Internet Users (% of population)",
           "latest_year": 2024,
           "countries_with_data": 54,
           "status": "pass"
@@ -244,15 +237,22 @@
           "status": "pass"
         },
         {
-          "indicator": "SP.POP.TOTL",
-          "name": "Population",
+          "indicator": "FP.CPI.TOTL.ZG",
+          "name": "Inflation (CPI, annual %)",
           "latest_year": 2024,
-          "countries_with_data": 54,
+          "countries_with_data": 52,
           "status": "pass"
         },
         {
-          "indicator": "IT.NET.USER.ZS",
-          "name": "Internet Users (% of population)",
+          "indicator": "SL.UEM.TOTL.ZS",
+          "name": "Unemployment (% of labor force)",
+          "latest_year": 2024,
+          "countries_with_data": 53,
+          "status": "pass"
+        },
+        {
+          "indicator": "SP.DYN.LE00.IN",
+          "name": "Life Expectancy at Birth",
           "latest_year": 2024,
           "countries_with_data": 54,
           "status": "pass"
