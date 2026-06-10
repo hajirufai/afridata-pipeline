@@ -2641,43 +2641,43 @@
   "electricity_access": [
     {
       "rank": 1,
-      "country": "Tunisia",
-      "iso3": "TUN",
-      "value": 100.0,
-      "year": 2023
-    },
-    {
-      "rank": 2,
-      "country": "Morocco",
-      "iso3": "MAR",
-      "value": 100.0,
-      "year": 2023
-    },
-    {
-      "rank": 3,
-      "country": "Egypt",
-      "iso3": "EGY",
-      "value": 100.0,
-      "year": 2023
-    },
-    {
-      "rank": 4,
-      "country": "Seychelles",
-      "iso3": "SYC",
-      "value": 100.0,
-      "year": 2023
-    },
-    {
-      "rank": 5,
       "country": "Algeria",
       "iso3": "DZA",
       "value": 100.0,
       "year": 2023
     },
     {
-      "rank": 6,
+      "rank": 2,
+      "country": "Seychelles",
+      "iso3": "SYC",
+      "value": 100.0,
+      "year": 2023
+    },
+    {
+      "rank": 3,
+      "country": "Morocco",
+      "iso3": "MAR",
+      "value": 100.0,
+      "year": 2023
+    },
+    {
+      "rank": 4,
+      "country": "Egypt",
+      "iso3": "EGY",
+      "value": 100.0,
+      "year": 2023
+    },
+    {
+      "rank": 5,
       "country": "Mauritius",
       "iso3": "MUS",
+      "value": 100.0,
+      "year": 2023
+    },
+    {
+      "rank": 6,
+      "country": "Tunisia",
+      "iso3": "TUN",
       "value": 100.0,
       "year": 2023
     },
@@ -2774,15 +2774,15 @@
     },
     {
       "rank": 20,
-      "country": "Gambia",
-      "iso3": "GMB",
+      "country": "Equatorial Guinea",
+      "iso3": "GNQ",
       "value": 66.9,
       "year": 2023
     },
     {
       "rank": 21,
-      "country": "Equatorial Guinea",
-      "iso3": "GNQ",
+      "country": "Gambia",
+      "iso3": "GMB",
       "value": 66.9,
       "year": 2023
     },
