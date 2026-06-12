@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-06-11T07:52:03.807453+00:00",
+  "last_run": "2026-06-12T07:46:19.251818+00:00",
   "dimensions": {
     "completeness": {
-      "score": 89.0,
+      "score": 83.2,
       "details": [
         {
           "indicator": "SE.ADT.LITR.ZS",
@@ -37,30 +37,6 @@
           "status": "pass"
         },
         {
-          "indicator": "BX.KLT.DINV.WD.GD.ZS",
-          "name": "FDI Inflows (% of GDP)",
-          "total_records": 1350,
-          "non_null": 1303,
-          "completeness_pct": 96.5,
-          "status": "pass"
-        },
-        {
-          "indicator": "NY.GDP.MKTP.KD.ZG",
-          "name": "GDP Growth (annual %)",
-          "total_records": 1350,
-          "non_null": 1305,
-          "completeness_pct": 96.7,
-          "status": "pass"
-        },
-        {
-          "indicator": "NY.GDP.MKTP.CD",
-          "name": "GDP (current US$)",
-          "total_records": 1350,
-          "non_null": 1320,
-          "completeness_pct": 97.8,
-          "status": "pass"
-        },
-        {
           "indicator": "SL.UEM.TOTL.ZS",
           "name": "Unemployment (% of labor force)",
           "total_records": 1350,
@@ -75,14 +51,6 @@
           "non_null": 1350,
           "completeness_pct": 100.0,
           "status": "pass"
-        },
-        {
-          "indicator": "SP.DYN.LE00.IN",
-          "name": "Life Expectancy at Birth",
-          "total_records": 1350,
-          "non_null": 1350,
-          "completeness_pct": 100.0,
-          "status": "pass"
         }
       ]
     },
@@ -92,20 +60,20 @@
         {
           "indicator": "NY.GDP.MKTP.CD",
           "name": "GDP (current US$)",
-          "total_checked": 1320,
-          "valid": 1320,
+          "total_checked": 0,
+          "valid": 0,
           "invalid": 0,
-          "valid_pct": 100.0,
+          "valid_pct": 100,
           "range": "[1000000.0, 10000000000000.0]",
           "status": "pass"
         },
         {
           "indicator": "NY.GDP.MKTP.KD.ZG",
           "name": "GDP Growth (annual %)",
-          "total_checked": 1305,
-          "valid": 1304,
-          "invalid": 1,
-          "valid_pct": 99.9,
+          "total_checked": 0,
+          "valid": 0,
+          "invalid": 0,
+          "valid_pct": 100,
           "range": "[-50, 100]",
           "status": "pass"
         },
@@ -142,10 +110,10 @@
         {
           "indicator": "SP.DYN.LE00.IN",
           "name": "Life Expectancy at Birth",
-          "total_checked": 1350,
-          "valid": 1348,
-          "invalid": 2,
-          "valid_pct": 99.9,
+          "total_checked": 0,
+          "valid": 0,
+          "invalid": 0,
+          "valid_pct": 100,
           "range": "[25, 95]",
           "status": "pass"
         },
@@ -182,65 +150,23 @@
         {
           "indicator": "BX.KLT.DINV.WD.GD.ZS",
           "name": "FDI Inflows (% of GDP)",
-          "total_checked": 1303,
-          "valid": 1303,
+          "total_checked": 0,
+          "valid": 0,
           "invalid": 0,
-          "valid_pct": 100.0,
+          "valid_pct": 100,
           "range": "[-100, 500]",
           "status": "pass"
         }
       ]
     },
     "freshness": {
-      "score": 99.0,
+      "score": 98.3,
       "details": [
-        {
-          "indicator": "FP.CPI.TOTL.ZG",
-          "name": "Inflation (CPI, annual %)",
-          "latest_year": 2024,
-          "countries_with_data": 52,
-          "status": "pass"
-        },
-        {
-          "indicator": "SL.UEM.TOTL.ZS",
-          "name": "Unemployment (% of labor force)",
-          "latest_year": 2024,
-          "countries_with_data": 53,
-          "status": "pass"
-        },
-        {
-          "indicator": "SP.DYN.LE00.IN",
-          "name": "Life Expectancy at Birth",
-          "latest_year": 2024,
-          "countries_with_data": 54,
-          "status": "pass"
-        },
-        {
-          "indicator": "NY.GDP.MKTP.CD",
-          "name": "GDP (current US$)",
-          "latest_year": 2024,
-          "countries_with_data": 54,
-          "status": "pass"
-        },
-        {
-          "indicator": "NY.GDP.MKTP.KD.ZG",
-          "name": "GDP Growth (annual %)",
-          "latest_year": 2024,
-          "countries_with_data": 54,
-          "status": "pass"
-        },
         {
           "indicator": "SE.ADT.LITR.ZS",
           "name": "Literacy Rate (adult %)",
           "latest_year": 2024,
           "countries_with_data": 52,
-          "status": "pass"
-        },
-        {
-          "indicator": "BX.KLT.DINV.WD.GD.ZS",
-          "name": "FDI Inflows (% of GDP)",
-          "latest_year": 2024,
-          "countries_with_data": 54,
           "status": "pass"
         },
         {
@@ -258,6 +184,20 @@
           "status": "pass"
         },
         {
+          "indicator": "FP.CPI.TOTL.ZG",
+          "name": "Inflation (CPI, annual %)",
+          "latest_year": 2024,
+          "countries_with_data": 52,
+          "status": "pass"
+        },
+        {
+          "indicator": "SL.UEM.TOTL.ZS",
+          "name": "Unemployment (% of labor force)",
+          "latest_year": 2024,
+          "countries_with_data": 53,
+          "status": "pass"
+        },
+        {
           "indicator": "EG.ELC.ACCS.ZS",
           "name": "Access to Electricity (%)",
           "latest_year": 2023,
@@ -267,10 +207,10 @@
       ]
     }
   },
-  "overall_score": 95.8,
-  "total_records": 13500,
-  "non_null_records": 12014,
+  "overall_score": 93.6,
+  "total_records": 8100,
+  "non_null_records": 6736,
   "countries_covered": 54,
-  "indicators_checked": 10,
+  "indicators_checked": 6,
   "year_range": "2000-2024"
 }
