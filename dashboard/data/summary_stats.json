@@ -3,21 +3,21 @@
     "name": "GDP (current US$)",
     "category": "Economy",
     "unit": "US$",
-    "avg": null,
-    "min": null,
-    "max": null,
-    "median": null,
-    "countries": 0
+    "avg": 53813453237.08,
+    "min": 822154621.09,
+    "max": 401144998373.59,
+    "median": 19697474118.53,
+    "countries": 54
   },
   "gdp_growth": {
     "name": "GDP Growth (annual %)",
     "category": "Economy",
     "unit": "%",
-    "avg": null,
-    "min": null,
-    "max": null,
-    "median": null,
-    "countries": 0
+    "avg": 3.67,
+    "min": -13.96,
+    "max": 10.3,
+    "median": 4.11,
+    "countries": 54
   },
   "population": {
     "name": "Population",
@@ -53,11 +53,11 @@
     "name": "Life Expectancy at Birth",
     "category": "Health",
     "unit": "years",
-    "avg": null,
-    "min": null,
-    "max": null,
-    "median": null,
-    "countries": 0
+    "avg": 65.69,
+    "min": 54.63,
+    "max": 76.71,
+    "median": 65.85,
+    "countries": 54
   },
   "internet_users": {
     "name": "Internet Users (% of population)",
@@ -93,14 +93,14 @@
     "name": "FDI Inflows (% of GDP)",
     "category": "Investment",
     "unit": "%",
-    "avg": null,
-    "min": null,
-    "max": null,
-    "median": null,
-    "countries": 0
+    "avg": 3.64,
+    "min": -2.03,
+    "max": 15.43,
+    "median": 2.16,
+    "countries": 54
   },
   "_africa_totals": {
-    "total_gdp": 0,
+    "total_gdp": 2905926474802.0,
     "total_population": 1513305557.0,
     "countries_tracked": 54,
     "indicators_tracked": 10
