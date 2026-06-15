@@ -2655,29 +2655,29 @@
     },
     {
       "rank": 3,
-      "country": "Mauritius",
-      "iso3": "MUS",
-      "value": 100.0,
-      "year": 2023
-    },
-    {
-      "rank": 4,
-      "country": "Seychelles",
-      "iso3": "SYC",
-      "value": 100.0,
-      "year": 2023
-    },
-    {
-      "rank": 5,
       "country": "Algeria",
       "iso3": "DZA",
       "value": 100.0,
       "year": 2023
     },
     {
-      "rank": 6,
+      "rank": 4,
       "country": "Tunisia",
       "iso3": "TUN",
+      "value": 100.0,
+      "year": 2023
+    },
+    {
+      "rank": 5,
+      "country": "Mauritius",
+      "iso3": "MUS",
+      "value": 100.0,
+      "year": 2023
+    },
+    {
+      "rank": 6,
+      "country": "Seychelles",
+      "iso3": "SYC",
       "value": 100.0,
       "year": 2023
     },
@@ -2774,15 +2774,15 @@
     },
     {
       "rank": 20,
-      "country": "Gambia",
-      "iso3": "GMB",
+      "country": "Equatorial Guinea",
+      "iso3": "GNQ",
       "value": 66.9,
       "year": 2023
     },
     {
       "rank": 21,
-      "country": "Equatorial Guinea",
-      "iso3": "GNQ",
+      "country": "Gambia",
+      "iso3": "GMB",
       "value": 66.9,
       "year": 2023
     },
@@ -2886,8 +2886,8 @@
     },
     {
       "rank": 36,
-      "country": "Zambia",
-      "iso3": "ZMB",
+      "country": "Angola",
+      "iso3": "AGO",
       "value": 51.1,
       "year": 2023
     },
@@ -2900,22 +2900,22 @@
     },
     {
       "rank": 38,
-      "country": "Angola",
-      "iso3": "AGO",
+      "country": "Zambia",
+      "iso3": "ZMB",
       "value": 51.1,
       "year": 2023
     },
     {
       "rank": 39,
-      "country": "Somalia",
-      "iso3": "SOM",
+      "country": "Mauritania",
+      "iso3": "MRT",
       "value": 50.3,
       "year": 2023
     },
     {
       "rank": 40,
-      "country": "Mauritania",
-      "iso3": "MRT",
+      "country": "Somalia",
+      "iso3": "SOM",
       "value": 50.3,
       "year": 2023
     },
