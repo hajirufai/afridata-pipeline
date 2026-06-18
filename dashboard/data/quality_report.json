@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-06-17T10:58:39.063241+00:00",
+  "last_run": "2026-06-18T10:23:34.622597+00:00",
   "dimensions": {
     "completeness": {
       "score": 89.0,
@@ -69,16 +69,16 @@
           "status": "pass"
         },
         {
-          "indicator": "SP.POP.TOTL",
-          "name": "Population",
+          "indicator": "SP.DYN.LE00.IN",
+          "name": "Life Expectancy at Birth",
           "total_records": 1350,
           "non_null": 1350,
           "completeness_pct": 100.0,
           "status": "pass"
         },
         {
-          "indicator": "SP.DYN.LE00.IN",
-          "name": "Life Expectancy at Birth",
+          "indicator": "SP.POP.TOTL",
+          "name": "Population",
           "total_records": 1350,
           "non_null": 1350,
           "completeness_pct": 100.0,
@@ -195,6 +195,27 @@
       "score": 99.0,
       "details": [
         {
+          "indicator": "FP.CPI.TOTL.ZG",
+          "name": "Inflation (CPI, annual %)",
+          "latest_year": 2024,
+          "countries_with_data": 52,
+          "status": "pass"
+        },
+        {
+          "indicator": "SL.UEM.TOTL.ZS",
+          "name": "Unemployment (% of labor force)",
+          "latest_year": 2024,
+          "countries_with_data": 53,
+          "status": "pass"
+        },
+        {
+          "indicator": "SP.DYN.LE00.IN",
+          "name": "Life Expectancy at Birth",
+          "latest_year": 2024,
+          "countries_with_data": 54,
+          "status": "pass"
+        },
+        {
           "indicator": "SP.POP.TOTL",
           "name": "Population",
           "latest_year": 2024,
@@ -232,27 +253,6 @@
         {
           "indicator": "BX.KLT.DINV.WD.GD.ZS",
           "name": "FDI Inflows (% of GDP)",
-          "latest_year": 2024,
-          "countries_with_data": 54,
-          "status": "pass"
-        },
-        {
-          "indicator": "FP.CPI.TOTL.ZG",
-          "name": "Inflation (CPI, annual %)",
-          "latest_year": 2024,
-          "countries_with_data": 52,
-          "status": "pass"
-        },
-        {
-          "indicator": "SL.UEM.TOTL.ZS",
-          "name": "Unemployment (% of labor force)",
-          "latest_year": 2024,
-          "countries_with_data": 53,
-          "status": "pass"
-        },
-        {
-          "indicator": "SP.DYN.LE00.IN",
-          "name": "Life Expectancy at Birth",
           "latest_year": 2024,
           "countries_with_data": 54,
           "status": "pass"
