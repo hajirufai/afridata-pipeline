@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-02T08:59:15.876226+00:00",
+  "last_run": "2026-07-03T09:25:40.866725+00:00",
   "dimensions": {
     "completeness": {
       "score": 89.0,
@@ -195,15 +195,29 @@
       "score": 99.0,
       "details": [
         {
-          "indicator": "SP.POP.TOTL",
-          "name": "Population",
+          "indicator": "NY.GDP.MKTP.CD",
+          "name": "GDP (current US$)",
           "latest_year": 2024,
           "countries_with_data": 54,
           "status": "pass"
         },
         {
-          "indicator": "IT.NET.USER.ZS",
-          "name": "Internet Users (% of population)",
+          "indicator": "NY.GDP.MKTP.KD.ZG",
+          "name": "GDP Growth (annual %)",
+          "latest_year": 2024,
+          "countries_with_data": 54,
+          "status": "pass"
+        },
+        {
+          "indicator": "SE.ADT.LITR.ZS",
+          "name": "Literacy Rate (adult %)",
+          "latest_year": 2024,
+          "countries_with_data": 52,
+          "status": "pass"
+        },
+        {
+          "indicator": "BX.KLT.DINV.WD.GD.ZS",
+          "name": "FDI Inflows (% of GDP)",
           "latest_year": 2024,
           "countries_with_data": 54,
           "status": "pass"
@@ -230,29 +244,15 @@
           "status": "pass"
         },
         {
-          "indicator": "NY.GDP.MKTP.CD",
-          "name": "GDP (current US$)",
+          "indicator": "SP.POP.TOTL",
+          "name": "Population",
           "latest_year": 2024,
           "countries_with_data": 54,
           "status": "pass"
         },
         {
-          "indicator": "NY.GDP.MKTP.KD.ZG",
-          "name": "GDP Growth (annual %)",
-          "latest_year": 2024,
-          "countries_with_data": 54,
-          "status": "pass"
-        },
-        {
-          "indicator": "SE.ADT.LITR.ZS",
-          "name": "Literacy Rate (adult %)",
-          "latest_year": 2024,
-          "countries_with_data": 52,
-          "status": "pass"
-        },
-        {
-          "indicator": "BX.KLT.DINV.WD.GD.ZS",
-          "name": "FDI Inflows (% of GDP)",
+          "indicator": "IT.NET.USER.ZS",
+          "name": "Internet Users (% of population)",
           "latest_year": 2024,
           "countries_with_data": 54,
           "status": "pass"
