@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-04T08:37:54.687451+00:00",
+  "last_run": "2026-07-05T08:53:52.861204+00:00",
   "dimensions": {
     "completeness": {
       "score": 89.0,
@@ -69,16 +69,16 @@
           "status": "pass"
         },
         {
-          "indicator": "SP.POP.TOTL",
-          "name": "Population",
+          "indicator": "SP.DYN.LE00.IN",
+          "name": "Life Expectancy at Birth",
           "total_records": 1350,
           "non_null": 1350,
           "completeness_pct": 100.0,
           "status": "pass"
         },
         {
-          "indicator": "SP.DYN.LE00.IN",
-          "name": "Life Expectancy at Birth",
+          "indicator": "SP.POP.TOTL",
+          "name": "Population",
           "total_records": 1350,
           "non_null": 1350,
           "completeness_pct": 100.0,
@@ -195,6 +195,20 @@
       "score": 99.0,
       "details": [
         {
+          "indicator": "SP.POP.TOTL",
+          "name": "Population",
+          "latest_year": 2024,
+          "countries_with_data": 54,
+          "status": "pass"
+        },
+        {
+          "indicator": "IT.NET.USER.ZS",
+          "name": "Internet Users (% of population)",
+          "latest_year": 2024,
+          "countries_with_data": 54,
+          "status": "pass"
+        },
+        {
           "indicator": "FP.CPI.TOTL.ZG",
           "name": "Inflation (CPI, annual %)",
           "latest_year": 2024,
@@ -211,20 +225,6 @@
         {
           "indicator": "SP.DYN.LE00.IN",
           "name": "Life Expectancy at Birth",
-          "latest_year": 2024,
-          "countries_with_data": 54,
-          "status": "pass"
-        },
-        {
-          "indicator": "SP.POP.TOTL",
-          "name": "Population",
-          "latest_year": 2024,
-          "countries_with_data": 54,
-          "status": "pass"
-        },
-        {
-          "indicator": "IT.NET.USER.ZS",
-          "name": "Internet Users (% of population)",
           "latest_year": 2024,
           "countries_with_data": 54,
           "status": "pass"
