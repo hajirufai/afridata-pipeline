@@ -2641,15 +2641,15 @@
   "electricity_access": [
     {
       "rank": 1,
-      "country": "Egypt",
-      "iso3": "EGY",
+      "country": "Tunisia",
+      "iso3": "TUN",
       "value": 100.0,
       "year": 2023
     },
     {
       "rank": 2,
-      "country": "Morocco",
-      "iso3": "MAR",
+      "country": "Seychelles",
+      "iso3": "SYC",
       "value": 100.0,
       "year": 2023
     },
@@ -2662,8 +2662,8 @@
     },
     {
       "rank": 4,
-      "country": "Tunisia",
-      "iso3": "TUN",
+      "country": "Morocco",
+      "iso3": "MAR",
       "value": 100.0,
       "year": 2023
     },
@@ -2676,8 +2676,8 @@
     },
     {
       "rank": 6,
-      "country": "Seychelles",
-      "iso3": "SYC",
+      "country": "Egypt",
+      "iso3": "EGY",
       "value": 100.0,
       "year": 2023
     },
@@ -2886,15 +2886,15 @@
     },
     {
       "rank": 36,
-      "country": "Angola",
-      "iso3": "AGO",
+      "country": "Guinea",
+      "iso3": "GIN",
       "value": 51.1,
       "year": 2023
     },
     {
       "rank": 37,
-      "country": "Guinea",
-      "iso3": "GIN",
+      "country": "Angola",
+      "iso3": "AGO",
       "value": 51.1,
       "year": 2023
     },
@@ -2907,15 +2907,15 @@
     },
     {
       "rank": 39,
-      "country": "Mauritania",
-      "iso3": "MRT",
+      "country": "Somalia",
+      "iso3": "SOM",
       "value": 50.3,
       "year": 2023
     },
     {
       "rank": 40,
-      "country": "Somalia",
-      "iso3": "SOM",
+      "country": "Mauritania",
+      "iso3": "MRT",
       "value": 50.3,
       "year": 2023
     },
