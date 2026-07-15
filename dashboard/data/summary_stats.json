@@ -73,10 +73,10 @@
     "name": "Access to Electricity (%)",
     "category": "Infrastructure",
     "unit": "%",
-    "avg": 59.87,
+    "avg": 61.89,
     "min": 5.4,
     "max": 100.0,
-    "median": 58.25,
+    "median": 60.85,
     "countries": 54
   },
   "literacy_rate": {

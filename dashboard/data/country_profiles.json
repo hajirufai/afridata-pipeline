@@ -117,6 +117,10 @@
         {
           "year": 2023,
           "value": 100.0
+        },
+        {
+          "year": 2024,
+          "value": 100.0
         }
       ],
       "fdi_inflows": [
@@ -961,7 +965,7 @@
     "lat": -8.81155,
     "lng": 13.242,
     "latest": {
-      "electricity_access": 51.1,
+      "electricity_access": 55.5,
       "fdi_inflows": -1.08,
       "gdp": 103080538044.06,
       "gdp_growth": 4.95,
@@ -1069,6 +1073,10 @@
         {
           "year": 2023,
           "value": 51.1
+        },
+        {
+          "year": 2024,
+          "value": 55.5
         }
       ],
       "fdi_inflows": [
@@ -1917,7 +1925,7 @@
     "lat": 6.4779,
     "lng": 2.6323,
     "latest": {
-      "electricity_access": 57.0,
+      "electricity_access": 59.0,
       "fdi_inflows": 2.53,
       "gdp": 21482643706.42,
       "gdp_growth": 7.45,
@@ -2025,6 +2033,10 @@
         {
           "year": 2023,
           "value": 57.0
+        },
+        {
+          "year": 2024,
+          "value": 59.0
         }
       ],
       "fdi_inflows": [
@@ -2885,7 +2897,7 @@
     "lat": -24.6544,
     "lng": 25.9201,
     "latest": {
-      "electricity_access": 76.0,
+      "electricity_access": 80.2,
       "fdi_inflows": 2.42,
       "gdp": 19286251067.51,
       "gdp_growth": -2.78,
@@ -2993,6 +3005,10 @@
         {
           "year": 2023,
           "value": 76.0
+        },
+        {
+          "year": 2024,
+          "value": 80.2
         }
       ],
       "fdi_inflows": [
@@ -3825,7 +3841,7 @@
     "lat": 12.3605,
     "lng": -1.53395,
     "latest": {
-      "electricity_access": 21.7,
+      "electricity_access": 34.0,
       "fdi_inflows": -0.87,
       "gdp": 23136514855.76,
       "gdp_growth": 4.83,
@@ -3933,6 +3949,10 @@
         {
           "year": 2023,
           "value": 21.7
+        },
+        {
+          "year": 2024,
+          "value": 34.0
         }
       ],
       "fdi_inflows": [
@@ -4805,7 +4825,7 @@
     "lat": -3.3784,
     "lng": 29.3639,
     "latest": {
-      "electricity_access": 11.6,
+      "electricity_access": 20.1,
       "fdi_inflows": 1.1,
       "gdp": 3037579858.38,
       "gdp_growth": 4.11,
@@ -4913,6 +4933,10 @@
         {
           "year": 2023,
           "value": 11.6
+        },
+        {
+          "year": 2024,
+          "value": 20.1
         }
       ],
       "fdi_inflows": [
@@ -5761,7 +5785,7 @@
     "lat": 14.9218,
     "lng": -23.5087,
     "latest": {
-      "electricity_access": 98.6,
+      "electricity_access": 98.4,
       "fdi_inflows": 4.05,
       "gdp": 2713721857.39,
       "gdp_growth": 6.99,
@@ -5869,6 +5893,10 @@
         {
           "year": 2023,
           "value": 98.6
+        },
+        {
+          "year": 2024,
+          "value": 98.4
         }
       ],
       "fdi_inflows": [
@@ -6825,6 +6853,10 @@
         {
           "year": 2023,
           "value": 72.0
+        },
+        {
+          "year": 2024,
+          "value": 72.0
         }
       ],
       "fdi_inflows": [
@@ -7673,7 +7705,7 @@
     "lat": 5.63056,
     "lng": 21.6407,
     "latest": {
-      "electricity_access": 17.6,
+      "electricity_access": 18.2,
       "fdi_inflows": 1.47,
       "gdp": 2751494281.07,
       "gdp_growth": 1.5,
@@ -7781,6 +7813,10 @@
         {
           "year": 2023,
           "value": 17.6
+        },
+        {
+          "year": 2024,
+          "value": 18.2
         }
       ],
       "fdi_inflows": [
@@ -8613,7 +8649,7 @@
     "lat": 12.1048,
     "lng": 15.0445,
     "latest": {
-      "electricity_access": 12.0,
+      "electricity_access": 13.4,
       "fdi_inflows": 5.12,
       "gdp": 19906706689.76,
       "gdp_growth": 4.95,
@@ -8721,6 +8757,10 @@
         {
           "year": 2023,
           "value": 12.0
+        },
+        {
+          "year": 2024,
+          "value": 13.4
         }
       ],
       "fdi_inflows": [
@@ -9569,7 +9609,7 @@
     "lat": -11.6986,
     "lng": 43.2418,
     "latest": {
-      "electricity_access": 89.8,
+      "electricity_access": 91.7,
       "fdi_inflows": 0.44,
       "gdp": 1610082688.27,
       "gdp_growth": 3.3,
@@ -9677,6 +9717,10 @@
         {
           "year": 2023,
           "value": 89.8
+        },
+        {
+          "year": 2024,
+          "value": 91.7
         }
       ],
       "fdi_inflows": [
@@ -10513,7 +10557,7 @@
     "lat": -4.2767,
     "lng": 15.2662,
     "latest": {
-      "electricity_access": 51.3,
+      "electricity_access": 53.0,
       "fdi_inflows": 3.84,
       "gdp": 15719986076.65,
       "gdp_growth": 2.1,
@@ -10621,6 +10665,10 @@
         {
           "year": 2023,
           "value": 51.3
+        },
+        {
+          "year": 2024,
+          "value": 53.0
         }
       ],
       "fdi_inflows": [
@@ -11457,7 +11505,7 @@
     "lat": -4.325,
     "lng": 15.3222,
     "latest": {
-      "electricity_access": 22.1,
+      "electricity_access": 22.5,
       "fdi_inflows": 3.85,
       "gdp": 75716176105.07,
       "gdp_growth": 6.1,
@@ -11565,6 +11613,10 @@
         {
           "year": 2023,
           "value": 22.1
+        },
+        {
+          "year": 2024,
+          "value": 22.5
         }
       ],
       "fdi_inflows": [
@@ -12385,7 +12437,7 @@
     "lat": 5.332,
     "lng": -4.0305,
     "latest": {
-      "electricity_access": 72.4,
+      "electricity_access": 72.9,
       "fdi_inflows": 3.58,
       "gdp": 87113179149.28,
       "gdp_growth": 6.02,
@@ -12488,11 +12540,15 @@
         },
         {
           "year": 2022,
-          "value": 72.0
+          "value": 70.4
         },
         {
           "year": 2023,
           "value": 72.4
+        },
+        {
+          "year": 2024,
+          "value": 72.9
         }
       ],
       "fdi_inflows": [
@@ -13345,7 +13401,7 @@
     "lat": 11.5806,
     "lng": 43.1425,
     "latest": {
-      "electricity_access": 65.2,
+      "electricity_access": 69.2,
       "fdi_inflows": 1.63,
       "gdp": 4152145939.98,
       "gdp_growth": 6.98,
@@ -13452,6 +13508,10 @@
         {
           "year": 2023,
           "value": 65.2
+        },
+        {
+          "year": 2024,
+          "value": 69.2
         }
       ],
       "fdi_inflows": [
@@ -14331,6 +14391,10 @@
         {
           "year": 2023,
           "value": 100.0
+        },
+        {
+          "year": 2024,
+          "value": 100.0
         }
       ],
       "fdi_inflows": [
@@ -15195,7 +15259,7 @@
     "lat": 3.7523,
     "lng": 8.7741,
     "latest": {
-      "electricity_access": 66.9,
+      "electricity_access": 65.1,
       "fdi_inflows": 1.42,
       "gdp": 13254388261.13,
       "gdp_growth": 0.4,
@@ -15303,6 +15367,10 @@
         {
           "year": 2023,
           "value": 66.9
+        },
+        {
+          "year": 2024,
+          "value": 65.1
         }
       ],
       "fdi_inflows": [
@@ -16139,7 +16207,7 @@
     "lat": 15.3315,
     "lng": 38.9183,
     "latest": {
-      "electricity_access": 54.4,
+      "electricity_access": 55.3,
       "fdi_inflows": 1.89,
       "gdp": 2065001626.02,
       "gdp_growth": 8.68,
@@ -16241,11 +16309,15 @@
         },
         {
           "year": 2022,
-          "value": 53.4
+          "value": 55.4
         },
         {
           "year": 2023,
           "value": 54.4
+        },
+        {
+          "year": 2024,
+          "value": 55.3
         }
       ],
       "fdi_inflows": [
@@ -16797,7 +16869,7 @@
     "lat": -26.5225,
     "lng": 31.4659,
     "latest": {
-      "electricity_access": 86.4,
+      "electricity_access": 89.3,
       "fdi_inflows": 1.55,
       "gdp": 4858885840.77,
       "gdp_growth": 3.03,
@@ -16905,6 +16977,10 @@
         {
           "year": 2023,
           "value": 86.4
+        },
+        {
+          "year": 2024,
+          "value": 89.3
         }
       ],
       "fdi_inflows": [
@@ -17725,7 +17801,7 @@
     "lat": 9.02274,
     "lng": 38.7468,
     "latest": {
-      "electricity_access": 55.4,
+      "electricity_access": 56.6,
       "fdi_inflows": 2.69,
       "gdp": 149740297952.38,
       "gdp_growth": 7.61,
@@ -17828,11 +17904,15 @@
         },
         {
           "year": 2022,
-          "value": 55.4
+          "value": 55.0
         },
         {
           "year": 2023,
           "value": 55.4
+        },
+        {
+          "year": 2024,
+          "value": 56.6
         }
       ],
       "fdi_inflows": [
@@ -18693,7 +18773,7 @@
     "lat": 0.38832,
     "lng": 9.45162,
     "latest": {
-      "electricity_access": 94.1,
+      "electricity_access": 95.1,
       "fdi_inflows": 5.48,
       "gdp": 20895684425.68,
       "gdp_growth": 3.39,
@@ -18801,6 +18881,10 @@
         {
           "year": 2023,
           "value": 94.1
+        },
+        {
+          "year": 2024,
+          "value": 95.1
         }
       ],
       "fdi_inflows": [
@@ -19637,7 +19721,7 @@
     "lat": 13.4495,
     "lng": -16.5885,
     "latest": {
-      "electricity_access": 66.9,
+      "electricity_access": 69.0,
       "fdi_inflows": 9.66,
       "gdp": 2404888737.55,
       "gdp_growth": 5.55,
@@ -19745,6 +19829,10 @@
         {
           "year": 2023,
           "value": 66.9
+        },
+        {
+          "year": 2024,
+          "value": 69.0
         }
       ],
       "fdi_inflows": [
@@ -20593,7 +20681,7 @@
     "lat": 5.57045,
     "lng": -0.20795,
     "latest": {
-      "electricity_access": 89.5,
+      "electricity_access": 91.9,
       "fdi_inflows": 2.12,
       "gdp": 83288585604.03,
       "gdp_growth": 5.85,
@@ -20628,7 +20716,7 @@
         },
         {
           "year": 2005,
-          "value": 41.3
+          "value": 41.2
         },
         {
           "year": 2006,
@@ -20701,6 +20789,10 @@
         {
           "year": 2023,
           "value": 89.5
+        },
+        {
+          "year": 2024,
+          "value": 91.9
         }
       ],
       "fdi_inflows": [
@@ -21553,7 +21645,7 @@
     "lat": 9.51667,
     "lng": -13.7,
     "latest": {
-      "electricity_access": 51.1,
+      "electricity_access": 53.8,
       "fdi_inflows": 5.61,
       "gdp": 25008678293.41,
       "gdp_growth": 5.35,
@@ -21661,6 +21753,10 @@
         {
           "year": 2023,
           "value": 51.1
+        },
+        {
+          "year": 2024,
+          "value": 53.8
         }
       ],
       "fdi_inflows": [
@@ -22485,7 +22581,7 @@
     "lat": 11.8037,
     "lng": -15.1804,
     "latest": {
-      "electricity_access": 40.5,
+      "electricity_access": 43.7,
       "fdi_inflows": 1.21,
       "gdp": 2197777209.94,
       "gdp_growth": 4.41,
@@ -22585,6 +22681,10 @@
         {
           "year": 2023,
           "value": 40.5
+        },
+        {
+          "year": 2024,
+          "value": 43.7
         }
       ],
       "fdi_inflows": [
@@ -23429,7 +23529,7 @@
     "lat": -1.27975,
     "lng": 36.8126,
     "latest": {
-      "electricity_access": 76.2,
+      "electricity_access": 77.0,
       "fdi_inflows": 0.38,
       "gdp": 120397537849.83,
       "gdp_growth": 4.66,
@@ -23537,6 +23637,10 @@
         {
           "year": 2023,
           "value": 76.2
+        },
+        {
+          "year": 2024,
+          "value": 77.0
         }
       ],
       "fdi_inflows": [
@@ -24373,7 +24477,7 @@
     "lat": -29.5208,
     "lng": 27.7167,
     "latest": {
-      "electricity_access": 57.3,
+      "electricity_access": 60.6,
       "fdi_inflows": -0.53,
       "gdp": 2391282547.8,
       "gdp_growth": 5.23,
@@ -24481,6 +24585,10 @@
         {
           "year": 2023,
           "value": 57.3
+        },
+        {
+          "year": 2024,
+          "value": 60.6
         }
       ],
       "fdi_inflows": [
@@ -25337,7 +25445,7 @@
     "lat": 6.30039,
     "lng": -10.7957,
     "latest": {
-      "electricity_access": 32.5,
+      "electricity_access": 34.9,
       "fdi_inflows": 9.87,
       "gdp": 4779300900.0,
       "gdp_growth": 4.02,
@@ -25417,6 +25525,10 @@
         {
           "year": 2023,
           "value": 32.5
+        },
+        {
+          "year": 2024,
+          "value": 34.9
         }
       ],
       "fdi_inflows": [
@@ -26245,7 +26357,7 @@
     "lat": 32.8578,
     "lng": 13.1072,
     "latest": {
-      "electricity_access": 73.2,
+      "electricity_access": 77.4,
       "fdi_inflows": 1.81,
       "gdp": 48487151215.35,
       "gdp_growth": 1.9,
@@ -26352,6 +26464,10 @@
         {
           "year": 2023,
           "value": 73.2
+        },
+        {
+          "year": 2024,
+          "value": 77.4
         }
       ],
       "fdi_inflows": [
@@ -27147,7 +27263,7 @@
     "lat": -20.4667,
     "lng": 45.7167,
     "latest": {
-      "electricity_access": 39.4,
+      "electricity_access": 42.5,
       "fdi_inflows": 3.45,
       "gdp": 17592832696.13,
       "gdp_growth": 4.32,
@@ -27255,6 +27371,10 @@
         {
           "year": 2023,
           "value": 39.4
+        },
+        {
+          "year": 2024,
+          "value": 42.5
         }
       ],
       "fdi_inflows": [
@@ -28211,6 +28331,10 @@
         {
           "year": 2023,
           "value": 15.6
+        },
+        {
+          "year": 2024,
+          "value": 15.6
         }
       ],
       "fdi_inflows": [
@@ -29055,7 +29179,7 @@
     "lat": 13.5667,
     "lng": -7.50034,
     "latest": {
-      "electricity_access": 54.5,
+      "electricity_access": 49.5,
       "fdi_inflows": 3.44,
       "gdp": 26761281076.77,
       "gdp_growth": 5.02,
@@ -29163,6 +29287,10 @@
         {
           "year": 2023,
           "value": 54.5
+        },
+        {
+          "year": 2024,
+          "value": 49.5
         }
       ],
       "fdi_inflows": [
@@ -30023,7 +30151,7 @@
     "lat": 18.2367,
     "lng": -15.9824,
     "latest": {
-      "electricity_access": 50.3,
+      "electricity_access": 52.2,
       "fdi_inflows": 13.24,
       "gdp": 10879212033.48,
       "gdp_growth": 6.31,
@@ -30131,6 +30259,10 @@
         {
           "year": 2023,
           "value": 50.3
+        },
+        {
+          "year": 2024,
+          "value": 52.2
         }
       ],
       "fdi_inflows": [
@@ -31086,6 +31218,10 @@
         },
         {
           "year": 2023,
+          "value": 100.0
+        },
+        {
+          "year": 2024,
           "value": 100.0
         }
       ],
@@ -32063,6 +32199,10 @@
         {
           "year": 2023,
           "value": 100.0
+        },
+        {
+          "year": 2024,
+          "value": 100.0
         }
       ],
       "fdi_inflows": [
@@ -32919,7 +33059,7 @@
     "lat": -25.9664,
     "lng": 32.5713,
     "latest": {
-      "electricity_access": 36.0,
+      "electricity_access": 36.9,
       "fdi_inflows": 15.42,
       "gdp": 22752244245.47,
       "gdp_growth": 2.15,
@@ -33027,6 +33167,10 @@
         {
           "year": 2023,
           "value": 36.0
+        },
+        {
+          "year": 2024,
+          "value": 36.9
         }
       ],
       "fdi_inflows": [
@@ -33863,7 +34007,7 @@
     "lat": -22.5648,
     "lng": 17.0931,
     "latest": {
-      "electricity_access": 56.7,
+      "electricity_access": 59.3,
       "fdi_inflows": 14.18,
       "gdp": 13641190683.46,
       "gdp_growth": 3.78,
@@ -33971,6 +34115,10 @@
         {
           "year": 2023,
           "value": 56.7
+        },
+        {
+          "year": 2024,
+          "value": 59.3
         }
       ],
       "fdi_inflows": [
@@ -34811,7 +34959,7 @@
     "lat": 13.514,
     "lng": 2.1073,
     "latest": {
-      "electricity_access": 20.1,
+      "electricity_access": 21.3,
       "fdi_inflows": 1.81,
       "gdp": 19729786046.76,
       "gdp_growth": 8.32,
@@ -34919,6 +35067,10 @@
         {
           "year": 2023,
           "value": 20.1
+        },
+        {
+          "year": 2024,
+          "value": 21.3
         }
       ],
       "fdi_inflows": [
@@ -35775,7 +35927,7 @@
     "lat": 9.05804,
     "lng": 7.48906,
     "latest": {
-      "electricity_access": 61.2,
+      "electricity_access": 62.5,
       "fdi_inflows": 0.64,
       "gdp": 252261880140.27,
       "gdp_growth": 4.07,
@@ -35883,6 +36035,10 @@
         {
           "year": 2023,
           "value": 61.2
+        },
+        {
+          "year": 2024,
+          "value": 62.5
         }
       ],
       "fdi_inflows": [
@@ -36735,7 +36891,7 @@
     "lat": -1.95325,
     "lng": 30.0587,
     "latest": {
-      "electricity_access": 63.9,
+      "electricity_access": 72.0,
       "fdi_inflows": 3.79,
       "gdp": 15111064181.97,
       "gdp_growth": 7.23,
@@ -36843,6 +36999,10 @@
         {
           "year": 2023,
           "value": 63.9
+        },
+        {
+          "year": 2024,
+          "value": 72.0
         }
       ],
       "fdi_inflows": [
@@ -37695,7 +37855,7 @@
     "lat": 0.20618,
     "lng": 6.6071,
     "latest": {
-      "electricity_access": 81.3,
+      "electricity_access": 77.7,
       "fdi_inflows": -2.02,
       "gdp": 824992558.05,
       "gdp_growth": 1.48,
@@ -37803,6 +37963,10 @@
         {
           "year": 2023,
           "value": 81.3
+        },
+        {
+          "year": 2024,
+          "value": 77.7
         }
       ],
       "fdi_inflows": [
@@ -38647,7 +38811,7 @@
     "lat": 14.7247,
     "lng": -17.4734,
     "latest": {
-      "electricity_access": 74.2,
+      "electricity_access": 82.9,
       "fdi_inflows": 6.27,
       "gdp": 32169996051.85,
       "gdp_growth": 6.46,
@@ -38755,6 +38919,10 @@
         {
           "year": 2023,
           "value": 74.2
+        },
+        {
+          "year": 2024,
+          "value": 82.9
         }
       ],
       "fdi_inflows": [
@@ -39738,6 +39906,10 @@
         {
           "year": 2023,
           "value": 100.0
+        },
+        {
+          "year": 2024,
+          "value": 100.0
         }
       ],
       "fdi_inflows": [
@@ -40473,7 +40645,7 @@
     "lat": 8.4821,
     "lng": -13.2134,
     "latest": {
-      "electricity_access": 35.5,
+      "electricity_access": 39.2,
       "fdi_inflows": 1.75,
       "gdp": 6971127234.07,
       "gdp_growth": 4.29,
@@ -40581,6 +40753,10 @@
         {
           "year": 2023,
           "value": 35.5
+        },
+        {
+          "year": 2024,
+          "value": 39.2
         }
       ],
       "fdi_inflows": [
@@ -41409,7 +41585,7 @@
     "lat": 2.07515,
     "lng": 45.3254,
     "latest": {
-      "electricity_access": 50.3,
+      "electricity_access": 54.4,
       "fdi_inflows": 6.39,
       "gdp": 11967000000.0,
       "gdp_growth": 4.11,
@@ -41516,6 +41692,10 @@
         {
           "year": 2023,
           "value": 50.3
+        },
+        {
+          "year": 2024,
+          "value": 54.4
         }
       ],
       "fdi_inflows": [
@@ -42243,7 +42423,7 @@
     "lat": -25.746,
     "lng": 28.1871,
     "latest": {
-      "electricity_access": 87.7,
+      "electricity_access": 90.2,
       "fdi_inflows": 0.58,
       "gdp": 401144998373.59,
       "gdp_growth": 0.53,
@@ -42351,6 +42531,10 @@
         {
           "year": 2023,
           "value": 87.7
+        },
+        {
+          "year": 2024,
+          "value": 90.2
         }
       ],
       "fdi_inflows": [
@@ -43307,6 +43491,10 @@
         {
           "year": 2023,
           "value": 5.4
+        },
+        {
+          "year": 2024,
+          "value": 5.4
         }
       ],
       "fdi_inflows": [
@@ -43918,6 +44106,10 @@
         },
         {
           "year": 2023,
+          "value": 66.0
+        },
+        {
+          "year": 2024,
           "value": 66.0
         }
       ],
@@ -44675,7 +44867,7 @@
     "lat": -6.17486,
     "lng": 35.7382,
     "latest": {
-      "electricity_access": 48.3,
+      "electricity_access": 52.4,
       "fdi_inflows": 2.17,
       "gdp": 79235713444.98,
       "gdp_growth": 5.53,
@@ -44783,6 +44975,10 @@
         {
           "year": 2023,
           "value": 48.3
+        },
+        {
+          "year": 2024,
+          "value": 52.4
         }
       ],
       "fdi_inflows": [
@@ -45639,7 +45835,7 @@
     "lat": 6.1228,
     "lng": 1.2255,
     "latest": {
-      "electricity_access": 59.2,
+      "electricity_access": 61.1,
       "fdi_inflows": 0.79,
       "gdp": 10643440332.24,
       "gdp_growth": 6.53,
@@ -45747,6 +45943,10 @@
         {
           "year": 2023,
           "value": 59.2
+        },
+        {
+          "year": 2024,
+          "value": 61.1
         }
       ],
       "fdi_inflows": [
@@ -46723,6 +46923,10 @@
         {
           "year": 2023,
           "value": 100.0
+        },
+        {
+          "year": 2024,
+          "value": 100.0
         }
       ],
       "fdi_inflows": [
@@ -47591,7 +47795,7 @@
     "lat": 0.314269,
     "lng": 32.5729,
     "latest": {
-      "electricity_access": 51.5,
+      "electricity_access": 55.3,
       "fdi_inflows": 6.04,
       "gdp": 53911907079.05,
       "gdp_growth": 6.06,
@@ -47699,6 +47903,10 @@
         {
           "year": 2023,
           "value": 51.5
+        },
+        {
+          "year": 2024,
+          "value": 55.3
         }
       ],
       "fdi_inflows": [
@@ -48567,7 +48775,7 @@
     "lat": -15.3982,
     "lng": 28.2937,
     "latest": {
-      "electricity_access": 51.1,
+      "electricity_access": 53.6,
       "fdi_inflows": 9.32,
       "gdp": 25303185342.25,
       "gdp_growth": 3.82,
@@ -48675,6 +48883,10 @@
         {
           "year": 2023,
           "value": 51.1
+        },
+        {
+          "year": 2024,
+          "value": 53.6
         }
       ],
       "fdi_inflows": [
@@ -49642,6 +49854,10 @@
         },
         {
           "year": 2023,
+          "value": 62.0
+        },
+        {
+          "year": 2024,
           "value": 62.0
         }
       ],
