@@ -23,21 +23,21 @@
     "name": "Population",
     "category": "Demographics",
     "unit": "count",
-    "avg": null,
-    "min": null,
-    "max": null,
-    "median": null,
-    "countries": 0
+    "avg": 28003645.91,
+    "min": 121354.0,
+    "max": 232679478.0,
+    "median": 14608754.5,
+    "countries": 54
   },
   "inflation": {
     "name": "Inflation (CPI, annual %)",
     "category": "Economy",
     "unit": "%",
-    "avg": null,
-    "min": null,
-    "max": null,
-    "median": null,
-    "countries": 0
+    "avg": 14.11,
+    "min": 0.31,
+    "max": 138.81,
+    "median": 4.21,
+    "countries": 52
   },
   "unemployment": {
     "name": "Unemployment (% of labor force)",
@@ -101,7 +101,7 @@
   },
   "_africa_totals": {
     "total_gdp": 2915751183295.0,
-    "total_population": 0,
+    "total_population": 1512196879.0,
     "countries_tracked": 54,
     "indicators_tracked": 10
   }
