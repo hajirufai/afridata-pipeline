@@ -3,61 +3,61 @@
     "name": "GDP (current US$)",
     "category": "Economy",
     "unit": "US$",
-    "avg": 53995392283.24,
-    "min": 824992558.05,
-    "max": 401144998373.59,
-    "median": 19818246368.26,
-    "countries": 54
+    "avg": null,
+    "min": null,
+    "max": null,
+    "median": null,
+    "countries": 0
   },
   "gdp_growth": {
     "name": "GDP Growth (annual %)",
     "category": "Economy",
     "unit": "%",
-    "avg": 3.68,
-    "min": -13.96,
-    "max": 8.68,
-    "median": 4.2,
-    "countries": 54
+    "avg": null,
+    "min": null,
+    "max": null,
+    "median": null,
+    "countries": 0
   },
   "population": {
     "name": "Population",
     "category": "Demographics",
     "unit": "count",
-    "avg": 28003645.91,
-    "min": 121354.0,
-    "max": 232679478.0,
-    "median": 14608754.5,
-    "countries": 54
+    "avg": null,
+    "min": null,
+    "max": null,
+    "median": null,
+    "countries": 0
   },
   "inflation": {
     "name": "Inflation (CPI, annual %)",
     "category": "Economy",
     "unit": "%",
-    "avg": 14.11,
-    "min": 0.31,
-    "max": 138.81,
-    "median": 4.21,
-    "countries": 52
+    "avg": null,
+    "min": null,
+    "max": null,
+    "median": null,
+    "countries": 0
   },
   "unemployment": {
     "name": "Unemployment (% of labor force)",
     "category": "Labor",
     "unit": "%",
-    "avg": 8.95,
-    "min": 0.38,
-    "max": 34.64,
-    "median": 5.95,
-    "countries": 53
+    "avg": null,
+    "min": null,
+    "max": null,
+    "median": null,
+    "countries": 0
   },
   "life_expectancy": {
     "name": "Life Expectancy at Birth",
     "category": "Health",
     "unit": "years",
-    "avg": 65.69,
-    "min": 54.63,
-    "max": 76.71,
-    "median": 65.85,
-    "countries": 54
+    "avg": null,
+    "min": null,
+    "max": null,
+    "median": null,
+    "countries": 0
   },
   "internet_users": {
     "name": "Internet Users (% of population)",
@@ -100,8 +100,8 @@
     "countries": 54
   },
   "_africa_totals": {
-    "total_gdp": 2915751183295.0,
-    "total_population": 1512196879.0,
+    "total_gdp": 0,
+    "total_population": 0,
     "countries_tracked": 54,
     "indicators_tracked": 10
   }
