@@ -13,11 +13,11 @@
     "name": "GDP Growth (annual %)",
     "category": "Economy",
     "unit": "%",
-    "avg": null,
-    "min": null,
-    "max": null,
-    "median": null,
-    "countries": 0
+    "avg": 3.68,
+    "min": -13.96,
+    "max": 8.68,
+    "median": 4.2,
+    "countries": 54
   },
   "population": {
     "name": "Population",

@@ -12,6 +12,7 @@
       "electricity_access": 100.0,
       "fdi_inflows": 0.46,
       "gdp": 269322281664.77,
+      "gdp_growth": 3.7,
       "inflation": 4.05,
       "internet_users": 77.42,
       "life_expectancy": 76.47,
@@ -324,6 +325,108 @@
         {
           "year": 2024,
           "value": 269322281664.77
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 3.8
+        },
+        {
+          "year": 2001,
+          "value": 3.0
+        },
+        {
+          "year": 2002,
+          "value": 5.4
+        },
+        {
+          "year": 2003,
+          "value": 6.5
+        },
+        {
+          "year": 2004,
+          "value": 4.5
+        },
+        {
+          "year": 2005,
+          "value": 5.4
+        },
+        {
+          "year": 2006,
+          "value": 2.9
+        },
+        {
+          "year": 2007,
+          "value": 3.1
+        },
+        {
+          "year": 2008,
+          "value": 2.5
+        },
+        {
+          "year": 2009,
+          "value": 1.2
+        },
+        {
+          "year": 2010,
+          "value": 4.8
+        },
+        {
+          "year": 2011,
+          "value": 3.0
+        },
+        {
+          "year": 2012,
+          "value": 2.4
+        },
+        {
+          "year": 2013,
+          "value": 2.6
+        },
+        {
+          "year": 2014,
+          "value": 4.1
+        },
+        {
+          "year": 2015,
+          "value": 3.2
+        },
+        {
+          "year": 2016,
+          "value": 3.9
+        },
+        {
+          "year": 2017,
+          "value": 1.5
+        },
+        {
+          "year": 2018,
+          "value": 1.4
+        },
+        {
+          "year": 2019,
+          "value": 0.9
+        },
+        {
+          "year": 2020,
+          "value": -5.0
+        },
+        {
+          "year": 2021,
+          "value": 3.8
+        },
+        {
+          "year": 2022,
+          "value": 3.6
+        },
+        {
+          "year": 2023,
+          "value": 4.1
+        },
+        {
+          "year": 2024,
+          "value": 3.7
         }
       ],
       "inflation": [
@@ -865,6 +968,7 @@
       "electricity_access": 55.5,
       "fdi_inflows": -1.08,
       "gdp": 103080538044.06,
+      "gdp_growth": 4.95,
       "inflation": 28.24,
       "internet_users": 40.7,
       "life_expectancy": 64.81,
@@ -1177,6 +1281,108 @@
         {
           "year": 2024,
           "value": 103080538044.06
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 3.05
+        },
+        {
+          "year": 2001,
+          "value": 4.21
+        },
+        {
+          "year": 2002,
+          "value": 13.67
+        },
+        {
+          "year": 2003,
+          "value": 3.49
+        },
+        {
+          "year": 2004,
+          "value": 11.42
+        },
+        {
+          "year": 2005,
+          "value": 14.15
+        },
+        {
+          "year": 2006,
+          "value": 11.84
+        },
+        {
+          "year": 2007,
+          "value": 13.0
+        },
+        {
+          "year": 2008,
+          "value": 10.79
+        },
+        {
+          "year": 2009,
+          "value": 2.0
+        },
+        {
+          "year": 2010,
+          "value": 5.29
+        },
+        {
+          "year": 2011,
+          "value": 3.59
+        },
+        {
+          "year": 2012,
+          "value": 8.5
+        },
+        {
+          "year": 2013,
+          "value": 4.88
+        },
+        {
+          "year": 2014,
+          "value": 4.66
+        },
+        {
+          "year": 2015,
+          "value": 0.76
+        },
+        {
+          "year": 2016,
+          "value": -0.23
+        },
+        {
+          "year": 2017,
+          "value": -0.16
+        },
+        {
+          "year": 2018,
+          "value": -0.51
+        },
+        {
+          "year": 2019,
+          "value": -1.06
+        },
+        {
+          "year": 2020,
+          "value": -5.27
+        },
+        {
+          "year": 2021,
+          "value": 1.09
+        },
+        {
+          "year": 2022,
+          "value": 3.56
+        },
+        {
+          "year": 2023,
+          "value": 1.32
+        },
+        {
+          "year": 2024,
+          "value": 4.95
         }
       ],
       "inflation": [
@@ -1722,6 +1928,7 @@
       "electricity_access": 59.0,
       "fdi_inflows": 2.53,
       "gdp": 21482643706.42,
+      "gdp_growth": 7.45,
       "inflation": 1.16,
       "internet_users": 33.98,
       "life_expectancy": 60.96,
@@ -2034,6 +2241,108 @@
         {
           "year": 2024,
           "value": 21482643706.42
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 5.86
+        },
+        {
+          "year": 2001,
+          "value": 5.33
+        },
+        {
+          "year": 2002,
+          "value": 4.64
+        },
+        {
+          "year": 2003,
+          "value": 3.44
+        },
+        {
+          "year": 2004,
+          "value": 4.43
+        },
+        {
+          "year": 2005,
+          "value": 1.71
+        },
+        {
+          "year": 2006,
+          "value": 3.94
+        },
+        {
+          "year": 2007,
+          "value": 5.99
+        },
+        {
+          "year": 2008,
+          "value": 4.9
+        },
+        {
+          "year": 2009,
+          "value": 2.32
+        },
+        {
+          "year": 2010,
+          "value": 2.11
+        },
+        {
+          "year": 2011,
+          "value": 2.96
+        },
+        {
+          "year": 2012,
+          "value": 4.81
+        },
+        {
+          "year": 2013,
+          "value": 7.19
+        },
+        {
+          "year": 2014,
+          "value": 6.36
+        },
+        {
+          "year": 2015,
+          "value": 1.78
+        },
+        {
+          "year": 2016,
+          "value": 3.34
+        },
+        {
+          "year": 2017,
+          "value": 5.67
+        },
+        {
+          "year": 2018,
+          "value": 6.7
+        },
+        {
+          "year": 2019,
+          "value": 6.87
+        },
+        {
+          "year": 2020,
+          "value": 3.85
+        },
+        {
+          "year": 2021,
+          "value": 7.16
+        },
+        {
+          "year": 2022,
+          "value": 6.25
+        },
+        {
+          "year": 2023,
+          "value": 6.35
+        },
+        {
+          "year": 2024,
+          "value": 7.45
         }
       ],
       "inflation": [
@@ -2591,6 +2900,7 @@
       "electricity_access": 80.2,
       "fdi_inflows": 2.42,
       "gdp": 19286251067.51,
+      "gdp_growth": -2.78,
       "inflation": 2.82,
       "internet_users": 57.46,
       "life_expectancy": 69.29,
@@ -2903,6 +3213,108 @@
         {
           "year": 2024,
           "value": 19286251067.51
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 1.99
+        },
+        {
+          "year": 2001,
+          "value": 0.25
+        },
+        {
+          "year": 2002,
+          "value": 6.07
+        },
+        {
+          "year": 2003,
+          "value": 4.63
+        },
+        {
+          "year": 2004,
+          "value": 2.71
+        },
+        {
+          "year": 2005,
+          "value": 4.56
+        },
+        {
+          "year": 2006,
+          "value": 8.36
+        },
+        {
+          "year": 2007,
+          "value": 5.79
+        },
+        {
+          "year": 2008,
+          "value": 3.25
+        },
+        {
+          "year": 2009,
+          "value": -14.14
+        },
+        {
+          "year": 2010,
+          "value": 10.12
+        },
+        {
+          "year": 2011,
+          "value": 6.84
+        },
+        {
+          "year": 2012,
+          "value": -0.17
+        },
+        {
+          "year": 2013,
+          "value": 11.1
+        },
+        {
+          "year": 2014,
+          "value": 5.7
+        },
+        {
+          "year": 2015,
+          "value": -4.85
+        },
+        {
+          "year": 2016,
+          "value": 7.2
+        },
+        {
+          "year": 2017,
+          "value": 4.11
+        },
+        {
+          "year": 2018,
+          "value": 4.19
+        },
+        {
+          "year": 2019,
+          "value": 3.03
+        },
+        {
+          "year": 2020,
+          "value": -8.73
+        },
+        {
+          "year": 2021,
+          "value": 11.92
+        },
+        {
+          "year": 2022,
+          "value": 5.49
+        },
+        {
+          "year": 2023,
+          "value": 3.21
+        },
+        {
+          "year": 2024,
+          "value": -2.78
         }
       ],
       "inflation": [
@@ -3432,6 +3844,7 @@
       "electricity_access": 34.0,
       "fdi_inflows": -0.87,
       "gdp": 23136514855.76,
+      "gdp_growth": 4.83,
       "inflation": 4.19,
       "internet_users": 28.25,
       "life_expectancy": 61.29,
@@ -3744,6 +4157,108 @@
         {
           "year": 2024,
           "value": 23136514855.76
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 1.89
+        },
+        {
+          "year": 2001,
+          "value": 6.61
+        },
+        {
+          "year": 2002,
+          "value": 4.35
+        },
+        {
+          "year": 2003,
+          "value": 7.8
+        },
+        {
+          "year": 2004,
+          "value": 4.48
+        },
+        {
+          "year": 2005,
+          "value": 8.66
+        },
+        {
+          "year": 2006,
+          "value": 6.25
+        },
+        {
+          "year": 2007,
+          "value": 4.11
+        },
+        {
+          "year": 2008,
+          "value": 5.8
+        },
+        {
+          "year": 2009,
+          "value": 2.96
+        },
+        {
+          "year": 2010,
+          "value": 8.45
+        },
+        {
+          "year": 2011,
+          "value": 6.62
+        },
+        {
+          "year": 2012,
+          "value": 6.45
+        },
+        {
+          "year": 2013,
+          "value": 5.79
+        },
+        {
+          "year": 2014,
+          "value": 4.33
+        },
+        {
+          "year": 2015,
+          "value": 3.92
+        },
+        {
+          "year": 2016,
+          "value": 5.96
+        },
+        {
+          "year": 2017,
+          "value": 6.2
+        },
+        {
+          "year": 2018,
+          "value": 6.6
+        },
+        {
+          "year": 2019,
+          "value": 5.89
+        },
+        {
+          "year": 2020,
+          "value": 2.01
+        },
+        {
+          "year": 2021,
+          "value": 6.94
+        },
+        {
+          "year": 2022,
+          "value": 1.63
+        },
+        {
+          "year": 2023,
+          "value": 3.0
+        },
+        {
+          "year": 2024,
+          "value": 4.83
         }
       ],
       "inflation": [
@@ -4313,6 +4828,7 @@
       "electricity_access": 20.1,
       "fdi_inflows": 1.1,
       "gdp": 3037579858.38,
+      "gdp_growth": 4.11,
       "inflation": 20.21,
       "internet_users": 8.6,
       "life_expectancy": 63.82,
@@ -4617,6 +5133,108 @@
         {
           "year": 2024,
           "value": 3037579858.38
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": -0.86
+        },
+        {
+          "year": 2001,
+          "value": 2.06
+        },
+        {
+          "year": 2002,
+          "value": 4.45
+        },
+        {
+          "year": 2003,
+          "value": -1.22
+        },
+        {
+          "year": 2004,
+          "value": 4.83
+        },
+        {
+          "year": 2005,
+          "value": 0.9
+        },
+        {
+          "year": 2006,
+          "value": 5.41
+        },
+        {
+          "year": 2007,
+          "value": 3.44
+        },
+        {
+          "year": 2008,
+          "value": 4.91
+        },
+        {
+          "year": 2009,
+          "value": 3.79
+        },
+        {
+          "year": 2010,
+          "value": 5.09
+        },
+        {
+          "year": 2011,
+          "value": 4.02
+        },
+        {
+          "year": 2012,
+          "value": 4.42
+        },
+        {
+          "year": 2013,
+          "value": 4.92
+        },
+        {
+          "year": 2014,
+          "value": 4.24
+        },
+        {
+          "year": 2015,
+          "value": -0.4
+        },
+        {
+          "year": 2016,
+          "value": 3.2
+        },
+        {
+          "year": 2017,
+          "value": 3.83
+        },
+        {
+          "year": 2018,
+          "value": 5.34
+        },
+        {
+          "year": 2019,
+          "value": 4.46
+        },
+        {
+          "year": 2020,
+          "value": 0.31
+        },
+        {
+          "year": 2021,
+          "value": 3.24
+        },
+        {
+          "year": 2022,
+          "value": 2.32
+        },
+        {
+          "year": 2023,
+          "value": 3.25
+        },
+        {
+          "year": 2024,
+          "value": 4.11
         }
       ],
       "inflation": [
@@ -5170,6 +5788,7 @@
       "electricity_access": 98.4,
       "fdi_inflows": 4.05,
       "gdp": 2713721857.39,
+      "gdp_growth": 6.99,
       "inflation": 1.05,
       "internet_users": 74.74,
       "life_expectancy": 76.22,
@@ -5482,6 +6101,108 @@
         {
           "year": 2024,
           "value": 2713721857.39
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 14.28
+        },
+        {
+          "year": 2001,
+          "value": 2.23
+        },
+        {
+          "year": 2002,
+          "value": 5.25
+        },
+        {
+          "year": 2003,
+          "value": 4.18
+        },
+        {
+          "year": 2004,
+          "value": 10.2
+        },
+        {
+          "year": 2005,
+          "value": 6.91
+        },
+        {
+          "year": 2006,
+          "value": 7.98
+        },
+        {
+          "year": 2007,
+          "value": 15.17
+        },
+        {
+          "year": 2008,
+          "value": 7.04
+        },
+        {
+          "year": 2009,
+          "value": -1.5
+        },
+        {
+          "year": 2010,
+          "value": 1.84
+        },
+        {
+          "year": 2011,
+          "value": 3.92
+        },
+        {
+          "year": 2012,
+          "value": 1.08
+        },
+        {
+          "year": 2013,
+          "value": 0.63
+        },
+        {
+          "year": 2014,
+          "value": 0.7
+        },
+        {
+          "year": 2015,
+          "value": 0.94
+        },
+        {
+          "year": 2016,
+          "value": 4.28
+        },
+        {
+          "year": 2017,
+          "value": 4.55
+        },
+        {
+          "year": 2018,
+          "value": 3.71
+        },
+        {
+          "year": 2019,
+          "value": 6.95
+        },
+        {
+          "year": 2020,
+          "value": -20.81
+        },
+        {
+          "year": 2021,
+          "value": 7.03
+        },
+        {
+          "year": 2022,
+          "value": 15.84
+        },
+        {
+          "year": 2023,
+          "value": 4.79
+        },
+        {
+          "year": 2024,
+          "value": 6.99
         }
       ],
       "inflation": [
@@ -6027,6 +6748,7 @@
       "electricity_access": 72.0,
       "fdi_inflows": 1.67,
       "gdp": 53296694320.21,
+      "gdp_growth": 3.52,
       "inflation": 4.53,
       "internet_users": 46.26,
       "life_expectancy": 63.97,
@@ -6339,6 +7061,108 @@
         {
           "year": 2024,
           "value": 53296694320.21
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 3.83
+        },
+        {
+          "year": 2001,
+          "value": 4.32
+        },
+        {
+          "year": 2002,
+          "value": 4.48
+        },
+        {
+          "year": 2003,
+          "value": 5.45
+        },
+        {
+          "year": 2004,
+          "value": 7.05
+        },
+        {
+          "year": 2005,
+          "value": 2.23
+        },
+        {
+          "year": 2006,
+          "value": 3.81
+        },
+        {
+          "year": 2007,
+          "value": 4.33
+        },
+        {
+          "year": 2008,
+          "value": 2.85
+        },
+        {
+          "year": 2009,
+          "value": 2.58
+        },
+        {
+          "year": 2010,
+          "value": 2.9
+        },
+        {
+          "year": 2011,
+          "value": 3.38
+        },
+        {
+          "year": 2012,
+          "value": 4.63
+        },
+        {
+          "year": 2013,
+          "value": 5.0
+        },
+        {
+          "year": 2014,
+          "value": 5.72
+        },
+        {
+          "year": 2015,
+          "value": 5.67
+        },
+        {
+          "year": 2016,
+          "value": 4.54
+        },
+        {
+          "year": 2017,
+          "value": 3.54
+        },
+        {
+          "year": 2018,
+          "value": 3.96
+        },
+        {
+          "year": 2019,
+          "value": 3.48
+        },
+        {
+          "year": 2020,
+          "value": 0.26
+        },
+        {
+          "year": 2021,
+          "value": 3.34
+        },
+        {
+          "year": 2022,
+          "value": 3.74
+        },
+        {
+          "year": 2023,
+          "value": 3.35
+        },
+        {
+          "year": 2024,
+          "value": 3.52
         }
       ],
       "inflation": [
@@ -6884,6 +7708,7 @@
       "electricity_access": 18.2,
       "fdi_inflows": 1.47,
       "gdp": 2751494281.07,
+      "gdp_growth": 1.5,
       "inflation": 1.48,
       "internet_users": 13.78,
       "life_expectancy": 57.67,
@@ -7196,6 +8021,108 @@
         {
           "year": 2024,
           "value": 2751494281.07
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": -2.49
+        },
+        {
+          "year": 2001,
+          "value": 4.46
+        },
+        {
+          "year": 2002,
+          "value": 3.62
+        },
+        {
+          "year": 2003,
+          "value": -5.4
+        },
+        {
+          "year": 2004,
+          "value": 5.99
+        },
+        {
+          "year": 2005,
+          "value": 0.91
+        },
+        {
+          "year": 2006,
+          "value": 4.77
+        },
+        {
+          "year": 2007,
+          "value": 4.61
+        },
+        {
+          "year": 2008,
+          "value": 2.05
+        },
+        {
+          "year": 2009,
+          "value": 8.59
+        },
+        {
+          "year": 2010,
+          "value": 4.63
+        },
+        {
+          "year": 2011,
+          "value": 4.19
+        },
+        {
+          "year": 2012,
+          "value": 5.05
+        },
+        {
+          "year": 2013,
+          "value": -36.39
+        },
+        {
+          "year": 2014,
+          "value": 0.08
+        },
+        {
+          "year": 2015,
+          "value": 4.34
+        },
+        {
+          "year": 2016,
+          "value": 4.75
+        },
+        {
+          "year": 2017,
+          "value": 4.53
+        },
+        {
+          "year": 2018,
+          "value": 3.79
+        },
+        {
+          "year": 2019,
+          "value": 3.1
+        },
+        {
+          "year": 2020,
+          "value": 0.9
+        },
+        {
+          "year": 2021,
+          "value": 0.98
+        },
+        {
+          "year": 2022,
+          "value": 0.45
+        },
+        {
+          "year": 2023,
+          "value": 0.7
+        },
+        {
+          "year": 2024,
+          "value": 1.5
         }
       ],
       "inflation": [
@@ -7725,6 +8652,7 @@
       "electricity_access": 13.4,
       "fdi_inflows": 5.12,
       "gdp": 19906706689.76,
+      "gdp_growth": 4.95,
       "inflation": 8.9,
       "internet_users": 12.63,
       "life_expectancy": 55.24,
@@ -8037,6 +8965,108 @@
         {
           "year": 2024,
           "value": 19906706689.76
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": -0.88
+        },
+        {
+          "year": 2001,
+          "value": 11.66
+        },
+        {
+          "year": 2002,
+          "value": 8.49
+        },
+        {
+          "year": 2003,
+          "value": 14.72
+        },
+        {
+          "year": 2004,
+          "value": 33.63
+        },
+        {
+          "year": 2005,
+          "value": 17.33
+        },
+        {
+          "year": 2006,
+          "value": -0.54
+        },
+        {
+          "year": 2007,
+          "value": 4.2
+        },
+        {
+          "year": 2008,
+          "value": 3.08
+        },
+        {
+          "year": 2009,
+          "value": -1.41
+        },
+        {
+          "year": 2010,
+          "value": 13.67
+        },
+        {
+          "year": 2011,
+          "value": 4.5
+        },
+        {
+          "year": 2012,
+          "value": 9.06
+        },
+        {
+          "year": 2013,
+          "value": 2.84
+        },
+        {
+          "year": 2014,
+          "value": 2.06
+        },
+        {
+          "year": 2015,
+          "value": 3.3
+        },
+        {
+          "year": 2016,
+          "value": -4.12
+        },
+        {
+          "year": 2017,
+          "value": -1.62
+        },
+        {
+          "year": 2018,
+          "value": 5.74
+        },
+        {
+          "year": 2019,
+          "value": 5.38
+        },
+        {
+          "year": 2020,
+          "value": -0.39
+        },
+        {
+          "year": 2021,
+          "value": 0.29
+        },
+        {
+          "year": 2022,
+          "value": 4.13
+        },
+        {
+          "year": 2023,
+          "value": 4.0
+        },
+        {
+          "year": 2024,
+          "value": 4.95
         }
       ],
       "inflation": [
@@ -8582,6 +9612,7 @@
       "electricity_access": 91.7,
       "fdi_inflows": 0.44,
       "gdp": 1610082688.27,
+      "gdp_growth": 3.3,
       "inflation": 5.05,
       "internet_users": 32.52,
       "life_expectancy": 67.02,
@@ -8894,6 +9925,108 @@
         {
           "year": 2024,
           "value": 1610082688.27
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": -1.01
+        },
+        {
+          "year": 2001,
+          "value": 5.42
+        },
+        {
+          "year": 2002,
+          "value": 4.6
+        },
+        {
+          "year": 2003,
+          "value": 1.93
+        },
+        {
+          "year": 2004,
+          "value": 3.1
+        },
+        {
+          "year": 2005,
+          "value": 5.67
+        },
+        {
+          "year": 2006,
+          "value": -1.75
+        },
+        {
+          "year": 2007,
+          "value": 0.8
+        },
+        {
+          "year": 2008,
+          "value": 3.96
+        },
+        {
+          "year": 2009,
+          "value": 3.24
+        },
+        {
+          "year": 2010,
+          "value": 3.78
+        },
+        {
+          "year": 2011,
+          "value": 4.14
+        },
+        {
+          "year": 2012,
+          "value": 3.17
+        },
+        {
+          "year": 2013,
+          "value": 4.47
+        },
+        {
+          "year": 2014,
+          "value": 2.11
+        },
+        {
+          "year": 2015,
+          "value": 1.15
+        },
+        {
+          "year": 2016,
+          "value": 3.32
+        },
+        {
+          "year": 2017,
+          "value": 3.82
+        },
+        {
+          "year": 2018,
+          "value": 3.64
+        },
+        {
+          "year": 2019,
+          "value": 1.76
+        },
+        {
+          "year": 2020,
+          "value": -0.2
+        },
+        {
+          "year": 2021,
+          "value": 2.04
+        },
+        {
+          "year": 2022,
+          "value": 2.45
+        },
+        {
+          "year": 2023,
+          "value": 3.19
+        },
+        {
+          "year": 2024,
+          "value": 3.3
         }
       ],
       "inflation": [
@@ -9427,6 +10560,7 @@
       "electricity_access": 53.0,
       "fdi_inflows": 3.84,
       "gdp": 15719986076.65,
+      "gdp_growth": 2.1,
       "inflation": 3.09,
       "internet_users": 47.25,
       "life_expectancy": 66.0,
@@ -9739,6 +10873,108 @@
         {
           "year": 2024,
           "value": 15719986076.65
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 7.58
+        },
+        {
+          "year": 2001,
+          "value": 3.8
+        },
+        {
+          "year": 2002,
+          "value": 4.58
+        },
+        {
+          "year": 2003,
+          "value": 0.81
+        },
+        {
+          "year": 2004,
+          "value": 3.48
+        },
+        {
+          "year": 2005,
+          "value": 7.76
+        },
+        {
+          "year": 2006,
+          "value": 7.99
+        },
+        {
+          "year": 2007,
+          "value": -6.61
+        },
+        {
+          "year": 2008,
+          "value": 6.31
+        },
+        {
+          "year": 2009,
+          "value": 11.64
+        },
+        {
+          "year": 2010,
+          "value": 9.93
+        },
+        {
+          "year": 2011,
+          "value": 2.21
+        },
+        {
+          "year": 2012,
+          "value": 9.95
+        },
+        {
+          "year": 2013,
+          "value": -0.71
+        },
+        {
+          "year": 2014,
+          "value": 6.65
+        },
+        {
+          "year": 2015,
+          "value": 0.42
+        },
+        {
+          "year": 2016,
+          "value": -8.69
+        },
+        {
+          "year": 2017,
+          "value": -5.59
+        },
+        {
+          "year": 2018,
+          "value": -2.3
+        },
+        {
+          "year": 2019,
+          "value": 1.12
+        },
+        {
+          "year": 2020,
+          "value": -6.27
+        },
+        {
+          "year": 2021,
+          "value": 1.02
+        },
+        {
+          "year": 2022,
+          "value": 1.48
+        },
+        {
+          "year": 2023,
+          "value": 1.91
+        },
+        {
+          "year": 2024,
+          "value": 2.1
         }
       ],
       "inflation": [
@@ -10272,6 +11508,7 @@
       "electricity_access": 22.5,
       "fdi_inflows": 3.85,
       "gdp": 75716176105.07,
+      "gdp_growth": 6.1,
       "inflation": 2.89,
       "internet_users": 19.67,
       "life_expectancy": 62.07,
@@ -10584,6 +11821,108 @@
         {
           "year": 2024,
           "value": 75716176105.07
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": -6.91
+        },
+        {
+          "year": 2001,
+          "value": -2.1
+        },
+        {
+          "year": 2002,
+          "value": 2.95
+        },
+        {
+          "year": 2003,
+          "value": 5.58
+        },
+        {
+          "year": 2004,
+          "value": 6.74
+        },
+        {
+          "year": 2005,
+          "value": 6.14
+        },
+        {
+          "year": 2006,
+          "value": 5.11
+        },
+        {
+          "year": 2007,
+          "value": 8.58
+        },
+        {
+          "year": 2008,
+          "value": 7.43
+        },
+        {
+          "year": 2009,
+          "value": 0.54
+        },
+        {
+          "year": 2010,
+          "value": 8.62
+        },
+        {
+          "year": 2011,
+          "value": -0.4
+        },
+        {
+          "year": 2012,
+          "value": 8.67
+        },
+        {
+          "year": 2013,
+          "value": 17.52
+        },
+        {
+          "year": 2014,
+          "value": 7.3
+        },
+        {
+          "year": 2015,
+          "value": 6.36
+        },
+        {
+          "year": 2016,
+          "value": 0.39
+        },
+        {
+          "year": 2017,
+          "value": 4.24
+        },
+        {
+          "year": 2018,
+          "value": 6.07
+        },
+        {
+          "year": 2019,
+          "value": 0.56
+        },
+        {
+          "year": 2020,
+          "value": 0.78
+        },
+        {
+          "year": 2021,
+          "value": 6.43
+        },
+        {
+          "year": 2022,
+          "value": 9.31
+        },
+        {
+          "year": 2023,
+          "value": 8.53
+        },
+        {
+          "year": 2024,
+          "value": 6.1
         }
       ],
       "inflation": [
@@ -11101,6 +12440,7 @@
       "electricity_access": 72.9,
       "fdi_inflows": 3.58,
       "gdp": 87113179149.28,
+      "gdp_growth": 6.02,
       "inflation": 3.45,
       "internet_users": 41.43,
       "life_expectancy": 62.11,
@@ -11413,6 +12753,108 @@
         {
           "year": 2024,
           "value": 87113179149.28
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": -0.27
+        },
+        {
+          "year": 2001,
+          "value": -2.15
+        },
+        {
+          "year": 2002,
+          "value": -2.73
+        },
+        {
+          "year": 2003,
+          "value": -4.73
+        },
+        {
+          "year": 2004,
+          "value": 3.19
+        },
+        {
+          "year": 2005,
+          "value": 1.0
+        },
+        {
+          "year": 2006,
+          "value": 2.82
+        },
+        {
+          "year": 2007,
+          "value": 1.1
+        },
+        {
+          "year": 2008,
+          "value": 4.78
+        },
+        {
+          "year": 2009,
+          "value": 3.6
+        },
+        {
+          "year": 2010,
+          "value": 6.85
+        },
+        {
+          "year": 2011,
+          "value": -5.37
+        },
+        {
+          "year": 2012,
+          "value": 7.62
+        },
+        {
+          "year": 2013,
+          "value": 10.76
+        },
+        {
+          "year": 2014,
+          "value": 9.37
+        },
+        {
+          "year": 2015,
+          "value": 7.19
+        },
+        {
+          "year": 2016,
+          "value": 7.17
+        },
+        {
+          "year": 2017,
+          "value": 7.41
+        },
+        {
+          "year": 2018,
+          "value": 4.84
+        },
+        {
+          "year": 2019,
+          "value": 6.72
+        },
+        {
+          "year": 2020,
+          "value": 0.7
+        },
+        {
+          "year": 2021,
+          "value": 7.06
+        },
+        {
+          "year": 2022,
+          "value": 6.4
+        },
+        {
+          "year": 2023,
+          "value": 6.6
+        },
+        {
+          "year": 2024,
+          "value": 6.02
         }
       ],
       "inflation": [
@@ -11962,6 +13404,7 @@
       "electricity_access": 69.2,
       "fdi_inflows": 1.63,
       "gdp": 4152145939.98,
+      "gdp_growth": 6.98,
       "inflation": 2.11,
       "internet_users": 65.3,
       "life_expectancy": 66.2,
@@ -12273,6 +13716,52 @@
         {
           "year": 2024,
           "value": 4152145939.98
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2014,
+          "value": 7.19
+        },
+        {
+          "year": 2015,
+          "value": 7.31
+        },
+        {
+          "year": 2016,
+          "value": 7.12
+        },
+        {
+          "year": 2017,
+          "value": 5.46
+        },
+        {
+          "year": 2018,
+          "value": 4.77
+        },
+        {
+          "year": 2019,
+          "value": 5.55
+        },
+        {
+          "year": 2020,
+          "value": 1.2
+        },
+        {
+          "year": 2021,
+          "value": 4.41
+        },
+        {
+          "year": 2022,
+          "value": 5.17
+        },
+        {
+          "year": 2023,
+          "value": 6.81
+        },
+        {
+          "year": 2024,
+          "value": 6.98
         }
       ],
       "inflation": [
@@ -12797,6 +14286,7 @@
       "electricity_access": 100.0,
       "fdi_inflows": 11.97,
       "gdp": 389059910593.1,
+      "gdp_growth": 2.4,
       "inflation": 28.27,
       "internet_users": 74.65,
       "life_expectancy": 71.81,
@@ -13109,6 +14599,108 @@
         {
           "year": 2024,
           "value": 389059910593.1
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 6.37
+        },
+        {
+          "year": 2001,
+          "value": 3.54
+        },
+        {
+          "year": 2002,
+          "value": 2.39
+        },
+        {
+          "year": 2003,
+          "value": 3.19
+        },
+        {
+          "year": 2004,
+          "value": 4.09
+        },
+        {
+          "year": 2005,
+          "value": 4.47
+        },
+        {
+          "year": 2006,
+          "value": 6.84
+        },
+        {
+          "year": 2007,
+          "value": 7.09
+        },
+        {
+          "year": 2008,
+          "value": 7.16
+        },
+        {
+          "year": 2009,
+          "value": 4.67
+        },
+        {
+          "year": 2010,
+          "value": 5.15
+        },
+        {
+          "year": 2011,
+          "value": 1.76
+        },
+        {
+          "year": 2012,
+          "value": 2.23
+        },
+        {
+          "year": 2013,
+          "value": 2.19
+        },
+        {
+          "year": 2014,
+          "value": 2.92
+        },
+        {
+          "year": 2015,
+          "value": 4.37
+        },
+        {
+          "year": 2016,
+          "value": 4.35
+        },
+        {
+          "year": 2017,
+          "value": 4.18
+        },
+        {
+          "year": 2018,
+          "value": 5.33
+        },
+        {
+          "year": 2019,
+          "value": 5.55
+        },
+        {
+          "year": 2020,
+          "value": 3.55
+        },
+        {
+          "year": 2021,
+          "value": 3.29
+        },
+        {
+          "year": 2022,
+          "value": 6.59
+        },
+        {
+          "year": 2023,
+          "value": 3.76
+        },
+        {
+          "year": 2024,
+          "value": 2.4
         }
       ],
       "inflation": [
@@ -13670,6 +15262,7 @@
       "electricity_access": 65.1,
       "fdi_inflows": 1.42,
       "gdp": 13254388261.13,
+      "gdp_growth": 0.4,
       "inflation": 2.92,
       "internet_users": 63.3,
       "life_expectancy": 63.91,
@@ -13982,6 +15575,108 @@
         {
           "year": 2024,
           "value": 13254388261.13
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 18.21
+        },
+        {
+          "year": 2001,
+          "value": 63.38
+        },
+        {
+          "year": 2002,
+          "value": 19.46
+        },
+        {
+          "year": 2003,
+          "value": 13.96
+        },
+        {
+          "year": 2004,
+          "value": 38.0
+        },
+        {
+          "year": 2005,
+          "value": 16.75
+        },
+        {
+          "year": 2006,
+          "value": 7.7
+        },
+        {
+          "year": 2007,
+          "value": 15.28
+        },
+        {
+          "year": 2008,
+          "value": 17.8
+        },
+        {
+          "year": 2009,
+          "value": 1.34
+        },
+        {
+          "year": 2010,
+          "value": -8.92
+        },
+        {
+          "year": 2011,
+          "value": 6.52
+        },
+        {
+          "year": 2012,
+          "value": 8.31
+        },
+        {
+          "year": 2013,
+          "value": -4.13
+        },
+        {
+          "year": 2014,
+          "value": 0.42
+        },
+        {
+          "year": 2015,
+          "value": -9.11
+        },
+        {
+          "year": 2016,
+          "value": -8.82
+        },
+        {
+          "year": 2017,
+          "value": -5.67
+        },
+        {
+          "year": 2018,
+          "value": -6.24
+        },
+        {
+          "year": 2019,
+          "value": -5.48
+        },
+        {
+          "year": 2020,
+          "value": -4.79
+        },
+        {
+          "year": 2021,
+          "value": 0.86
+        },
+        {
+          "year": 2022,
+          "value": 3.22
+        },
+        {
+          "year": 2023,
+          "value": -7.43
+        },
+        {
+          "year": 2024,
+          "value": 0.4
         }
       ],
       "inflation": [
@@ -14515,6 +16210,7 @@
       "electricity_access": 55.3,
       "fdi_inflows": 1.89,
       "gdp": 2065001626.02,
+      "gdp_growth": 8.68,
       "internet_users": 14.35,
       "life_expectancy": 68.89,
       "literacy_rate": 64.66,
@@ -14722,6 +16418,56 @@
         {
           "year": 2011,
           "value": 2065001626.02
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": -3.14
+        },
+        {
+          "year": 2001,
+          "value": 8.76
+        },
+        {
+          "year": 2002,
+          "value": 3.01
+        },
+        {
+          "year": 2003,
+          "value": -2.66
+        },
+        {
+          "year": 2004,
+          "value": 1.45
+        },
+        {
+          "year": 2005,
+          "value": 2.57
+        },
+        {
+          "year": 2006,
+          "value": -0.97
+        },
+        {
+          "year": 2007,
+          "value": 1.43
+        },
+        {
+          "year": 2008,
+          "value": -9.78
+        },
+        {
+          "year": 2009,
+          "value": 3.88
+        },
+        {
+          "year": 2010,
+          "value": 2.19
+        },
+        {
+          "year": 2011,
+          "value": 8.68
         }
       ],
       "inflation": [],
@@ -15126,6 +16872,7 @@
       "electricity_access": 89.3,
       "fdi_inflows": 1.55,
       "gdp": 4858885840.77,
+      "gdp_growth": 3.03,
       "inflation": 2.6,
       "internet_users": 63.4,
       "life_expectancy": 64.26,
@@ -15438,6 +17185,108 @@
         {
           "year": 2024,
           "value": 4858885840.77
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 1.76
+        },
+        {
+          "year": 2001,
+          "value": 1.41
+        },
+        {
+          "year": 2002,
+          "value": 4.09
+        },
+        {
+          "year": 2003,
+          "value": 4.54
+        },
+        {
+          "year": 2004,
+          "value": 3.62
+        },
+        {
+          "year": 2005,
+          "value": 5.99
+        },
+        {
+          "year": 2006,
+          "value": 6.73
+        },
+        {
+          "year": 2007,
+          "value": 4.32
+        },
+        {
+          "year": 2008,
+          "value": 1.44
+        },
+        {
+          "year": 2009,
+          "value": 1.43
+        },
+        {
+          "year": 2010,
+          "value": 3.82
+        },
+        {
+          "year": 2011,
+          "value": 1.84
+        },
+        {
+          "year": 2012,
+          "value": 4.09
+        },
+        {
+          "year": 2013,
+          "value": 4.09
+        },
+        {
+          "year": 2014,
+          "value": 2.06
+        },
+        {
+          "year": 2015,
+          "value": 1.7
+        },
+        {
+          "year": 2016,
+          "value": 2.95
+        },
+        {
+          "year": 2017,
+          "value": 3.52
+        },
+        {
+          "year": 2018,
+          "value": 0.07
+        },
+        {
+          "year": 2019,
+          "value": 6.43
+        },
+        {
+          "year": 2020,
+          "value": -2.95
+        },
+        {
+          "year": 2021,
+          "value": 4.24
+        },
+        {
+          "year": 2022,
+          "value": 0.39
+        },
+        {
+          "year": 2023,
+          "value": 3.53
+        },
+        {
+          "year": 2024,
+          "value": 3.03
         }
       ],
       "inflation": [
@@ -15955,6 +17804,7 @@
       "electricity_access": 56.6,
       "fdi_inflows": 2.69,
       "gdp": 149740297952.38,
+      "gdp_growth": 7.61,
       "inflation": 21.04,
       "internet_users": 21.94,
       "life_expectancy": 67.6,
@@ -16267,6 +18117,108 @@
         {
           "year": 2024,
           "value": 149740297952.38
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 6.07
+        },
+        {
+          "year": 2001,
+          "value": 8.3
+        },
+        {
+          "year": 2002,
+          "value": 1.51
+        },
+        {
+          "year": 2003,
+          "value": -2.16
+        },
+        {
+          "year": 2004,
+          "value": 13.57
+        },
+        {
+          "year": 2005,
+          "value": 11.82
+        },
+        {
+          "year": 2006,
+          "value": 10.83
+        },
+        {
+          "year": 2007,
+          "value": 11.46
+        },
+        {
+          "year": 2008,
+          "value": 10.79
+        },
+        {
+          "year": 2009,
+          "value": 8.8
+        },
+        {
+          "year": 2010,
+          "value": 12.55
+        },
+        {
+          "year": 2011,
+          "value": 11.18
+        },
+        {
+          "year": 2012,
+          "value": 8.65
+        },
+        {
+          "year": 2013,
+          "value": 10.58
+        },
+        {
+          "year": 2014,
+          "value": 10.26
+        },
+        {
+          "year": 2015,
+          "value": 10.39
+        },
+        {
+          "year": 2016,
+          "value": 9.43
+        },
+        {
+          "year": 2017,
+          "value": 9.56
+        },
+        {
+          "year": 2018,
+          "value": 6.82
+        },
+        {
+          "year": 2019,
+          "value": 8.36
+        },
+        {
+          "year": 2020,
+          "value": 6.06
+        },
+        {
+          "year": 2021,
+          "value": 5.64
+        },
+        {
+          "year": 2022,
+          "value": 5.32
+        },
+        {
+          "year": 2023,
+          "value": 6.59
+        },
+        {
+          "year": 2024,
+          "value": 7.61
         }
       ],
       "inflation": [
@@ -16824,6 +18776,7 @@
       "electricity_access": 95.1,
       "fdi_inflows": 5.48,
       "gdp": 20895684425.68,
+      "gdp_growth": 3.39,
       "inflation": 1.17,
       "internet_users": 68.72,
       "life_expectancy": 68.51,
@@ -17136,6 +19089,108 @@
         {
           "year": 2024,
           "value": 20895684425.68
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": -1.88
+        },
+        {
+          "year": 2001,
+          "value": 2.14
+        },
+        {
+          "year": 2002,
+          "value": -0.25
+        },
+        {
+          "year": 2003,
+          "value": 2.25
+        },
+        {
+          "year": 2004,
+          "value": 0.69
+        },
+        {
+          "year": 2005,
+          "value": 2.68
+        },
+        {
+          "year": 2006,
+          "value": -2.81
+        },
+        {
+          "year": 2007,
+          "value": 6.01
+        },
+        {
+          "year": 2008,
+          "value": -3.31
+        },
+        {
+          "year": 2009,
+          "value": 0.13
+        },
+        {
+          "year": 2010,
+          "value": 7.09
+        },
+        {
+          "year": 2011,
+          "value": 7.09
+        },
+        {
+          "year": 2012,
+          "value": 5.25
+        },
+        {
+          "year": 2013,
+          "value": 5.64
+        },
+        {
+          "year": 2014,
+          "value": 4.31
+        },
+        {
+          "year": 2015,
+          "value": 3.88
+        },
+        {
+          "year": 2016,
+          "value": 2.09
+        },
+        {
+          "year": 2017,
+          "value": 0.47
+        },
+        {
+          "year": 2018,
+          "value": 0.84
+        },
+        {
+          "year": 2019,
+          "value": 3.92
+        },
+        {
+          "year": 2020,
+          "value": -1.84
+        },
+        {
+          "year": 2021,
+          "value": 1.47
+        },
+        {
+          "year": 2022,
+          "value": 3.04
+        },
+        {
+          "year": 2023,
+          "value": 2.44
+        },
+        {
+          "year": 2024,
+          "value": 3.39
         }
       ],
       "inflation": [
@@ -17669,6 +19724,7 @@
       "electricity_access": 69.0,
       "fdi_inflows": 9.66,
       "gdp": 2404888737.55,
+      "gdp_growth": 5.55,
       "inflation": 11.56,
       "internet_users": 49.49,
       "life_expectancy": 66.06,
@@ -17981,6 +20037,108 @@
         {
           "year": 2024,
           "value": 2404888737.55
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 5.5
+        },
+        {
+          "year": 2001,
+          "value": 5.8
+        },
+        {
+          "year": 2002,
+          "value": -3.25
+        },
+        {
+          "year": 2003,
+          "value": 6.87
+        },
+        {
+          "year": 2004,
+          "value": 7.05
+        },
+        {
+          "year": 2005,
+          "value": -2.35
+        },
+        {
+          "year": 2006,
+          "value": -0.56
+        },
+        {
+          "year": 2007,
+          "value": 3.04
+        },
+        {
+          "year": 2008,
+          "value": 6.26
+        },
+        {
+          "year": 2009,
+          "value": 6.67
+        },
+        {
+          "year": 2010,
+          "value": 5.91
+        },
+        {
+          "year": 2011,
+          "value": -8.13
+        },
+        {
+          "year": 2012,
+          "value": 5.24
+        },
+        {
+          "year": 2013,
+          "value": 2.87
+        },
+        {
+          "year": 2014,
+          "value": -1.41
+        },
+        {
+          "year": 2015,
+          "value": 4.06
+        },
+        {
+          "year": 2016,
+          "value": 1.94
+        },
+        {
+          "year": 2017,
+          "value": 4.82
+        },
+        {
+          "year": 2018,
+          "value": 7.23
+        },
+        {
+          "year": 2019,
+          "value": 6.22
+        },
+        {
+          "year": 2020,
+          "value": 0.59
+        },
+        {
+          "year": 2021,
+          "value": 5.26
+        },
+        {
+          "year": 2022,
+          "value": 5.49
+        },
+        {
+          "year": 2023,
+          "value": 5.92
+        },
+        {
+          "year": 2024,
+          "value": 5.55
         }
       ],
       "inflation": [
@@ -18526,6 +20684,7 @@
       "electricity_access": 91.9,
       "fdi_inflows": 2.12,
       "gdp": 83288585604.03,
+      "gdp_growth": 5.85,
       "inflation": 22.85,
       "internet_users": 72.18,
       "life_expectancy": 65.69,
@@ -18838,6 +20997,108 @@
         {
           "year": 2024,
           "value": 83288585604.03
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 3.7
+        },
+        {
+          "year": 2001,
+          "value": 4.0
+        },
+        {
+          "year": 2002,
+          "value": 4.5
+        },
+        {
+          "year": 2003,
+          "value": 5.2
+        },
+        {
+          "year": 2004,
+          "value": 5.6
+        },
+        {
+          "year": 2005,
+          "value": 5.9
+        },
+        {
+          "year": 2006,
+          "value": 6.4
+        },
+        {
+          "year": 2007,
+          "value": 4.35
+        },
+        {
+          "year": 2008,
+          "value": 9.15
+        },
+        {
+          "year": 2009,
+          "value": 4.84
+        },
+        {
+          "year": 2010,
+          "value": 7.9
+        },
+        {
+          "year": 2011,
+          "value": 14.05
+        },
+        {
+          "year": 2012,
+          "value": 9.29
+        },
+        {
+          "year": 2013,
+          "value": 7.31
+        },
+        {
+          "year": 2014,
+          "value": 2.86
+        },
+        {
+          "year": 2015,
+          "value": 2.12
+        },
+        {
+          "year": 2016,
+          "value": 3.37
+        },
+        {
+          "year": 2017,
+          "value": 8.13
+        },
+        {
+          "year": 2018,
+          "value": 6.2
+        },
+        {
+          "year": 2019,
+          "value": 6.51
+        },
+        {
+          "year": 2020,
+          "value": 0.51
+        },
+        {
+          "year": 2021,
+          "value": 5.08
+        },
+        {
+          "year": 2022,
+          "value": 3.8
+        },
+        {
+          "year": 2023,
+          "value": 3.14
+        },
+        {
+          "year": 2024,
+          "value": 5.85
         }
       ],
       "inflation": [
@@ -19387,6 +21648,7 @@
       "electricity_access": 53.8,
       "fdi_inflows": 5.61,
       "gdp": 25008678293.41,
+      "gdp_growth": 5.35,
       "inflation": 8.12,
       "internet_users": 33.3,
       "life_expectancy": 60.9,
@@ -19695,6 +21957,108 @@
         {
           "year": 2024,
           "value": 25008678293.41
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 2.5
+        },
+        {
+          "year": 2001,
+          "value": 3.66
+        },
+        {
+          "year": 2002,
+          "value": 5.16
+        },
+        {
+          "year": 2003,
+          "value": 1.25
+        },
+        {
+          "year": 2004,
+          "value": 2.34
+        },
+        {
+          "year": 2005,
+          "value": 3.0
+        },
+        {
+          "year": 2006,
+          "value": 1.19
+        },
+        {
+          "year": 2007,
+          "value": 6.82
+        },
+        {
+          "year": 2008,
+          "value": 4.13
+        },
+        {
+          "year": 2009,
+          "value": -1.12
+        },
+        {
+          "year": 2010,
+          "value": 4.81
+        },
+        {
+          "year": 2011,
+          "value": 5.61
+        },
+        {
+          "year": 2012,
+          "value": 5.92
+        },
+        {
+          "year": 2013,
+          "value": 3.95
+        },
+        {
+          "year": 2014,
+          "value": 3.7
+        },
+        {
+          "year": 2015,
+          "value": 3.83
+        },
+        {
+          "year": 2016,
+          "value": 10.82
+        },
+        {
+          "year": 2017,
+          "value": 10.3
+        },
+        {
+          "year": 2018,
+          "value": 6.36
+        },
+        {
+          "year": 2019,
+          "value": 5.62
+        },
+        {
+          "year": 2020,
+          "value": 4.7
+        },
+        {
+          "year": 2021,
+          "value": 5.58
+        },
+        {
+          "year": 2022,
+          "value": 3.97
+        },
+        {
+          "year": 2023,
+          "value": 5.54
+        },
+        {
+          "year": 2024,
+          "value": 5.35
         }
       ],
       "inflation": [
@@ -20220,6 +22584,7 @@
       "electricity_access": 43.7,
       "fdi_inflows": 1.21,
       "gdp": 2197777209.94,
+      "gdp_growth": 4.41,
       "inflation": 3.77,
       "internet_users": 29.78,
       "life_expectancy": 64.25,
@@ -20524,6 +22889,108 @@
         {
           "year": 2024,
           "value": 2197777209.94
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 1.1
+        },
+        {
+          "year": 2001,
+          "value": 4.79
+        },
+        {
+          "year": 2002,
+          "value": 3.65
+        },
+        {
+          "year": 2003,
+          "value": -0.29
+        },
+        {
+          "year": 2004,
+          "value": 1.17
+        },
+        {
+          "year": 2005,
+          "value": 6.56
+        },
+        {
+          "year": 2006,
+          "value": 2.67
+        },
+        {
+          "year": 2007,
+          "value": 2.56
+        },
+        {
+          "year": 2008,
+          "value": 4.52
+        },
+        {
+          "year": 2009,
+          "value": 2.45
+        },
+        {
+          "year": 2010,
+          "value": 5.61
+        },
+        {
+          "year": 2011,
+          "value": 8.09
+        },
+        {
+          "year": 2012,
+          "value": -1.71
+        },
+        {
+          "year": 2013,
+          "value": 3.26
+        },
+        {
+          "year": 2014,
+          "value": 0.96
+        },
+        {
+          "year": 2015,
+          "value": 6.13
+        },
+        {
+          "year": 2016,
+          "value": 5.43
+        },
+        {
+          "year": 2017,
+          "value": 4.66
+        },
+        {
+          "year": 2018,
+          "value": 3.76
+        },
+        {
+          "year": 2019,
+          "value": 5.33
+        },
+        {
+          "year": 2020,
+          "value": 2.89
+        },
+        {
+          "year": 2021,
+          "value": 5.02
+        },
+        {
+          "year": 2022,
+          "value": 5.46
+        },
+        {
+          "year": 2023,
+          "value": 4.63
+        },
+        {
+          "year": 2024,
+          "value": 4.41
         }
       ],
       "inflation": [
@@ -21065,6 +23532,7 @@
       "electricity_access": 77.0,
       "fdi_inflows": 0.38,
       "gdp": 120397537849.83,
+      "gdp_growth": 4.66,
       "inflation": 4.49,
       "internet_users": 34.98,
       "life_expectancy": 63.83,
@@ -21377,6 +23845,108 @@
         {
           "year": 2024,
           "value": 120397537849.83
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 0.6
+        },
+        {
+          "year": 2001,
+          "value": 3.78
+        },
+        {
+          "year": 2002,
+          "value": 0.55
+        },
+        {
+          "year": 2003,
+          "value": 2.93
+        },
+        {
+          "year": 2004,
+          "value": 5.1
+        },
+        {
+          "year": 2005,
+          "value": 5.91
+        },
+        {
+          "year": 2006,
+          "value": 6.47
+        },
+        {
+          "year": 2007,
+          "value": 6.85
+        },
+        {
+          "year": 2008,
+          "value": 0.23
+        },
+        {
+          "year": 2009,
+          "value": 3.31
+        },
+        {
+          "year": 2010,
+          "value": 8.06
+        },
+        {
+          "year": 2011,
+          "value": 5.12
+        },
+        {
+          "year": 2012,
+          "value": 4.57
+        },
+        {
+          "year": 2013,
+          "value": 3.8
+        },
+        {
+          "year": 2014,
+          "value": 5.02
+        },
+        {
+          "year": 2015,
+          "value": 4.97
+        },
+        {
+          "year": 2016,
+          "value": 4.21
+        },
+        {
+          "year": 2017,
+          "value": 3.84
+        },
+        {
+          "year": 2018,
+          "value": 5.65
+        },
+        {
+          "year": 2019,
+          "value": 5.11
+        },
+        {
+          "year": 2020,
+          "value": -0.27
+        },
+        {
+          "year": 2021,
+          "value": 7.59
+        },
+        {
+          "year": 2022,
+          "value": 4.86
+        },
+        {
+          "year": 2023,
+          "value": 5.72
+        },
+        {
+          "year": 2024,
+          "value": 4.66
         }
       ],
       "inflation": [
@@ -21910,6 +24480,7 @@
       "electricity_access": 60.6,
       "fdi_inflows": -0.53,
       "gdp": 2391282547.8,
+      "gdp_growth": 5.23,
       "inflation": 6.11,
       "internet_users": 51.8,
       "life_expectancy": 57.8,
@@ -22222,6 +24793,108 @@
         {
           "year": 2024,
           "value": 2391282547.8
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 3.88
+        },
+        {
+          "year": 2001,
+          "value": 3.56
+        },
+        {
+          "year": 2002,
+          "value": 0.72
+        },
+        {
+          "year": 2003,
+          "value": 4.56
+        },
+        {
+          "year": 2004,
+          "value": 1.69
+        },
+        {
+          "year": 2005,
+          "value": 3.47
+        },
+        {
+          "year": 2006,
+          "value": 4.23
+        },
+        {
+          "year": 2007,
+          "value": 4.19
+        },
+        {
+          "year": 2008,
+          "value": 5.52
+        },
+        {
+          "year": 2009,
+          "value": -1.25
+        },
+        {
+          "year": 2010,
+          "value": 5.27
+        },
+        {
+          "year": 2011,
+          "value": 4.62
+        },
+        {
+          "year": 2012,
+          "value": 6.33
+        },
+        {
+          "year": 2013,
+          "value": 1.79
+        },
+        {
+          "year": 2014,
+          "value": 1.71
+        },
+        {
+          "year": 2015,
+          "value": 3.12
+        },
+        {
+          "year": 2016,
+          "value": 3.61
+        },
+        {
+          "year": 2017,
+          "value": -3.14
+        },
+        {
+          "year": 2018,
+          "value": -1.48
+        },
+        {
+          "year": 2019,
+          "value": -1.42
+        },
+        {
+          "year": 2020,
+          "value": -8.16
+        },
+        {
+          "year": 2021,
+          "value": 2.27
+        },
+        {
+          "year": 2022,
+          "value": 2.39
+        },
+        {
+          "year": 2023,
+          "value": 1.69
+        },
+        {
+          "year": 2024,
+          "value": 5.23
         }
       ],
       "inflation": [
@@ -22775,6 +25448,7 @@
       "electricity_access": 34.9,
       "fdi_inflows": 9.87,
       "gdp": 4779300900.0,
+      "gdp_growth": 4.02,
       "inflation": 8.21,
       "internet_users": 32.23,
       "life_expectancy": 62.32,
@@ -23059,6 +25733,108 @@
         {
           "year": 2024,
           "value": 4779300900.0
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 28.62
+        },
+        {
+          "year": 2001,
+          "value": 2.92
+        },
+        {
+          "year": 2002,
+          "value": 3.76
+        },
+        {
+          "year": 2003,
+          "value": -30.15
+        },
+        {
+          "year": 2004,
+          "value": 2.62
+        },
+        {
+          "year": 2005,
+          "value": 5.28
+        },
+        {
+          "year": 2006,
+          "value": 8.04
+        },
+        {
+          "year": 2007,
+          "value": 9.54
+        },
+        {
+          "year": 2008,
+          "value": 7.15
+        },
+        {
+          "year": 2009,
+          "value": 5.3
+        },
+        {
+          "year": 2010,
+          "value": 6.1
+        },
+        {
+          "year": 2011,
+          "value": 8.2
+        },
+        {
+          "year": 2012,
+          "value": 7.99
+        },
+        {
+          "year": 2013,
+          "value": 8.69
+        },
+        {
+          "year": 2014,
+          "value": 0.7
+        },
+        {
+          "year": 2015,
+          "value": -0.02
+        },
+        {
+          "year": 2016,
+          "value": -1.55
+        },
+        {
+          "year": 2017,
+          "value": 2.46
+        },
+        {
+          "year": 2018,
+          "value": 1.16
+        },
+        {
+          "year": 2019,
+          "value": -2.47
+        },
+        {
+          "year": 2020,
+          "value": -2.98
+        },
+        {
+          "year": 2021,
+          "value": 4.99
+        },
+        {
+          "year": 2022,
+          "value": 4.81
+        },
+        {
+          "year": 2023,
+          "value": 4.68
+        },
+        {
+          "year": 2024,
+          "value": 4.02
         }
       ],
       "inflation": [
@@ -23584,6 +26360,7 @@
       "electricity_access": 77.4,
       "fdi_inflows": 1.81,
       "gdp": 48487151215.35,
+      "gdp_growth": 1.9,
       "inflation": 2.13,
       "internet_users": 81.95,
       "life_expectancy": 71.12,
@@ -23859,6 +26636,108 @@
         {
           "year": 2024,
           "value": 48487151215.35
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 3.68
+        },
+        {
+          "year": 2001,
+          "value": -1.76
+        },
+        {
+          "year": 2002,
+          "value": -0.96
+        },
+        {
+          "year": 2003,
+          "value": 13.02
+        },
+        {
+          "year": 2004,
+          "value": 4.46
+        },
+        {
+          "year": 2005,
+          "value": 11.87
+        },
+        {
+          "year": 2006,
+          "value": 6.5
+        },
+        {
+          "year": 2007,
+          "value": 6.23
+        },
+        {
+          "year": 2008,
+          "value": -0.16
+        },
+        {
+          "year": 2009,
+          "value": -4.4
+        },
+        {
+          "year": 2010,
+          "value": 5.03
+        },
+        {
+          "year": 2011,
+          "value": -50.34
+        },
+        {
+          "year": 2012,
+          "value": 86.83
+        },
+        {
+          "year": 2013,
+          "value": -18.0
+        },
+        {
+          "year": 2014,
+          "value": -23.04
+        },
+        {
+          "year": 2015,
+          "value": -0.84
+        },
+        {
+          "year": 2016,
+          "value": -1.49
+        },
+        {
+          "year": 2017,
+          "value": 32.49
+        },
+        {
+          "year": 2018,
+          "value": 7.94
+        },
+        {
+          "year": 2019,
+          "value": -11.2
+        },
+        {
+          "year": 2020,
+          "value": -29.46
+        },
+        {
+          "year": 2021,
+          "value": 28.3
+        },
+        {
+          "year": 2022,
+          "value": -8.3
+        },
+        {
+          "year": 2023,
+          "value": 10.2
+        },
+        {
+          "year": 2024,
+          "value": 1.9
         }
       ],
       "inflation": [
@@ -24387,6 +27266,7 @@
       "electricity_access": 42.5,
       "fdi_inflows": 3.45,
       "gdp": 17592832696.13,
+      "gdp_growth": 4.32,
       "inflation": 7.61,
       "internet_users": 18.68,
       "life_expectancy": 63.84,
@@ -24699,6 +27579,108 @@
         {
           "year": 2024,
           "value": 17592832696.13
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 4.46
+        },
+        {
+          "year": 2001,
+          "value": 5.98
+        },
+        {
+          "year": 2002,
+          "value": -12.41
+        },
+        {
+          "year": 2003,
+          "value": 9.78
+        },
+        {
+          "year": 2004,
+          "value": 5.26
+        },
+        {
+          "year": 2005,
+          "value": 4.76
+        },
+        {
+          "year": 2006,
+          "value": 5.4
+        },
+        {
+          "year": 2007,
+          "value": 5.71
+        },
+        {
+          "year": 2008,
+          "value": 6.71
+        },
+        {
+          "year": 2009,
+          "value": -3.98
+        },
+        {
+          "year": 2010,
+          "value": 0.62
+        },
+        {
+          "year": 2011,
+          "value": 1.58
+        },
+        {
+          "year": 2012,
+          "value": 3.01
+        },
+        {
+          "year": 2013,
+          "value": 2.3
+        },
+        {
+          "year": 2014,
+          "value": 3.34
+        },
+        {
+          "year": 2015,
+          "value": 3.13
+        },
+        {
+          "year": 2016,
+          "value": 3.99
+        },
+        {
+          "year": 2017,
+          "value": 3.93
+        },
+        {
+          "year": 2018,
+          "value": 3.19
+        },
+        {
+          "year": 2019,
+          "value": 4.41
+        },
+        {
+          "year": 2020,
+          "value": -7.14
+        },
+        {
+          "year": 2021,
+          "value": 4.65
+        },
+        {
+          "year": 2022,
+          "value": 4.14
+        },
+        {
+          "year": 2023,
+          "value": 4.23
+        },
+        {
+          "year": 2024,
+          "value": 4.32
         }
       ],
       "inflation": [
@@ -25244,6 +28226,7 @@
       "electricity_access": 15.6,
       "fdi_inflows": 2.28,
       "gdp": 11311971400.39,
+      "gdp_growth": 1.67,
       "inflation": 32.18,
       "internet_users": 18.96,
       "life_expectancy": 67.56,
@@ -25556,6 +28539,108 @@
         {
           "year": 2024,
           "value": 11311971400.39
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 1.58
+        },
+        {
+          "year": 2001,
+          "value": -4.97
+        },
+        {
+          "year": 2002,
+          "value": 1.7
+        },
+        {
+          "year": 2003,
+          "value": 5.71
+        },
+        {
+          "year": 2004,
+          "value": 5.42
+        },
+        {
+          "year": 2005,
+          "value": 3.27
+        },
+        {
+          "year": 2006,
+          "value": 4.7
+        },
+        {
+          "year": 2007,
+          "value": 9.6
+        },
+        {
+          "year": 2008,
+          "value": 7.64
+        },
+        {
+          "year": 2009,
+          "value": 8.33
+        },
+        {
+          "year": 2010,
+          "value": 6.87
+        },
+        {
+          "year": 2011,
+          "value": 4.93
+        },
+        {
+          "year": 2012,
+          "value": 1.9
+        },
+        {
+          "year": 2013,
+          "value": 5.41
+        },
+        {
+          "year": 2014,
+          "value": 5.63
+        },
+        {
+          "year": 2015,
+          "value": 2.8
+        },
+        {
+          "year": 2016,
+          "value": 2.5
+        },
+        {
+          "year": 2017,
+          "value": 4.0
+        },
+        {
+          "year": 2018,
+          "value": 4.35
+        },
+        {
+          "year": 2019,
+          "value": 5.72
+        },
+        {
+          "year": 2020,
+          "value": 0.79
+        },
+        {
+          "year": 2021,
+          "value": 4.56
+        },
+        {
+          "year": 2022,
+          "value": 0.92
+        },
+        {
+          "year": 2023,
+          "value": 1.95
+        },
+        {
+          "year": 2024,
+          "value": 1.67
         }
       ],
       "inflation": [
@@ -26097,6 +29182,7 @@
       "electricity_access": 49.5,
       "fdi_inflows": 3.44,
       "gdp": 26761281076.77,
+      "gdp_growth": 5.02,
       "inflation": 3.21,
       "internet_users": 36.8,
       "life_expectancy": 60.67,
@@ -26409,6 +29495,108 @@
         {
           "year": 2024,
           "value": 26761281076.77
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": -0.74
+        },
+        {
+          "year": 2001,
+          "value": 15.81
+        },
+        {
+          "year": 2002,
+          "value": 3.04
+        },
+        {
+          "year": 2003,
+          "value": 9.8
+        },
+        {
+          "year": 2004,
+          "value": 1.48
+        },
+        {
+          "year": 2005,
+          "value": 2.54
+        },
+        {
+          "year": 2006,
+          "value": 3.69
+        },
+        {
+          "year": 2007,
+          "value": 1.76
+        },
+        {
+          "year": 2008,
+          "value": 3.64
+        },
+        {
+          "year": 2009,
+          "value": 5.45
+        },
+        {
+          "year": 2010,
+          "value": 5.58
+        },
+        {
+          "year": 2011,
+          "value": 2.94
+        },
+        {
+          "year": 2012,
+          "value": -1.07
+        },
+        {
+          "year": 2013,
+          "value": 3.29
+        },
+        {
+          "year": 2014,
+          "value": 6.5
+        },
+        {
+          "year": 2015,
+          "value": 6.24
+        },
+        {
+          "year": 2016,
+          "value": 6.01
+        },
+        {
+          "year": 2017,
+          "value": 5.38
+        },
+        {
+          "year": 2018,
+          "value": 4.87
+        },
+        {
+          "year": 2019,
+          "value": 5.0
+        },
+        {
+          "year": 2020,
+          "value": -1.17
+        },
+        {
+          "year": 2021,
+          "value": 3.1
+        },
+        {
+          "year": 2022,
+          "value": 3.7
+        },
+        {
+          "year": 2023,
+          "value": 4.76
+        },
+        {
+          "year": 2024,
+          "value": 5.02
         }
       ],
       "inflation": [
@@ -26966,6 +30154,7 @@
       "electricity_access": 52.2,
       "fdi_inflows": 13.24,
       "gdp": 10879212033.48,
+      "gdp_growth": 6.31,
       "inflation": 2.49,
       "internet_users": 45.78,
       "life_expectancy": 68.71,
@@ -27278,6 +30467,108 @@
         {
           "year": 2024,
           "value": 10879212033.48
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": -3.92
+        },
+        {
+          "year": 2001,
+          "value": -0.8
+        },
+        {
+          "year": 2002,
+          "value": 1.38
+        },
+        {
+          "year": 2003,
+          "value": 6.93
+        },
+        {
+          "year": 2004,
+          "value": 4.73
+        },
+        {
+          "year": 2005,
+          "value": 8.57
+        },
+        {
+          "year": 2006,
+          "value": 18.33
+        },
+        {
+          "year": 2007,
+          "value": -1.97
+        },
+        {
+          "year": 2008,
+          "value": -0.33
+        },
+        {
+          "year": 2009,
+          "value": 0.1
+        },
+        {
+          "year": 2010,
+          "value": 2.62
+        },
+        {
+          "year": 2011,
+          "value": 4.17
+        },
+        {
+          "year": 2012,
+          "value": 4.47
+        },
+        {
+          "year": 2013,
+          "value": 4.15
+        },
+        {
+          "year": 2014,
+          "value": 4.27
+        },
+        {
+          "year": 2015,
+          "value": 5.38
+        },
+        {
+          "year": 2016,
+          "value": 1.26
+        },
+        {
+          "year": 2017,
+          "value": 6.27
+        },
+        {
+          "year": 2018,
+          "value": 4.77
+        },
+        {
+          "year": 2019,
+          "value": 3.14
+        },
+        {
+          "year": 2020,
+          "value": -0.36
+        },
+        {
+          "year": 2021,
+          "value": 0.74
+        },
+        {
+          "year": 2022,
+          "value": 6.8
+        },
+        {
+          "year": 2023,
+          "value": 6.81
+        },
+        {
+          "year": 2024,
+          "value": 6.31
         }
       ],
       "inflation": [
@@ -27823,6 +31114,7 @@
       "electricity_access": 100.0,
       "fdi_inflows": 4.56,
       "gdp": 14938055690.36,
+      "gdp_growth": 4.95,
       "inflation": 3.6,
       "internet_users": 73.31,
       "life_expectancy": 73.79,
@@ -28135,6 +31427,108 @@
         {
           "year": 2024,
           "value": 14938055690.36
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 8.2
+        },
+        {
+          "year": 2001,
+          "value": 3.35
+        },
+        {
+          "year": 2002,
+          "value": 1.61
+        },
+        {
+          "year": 2003,
+          "value": 5.93
+        },
+        {
+          "year": 2004,
+          "value": 4.33
+        },
+        {
+          "year": 2005,
+          "value": 1.78
+        },
+        {
+          "year": 2006,
+          "value": 4.87
+        },
+        {
+          "year": 2007,
+          "value": 5.76
+        },
+        {
+          "year": 2008,
+          "value": 5.46
+        },
+        {
+          "year": 2009,
+          "value": 3.36
+        },
+        {
+          "year": 2010,
+          "value": 4.4
+        },
+        {
+          "year": 2011,
+          "value": 4.15
+        },
+        {
+          "year": 2012,
+          "value": 3.51
+        },
+        {
+          "year": 2013,
+          "value": 3.4
+        },
+        {
+          "year": 2014,
+          "value": 3.86
+        },
+        {
+          "year": 2015,
+          "value": 3.72
+        },
+        {
+          "year": 2016,
+          "value": 3.89
+        },
+        {
+          "year": 2017,
+          "value": 3.95
+        },
+        {
+          "year": 2018,
+          "value": 4.12
+        },
+        {
+          "year": 2019,
+          "value": 2.86
+        },
+        {
+          "year": 2020,
+          "value": -14.2
+        },
+        {
+          "year": 2021,
+          "value": 3.34
+        },
+        {
+          "year": 2022,
+          "value": 8.34
+        },
+        {
+          "year": 2023,
+          "value": 4.7
+        },
+        {
+          "year": 2024,
+          "value": 4.95
         }
       ],
       "inflation": [
@@ -28700,6 +32094,7 @@
       "electricity_access": 100.0,
       "fdi_inflows": 1.09,
       "gdp": 160610994054.73,
+      "gdp_growth": 3.79,
       "inflation": 0.99,
       "internet_users": 91.2,
       "life_expectancy": 75.49,
@@ -29012,6 +32407,108 @@
         {
           "year": 2024,
           "value": 160610994054.73
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 2.58
+        },
+        {
+          "year": 2001,
+          "value": 7.72
+        },
+        {
+          "year": 2002,
+          "value": 3.73
+        },
+        {
+          "year": 2003,
+          "value": 6.17
+        },
+        {
+          "year": 2004,
+          "value": 4.57
+        },
+        {
+          "year": 2005,
+          "value": 3.19
+        },
+        {
+          "year": 2006,
+          "value": 7.79
+        },
+        {
+          "year": 2007,
+          "value": 3.44
+        },
+        {
+          "year": 2008,
+          "value": 5.68
+        },
+        {
+          "year": 2009,
+          "value": 3.75
+        },
+        {
+          "year": 2010,
+          "value": 3.5
+        },
+        {
+          "year": 2011,
+          "value": 5.52
+        },
+        {
+          "year": 2012,
+          "value": 3.06
+        },
+        {
+          "year": 2013,
+          "value": 4.12
+        },
+        {
+          "year": 2014,
+          "value": 2.72
+        },
+        {
+          "year": 2015,
+          "value": 4.34
+        },
+        {
+          "year": 2016,
+          "value": 0.52
+        },
+        {
+          "year": 2017,
+          "value": 5.06
+        },
+        {
+          "year": 2018,
+          "value": 3.07
+        },
+        {
+          "year": 2019,
+          "value": 2.89
+        },
+        {
+          "year": 2020,
+          "value": -7.18
+        },
+        {
+          "year": 2021,
+          "value": 8.15
+        },
+        {
+          "year": 2022,
+          "value": 1.81
+        },
+        {
+          "year": 2023,
+          "value": 3.66
+        },
+        {
+          "year": 2024,
+          "value": 3.79
         }
       ],
       "inflation": [
@@ -29565,6 +33062,7 @@
       "electricity_access": 36.9,
       "fdi_inflows": 15.42,
       "gdp": 22752244245.47,
+      "gdp_growth": 2.15,
       "inflation": 4.08,
       "internet_users": 20.53,
       "life_expectancy": 63.8,
@@ -29877,6 +33375,108 @@
         {
           "year": 2024,
           "value": 22752244245.47
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 0.77
+        },
+        {
+          "year": 2001,
+          "value": 12.85
+        },
+        {
+          "year": 2002,
+          "value": 9.67
+        },
+        {
+          "year": 2003,
+          "value": 7.22
+        },
+        {
+          "year": 2004,
+          "value": 8.2
+        },
+        {
+          "year": 2005,
+          "value": 6.31
+        },
+        {
+          "year": 2006,
+          "value": 9.91
+        },
+        {
+          "year": 2007,
+          "value": 7.65
+        },
+        {
+          "year": 2008,
+          "value": 6.88
+        },
+        {
+          "year": 2009,
+          "value": 5.93
+        },
+        {
+          "year": 2010,
+          "value": 6.68
+        },
+        {
+          "year": 2011,
+          "value": 7.13
+        },
+        {
+          "year": 2012,
+          "value": 7.99
+        },
+        {
+          "year": 2013,
+          "value": 6.57
+        },
+        {
+          "year": 2014,
+          "value": 7.7
+        },
+        {
+          "year": 2015,
+          "value": 7.39
+        },
+        {
+          "year": 2016,
+          "value": 4.7
+        },
+        {
+          "year": 2017,
+          "value": 2.64
+        },
+        {
+          "year": 2018,
+          "value": 3.48
+        },
+        {
+          "year": 2019,
+          "value": 2.32
+        },
+        {
+          "year": 2020,
+          "value": -1.22
+        },
+        {
+          "year": 2021,
+          "value": 2.38
+        },
+        {
+          "year": 2022,
+          "value": 4.37
+        },
+        {
+          "year": 2023,
+          "value": 5.5
+        },
+        {
+          "year": 2024,
+          "value": 2.15
         }
       ],
       "inflation": [
@@ -30410,6 +34010,7 @@
       "electricity_access": 59.3,
       "fdi_inflows": 14.18,
       "gdp": 13641190683.46,
+      "gdp_growth": 3.78,
       "inflation": 4.24,
       "internet_users": 64.87,
       "life_expectancy": 67.52,
@@ -30722,6 +34323,108 @@
         {
           "year": 2024,
           "value": 13641190683.46
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 3.49
+        },
+        {
+          "year": 2001,
+          "value": 1.18
+        },
+        {
+          "year": 2002,
+          "value": 4.79
+        },
+        {
+          "year": 2003,
+          "value": 4.24
+        },
+        {
+          "year": 2004,
+          "value": 12.27
+        },
+        {
+          "year": 2005,
+          "value": 2.53
+        },
+        {
+          "year": 2006,
+          "value": 7.07
+        },
+        {
+          "year": 2007,
+          "value": 5.37
+        },
+        {
+          "year": 2008,
+          "value": 2.65
+        },
+        {
+          "year": 2009,
+          "value": 0.3
+        },
+        {
+          "year": 2010,
+          "value": 6.04
+        },
+        {
+          "year": 2011,
+          "value": 5.09
+        },
+        {
+          "year": 2012,
+          "value": 5.06
+        },
+        {
+          "year": 2013,
+          "value": 5.61
+        },
+        {
+          "year": 2014,
+          "value": 6.09
+        },
+        {
+          "year": 2015,
+          "value": 4.26
+        },
+        {
+          "year": 2016,
+          "value": 0.03
+        },
+        {
+          "year": 2017,
+          "value": -1.03
+        },
+        {
+          "year": 2018,
+          "value": 1.06
+        },
+        {
+          "year": 2019,
+          "value": -0.84
+        },
+        {
+          "year": 2020,
+          "value": -8.1
+        },
+        {
+          "year": 2021,
+          "value": 3.6
+        },
+        {
+          "year": 2022,
+          "value": 5.4
+        },
+        {
+          "year": 2023,
+          "value": 4.32
+        },
+        {
+          "year": 2024,
+          "value": 3.78
         }
       ],
       "inflation": [
@@ -31259,6 +34962,7 @@
       "electricity_access": 21.3,
       "fdi_inflows": 1.81,
       "gdp": 19729786046.76,
+      "gdp_growth": 8.32,
       "inflation": 9.07,
       "internet_users": 15.56,
       "life_expectancy": 61.43,
@@ -31571,6 +35275,108 @@
         {
           "year": 2024,
           "value": 19729786046.76
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": -1.21
+        },
+        {
+          "year": 2001,
+          "value": 7.27
+        },
+        {
+          "year": 2002,
+          "value": 4.92
+        },
+        {
+          "year": 2003,
+          "value": 2.17
+        },
+        {
+          "year": 2004,
+          "value": 0.36
+        },
+        {
+          "year": 2005,
+          "value": 7.33
+        },
+        {
+          "year": 2006,
+          "value": 5.93
+        },
+        {
+          "year": 2007,
+          "value": 3.14
+        },
+        {
+          "year": 2008,
+          "value": 7.73
+        },
+        {
+          "year": 2009,
+          "value": 1.96
+        },
+        {
+          "year": 2010,
+          "value": 8.58
+        },
+        {
+          "year": 2011,
+          "value": 2.36
+        },
+        {
+          "year": 2012,
+          "value": 10.55
+        },
+        {
+          "year": 2013,
+          "value": 5.32
+        },
+        {
+          "year": 2014,
+          "value": 6.64
+        },
+        {
+          "year": 2015,
+          "value": 4.39
+        },
+        {
+          "year": 2016,
+          "value": 4.28
+        },
+        {
+          "year": 2017,
+          "value": 5.53
+        },
+        {
+          "year": 2018,
+          "value": 6.89
+        },
+        {
+          "year": 2019,
+          "value": 6.08
+        },
+        {
+          "year": 2020,
+          "value": 4.45
+        },
+        {
+          "year": 2021,
+          "value": 1.12
+        },
+        {
+          "year": 2022,
+          "value": 12.22
+        },
+        {
+          "year": 2023,
+          "value": 2.64
+        },
+        {
+          "year": 2024,
+          "value": 8.32
         }
       ],
       "inflation": [
@@ -32124,6 +35930,7 @@
       "electricity_access": 62.5,
       "fdi_inflows": 0.64,
       "gdp": 252261880140.27,
+      "gdp_growth": 4.07,
       "inflation": 33.24,
       "internet_users": 41.21,
       "life_expectancy": 54.63,
@@ -32436,6 +36243,108 @@
         {
           "year": 2024,
           "value": 252261880140.27
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 5.02
+        },
+        {
+          "year": 2001,
+          "value": 5.92
+        },
+        {
+          "year": 2002,
+          "value": 15.33
+        },
+        {
+          "year": 2003,
+          "value": 7.35
+        },
+        {
+          "year": 2004,
+          "value": 9.25
+        },
+        {
+          "year": 2005,
+          "value": 6.44
+        },
+        {
+          "year": 2006,
+          "value": 6.06
+        },
+        {
+          "year": 2007,
+          "value": 6.59
+        },
+        {
+          "year": 2008,
+          "value": 6.76
+        },
+        {
+          "year": 2009,
+          "value": 8.04
+        },
+        {
+          "year": 2010,
+          "value": 8.01
+        },
+        {
+          "year": 2011,
+          "value": 5.31
+        },
+        {
+          "year": 2012,
+          "value": 4.23
+        },
+        {
+          "year": 2013,
+          "value": 6.67
+        },
+        {
+          "year": 2014,
+          "value": 6.31
+        },
+        {
+          "year": 2015,
+          "value": 2.65
+        },
+        {
+          "year": 2016,
+          "value": -1.62
+        },
+        {
+          "year": 2017,
+          "value": 0.81
+        },
+        {
+          "year": 2018,
+          "value": 1.92
+        },
+        {
+          "year": 2019,
+          "value": 2.21
+        },
+        {
+          "year": 2020,
+          "value": -6.37
+        },
+        {
+          "year": 2021,
+          "value": 1.11
+        },
+        {
+          "year": 2022,
+          "value": 4.32
+        },
+        {
+          "year": 2023,
+          "value": 3.32
+        },
+        {
+          "year": 2024,
+          "value": 4.07
         }
       ],
       "inflation": [
@@ -32985,6 +36894,7 @@
       "electricity_access": 72.0,
       "fdi_inflows": 3.79,
       "gdp": 15111064181.97,
+      "gdp_growth": 7.23,
       "inflation": 1.77,
       "internet_users": 31.7,
       "life_expectancy": 68.02,
@@ -33297,6 +37207,108 @@
         {
           "year": 2024,
           "value": 15111064181.97
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 8.37
+        },
+        {
+          "year": 2001,
+          "value": 8.48
+        },
+        {
+          "year": 2002,
+          "value": 13.19
+        },
+        {
+          "year": 2003,
+          "value": 2.2
+        },
+        {
+          "year": 2004,
+          "value": 7.45
+        },
+        {
+          "year": 2005,
+          "value": 9.38
+        },
+        {
+          "year": 2006,
+          "value": 9.23
+        },
+        {
+          "year": 2007,
+          "value": 7.63
+        },
+        {
+          "year": 2008,
+          "value": 11.16
+        },
+        {
+          "year": 2009,
+          "value": 6.25
+        },
+        {
+          "year": 2010,
+          "value": 7.33
+        },
+        {
+          "year": 2011,
+          "value": 7.96
+        },
+        {
+          "year": 2012,
+          "value": 8.64
+        },
+        {
+          "year": 2013,
+          "value": 4.72
+        },
+        {
+          "year": 2014,
+          "value": 5.67
+        },
+        {
+          "year": 2015,
+          "value": 8.87
+        },
+        {
+          "year": 2016,
+          "value": 5.66
+        },
+        {
+          "year": 2017,
+          "value": 4.7
+        },
+        {
+          "year": 2018,
+          "value": 8.07
+        },
+        {
+          "year": 2019,
+          "value": 9.29
+        },
+        {
+          "year": 2020,
+          "value": -2.78
+        },
+        {
+          "year": 2021,
+          "value": 8.41
+        },
+        {
+          "year": 2022,
+          "value": 9.82
+        },
+        {
+          "year": 2023,
+          "value": 8.56
+        },
+        {
+          "year": 2024,
+          "value": 7.23
         }
       ],
       "inflation": [
@@ -33846,6 +37858,7 @@
       "electricity_access": 77.7,
       "fdi_inflows": -2.02,
       "gdp": 824992558.05,
+      "gdp_growth": 1.48,
       "inflation": 14.35,
       "internet_users": 59.12,
       "life_expectancy": 69.91,
@@ -34158,6 +38171,108 @@
         {
           "year": 2024,
           "value": 824992558.05
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 0.45
+        },
+        {
+          "year": 2001,
+          "value": 3.06
+        },
+        {
+          "year": 2002,
+          "value": 3.36
+        },
+        {
+          "year": 2003,
+          "value": 8.29
+        },
+        {
+          "year": 2004,
+          "value": 3.54
+        },
+        {
+          "year": 2005,
+          "value": 6.61
+        },
+        {
+          "year": 2006,
+          "value": 8.87
+        },
+        {
+          "year": 2007,
+          "value": 3.64
+        },
+        {
+          "year": 2008,
+          "value": 6.23
+        },
+        {
+          "year": 2009,
+          "value": 3.3
+        },
+        {
+          "year": 2010,
+          "value": 1.45
+        },
+        {
+          "year": 2011,
+          "value": 2.0
+        },
+        {
+          "year": 2012,
+          "value": 2.94
+        },
+        {
+          "year": 2013,
+          "value": 5.12
+        },
+        {
+          "year": 2014,
+          "value": 4.91
+        },
+        {
+          "year": 2015,
+          "value": 1.54
+        },
+        {
+          "year": 2016,
+          "value": 5.18
+        },
+        {
+          "year": 2017,
+          "value": 4.11
+        },
+        {
+          "year": 2018,
+          "value": 4.38
+        },
+        {
+          "year": 2019,
+          "value": 2.01
+        },
+        {
+          "year": 2020,
+          "value": 2.62
+        },
+        {
+          "year": 2021,
+          "value": 1.9
+        },
+        {
+          "year": 2022,
+          "value": 0.17
+        },
+        {
+          "year": 2023,
+          "value": 0.37
+        },
+        {
+          "year": 2024,
+          "value": 1.48
         }
       ],
       "inflation": [
@@ -34699,6 +38814,7 @@
       "electricity_access": 82.9,
       "fdi_inflows": 6.27,
       "gdp": 32169996051.85,
+      "gdp_growth": 6.46,
       "inflation": 0.8,
       "internet_users": 60.12,
       "life_expectancy": 68.92,
@@ -35011,6 +39127,108 @@
         {
           "year": 2024,
           "value": 32169996051.85
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 3.89
+        },
+        {
+          "year": 2001,
+          "value": 4.31
+        },
+        {
+          "year": 2002,
+          "value": 0.07
+        },
+        {
+          "year": 2003,
+          "value": 5.59
+        },
+        {
+          "year": 2004,
+          "value": 4.64
+        },
+        {
+          "year": 2005,
+          "value": 4.31
+        },
+        {
+          "year": 2006,
+          "value": 2.33
+        },
+        {
+          "year": 2007,
+          "value": 2.83
+        },
+        {
+          "year": 2008,
+          "value": 3.7
+        },
+        {
+          "year": 2009,
+          "value": 2.75
+        },
+        {
+          "year": 2010,
+          "value": 3.39
+        },
+        {
+          "year": 2011,
+          "value": 1.33
+        },
+        {
+          "year": 2012,
+          "value": 4.0
+        },
+        {
+          "year": 2013,
+          "value": 2.41
+        },
+        {
+          "year": 2014,
+          "value": 6.22
+        },
+        {
+          "year": 2015,
+          "value": 6.37
+        },
+        {
+          "year": 2016,
+          "value": 6.36
+        },
+        {
+          "year": 2017,
+          "value": 7.41
+        },
+        {
+          "year": 2018,
+          "value": 6.21
+        },
+        {
+          "year": 2019,
+          "value": 4.61
+        },
+        {
+          "year": 2020,
+          "value": 1.34
+        },
+        {
+          "year": 2021,
+          "value": 6.54
+        },
+        {
+          "year": 2022,
+          "value": 3.85
+        },
+        {
+          "year": 2023,
+          "value": 4.26
+        },
+        {
+          "year": 2024,
+          "value": 6.46
         }
       ],
       "inflation": [
@@ -35584,6 +39802,7 @@
       "electricity_access": 100.0,
       "fdi_inflows": 10.15,
       "gdp": 2228608684.3,
+      "gdp_growth": 3.35,
       "inflation": 0.31,
       "internet_users": 87.82,
       "life_expectancy": 76.3,
@@ -35895,6 +40114,108 @@
         {
           "year": 2024,
           "value": 2228608684.3
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 4.25
+        },
+        {
+          "year": 2001,
+          "value": -2.27
+        },
+        {
+          "year": 2002,
+          "value": 1.21
+        },
+        {
+          "year": 2003,
+          "value": -5.89
+        },
+        {
+          "year": 2004,
+          "value": -2.85
+        },
+        {
+          "year": 2005,
+          "value": 9.01
+        },
+        {
+          "year": 2006,
+          "value": 9.41
+        },
+        {
+          "year": 2007,
+          "value": 8.88
+        },
+        {
+          "year": 2008,
+          "value": -2.73
+        },
+        {
+          "year": 2009,
+          "value": -2.48
+        },
+        {
+          "year": 2010,
+          "value": 4.51
+        },
+        {
+          "year": 2011,
+          "value": 9.51
+        },
+        {
+          "year": 2012,
+          "value": 3.11
+        },
+        {
+          "year": 2013,
+          "value": 1.25
+        },
+        {
+          "year": 2014,
+          "value": 4.06
+        },
+        {
+          "year": 2015,
+          "value": 8.91
+        },
+        {
+          "year": 2016,
+          "value": 12.12
+        },
+        {
+          "year": 2017,
+          "value": 6.95
+        },
+        {
+          "year": 2018,
+          "value": 4.94
+        },
+        {
+          "year": 2019,
+          "value": 5.51
+        },
+        {
+          "year": 2020,
+          "value": -11.74
+        },
+        {
+          "year": 2021,
+          "value": 0.55
+        },
+        {
+          "year": 2022,
+          "value": 9.88
+        },
+        {
+          "year": 2023,
+          "value": 5.18
+        },
+        {
+          "year": 2024,
+          "value": 3.35
         }
       ],
       "inflation": [
@@ -36327,6 +40648,7 @@
       "electricity_access": 39.2,
       "fdi_inflows": 1.75,
       "gdp": 6971127234.07,
+      "gdp_growth": 4.29,
       "inflation": 28.63,
       "internet_users": 25.1,
       "life_expectancy": 61.96,
@@ -36639,6 +40961,108 @@
         {
           "year": 2024,
           "value": 6971127234.07
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 6.65
+        },
+        {
+          "year": 2001,
+          "value": -6.35
+        },
+        {
+          "year": 2002,
+          "value": 26.52
+        },
+        {
+          "year": 2003,
+          "value": 9.48
+        },
+        {
+          "year": 2004,
+          "value": 6.48
+        },
+        {
+          "year": 2005,
+          "value": 4.35
+        },
+        {
+          "year": 2006,
+          "value": 4.28
+        },
+        {
+          "year": 2007,
+          "value": 3.75
+        },
+        {
+          "year": 2008,
+          "value": 3.69
+        },
+        {
+          "year": 2009,
+          "value": 1.53
+        },
+        {
+          "year": 2010,
+          "value": 6.36
+        },
+        {
+          "year": 2011,
+          "value": 8.1
+        },
+        {
+          "year": 2012,
+          "value": 10.58
+        },
+        {
+          "year": 2013,
+          "value": 14.66
+        },
+        {
+          "year": 2014,
+          "value": -7.82
+        },
+        {
+          "year": 2015,
+          "value": -4.36
+        },
+        {
+          "year": 2016,
+          "value": 6.44
+        },
+        {
+          "year": 2017,
+          "value": 3.21
+        },
+        {
+          "year": 2018,
+          "value": 2.89
+        },
+        {
+          "year": 2019,
+          "value": 5.5
+        },
+        {
+          "year": 2020,
+          "value": -1.25
+        },
+        {
+          "year": 2021,
+          "value": 5.9
+        },
+        {
+          "year": 2022,
+          "value": 5.31
+        },
+        {
+          "year": 2023,
+          "value": 5.71
+        },
+        {
+          "year": 2024,
+          "value": 4.29
         }
       ],
       "inflation": [
@@ -37164,6 +41588,7 @@
       "electricity_access": 54.4,
       "fdi_inflows": 6.39,
       "gdp": 11967000000.0,
+      "gdp_growth": 4.11,
       "internet_users": 27.94,
       "life_expectancy": 58.97,
       "literacy_rate": 54.12,
@@ -37475,6 +41900,108 @@
         {
           "year": 2024,
           "value": 11967000000.0
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 7.11
+        },
+        {
+          "year": 2001,
+          "value": 7.11
+        },
+        {
+          "year": 2002,
+          "value": 7.63
+        },
+        {
+          "year": 2003,
+          "value": 7.63
+        },
+        {
+          "year": 2004,
+          "value": 7.11
+        },
+        {
+          "year": 2005,
+          "value": 7.11
+        },
+        {
+          "year": 2006,
+          "value": 6.49
+        },
+        {
+          "year": 2007,
+          "value": 6.69
+        },
+        {
+          "year": 2008,
+          "value": 6.69
+        },
+        {
+          "year": 2009,
+          "value": 6.69
+        },
+        {
+          "year": 2010,
+          "value": 6.69
+        },
+        {
+          "year": 2011,
+          "value": 6.69
+        },
+        {
+          "year": 2012,
+          "value": 6.69
+        },
+        {
+          "year": 2013,
+          "value": 10.96
+        },
+        {
+          "year": 2014,
+          "value": 8.98
+        },
+        {
+          "year": 2015,
+          "value": 10.46
+        },
+        {
+          "year": 2016,
+          "value": 7.03
+        },
+        {
+          "year": 2017,
+          "value": 14.74
+        },
+        {
+          "year": 2018,
+          "value": 2.05
+        },
+        {
+          "year": 2019,
+          "value": 2.8
+        },
+        {
+          "year": 2020,
+          "value": -2.76
+        },
+        {
+          "year": 2021,
+          "value": 3.45
+        },
+        {
+          "year": 2022,
+          "value": 2.72
+        },
+        {
+          "year": 2023,
+          "value": 4.18
+        },
+        {
+          "year": 2024,
+          "value": 4.11
         }
       ],
       "inflation": [],
@@ -37899,6 +42426,7 @@
       "electricity_access": 90.2,
       "fdi_inflows": 0.58,
       "gdp": 401144998373.59,
+      "gdp_growth": 0.53,
       "inflation": 4.36,
       "internet_users": 78.36,
       "life_expectancy": 66.31,
@@ -38211,6 +42739,108 @@
         {
           "year": 2024,
           "value": 401144998373.59
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 4.2
+        },
+        {
+          "year": 2001,
+          "value": 2.7
+        },
+        {
+          "year": 2002,
+          "value": 3.7
+        },
+        {
+          "year": 2003,
+          "value": 2.95
+        },
+        {
+          "year": 2004,
+          "value": 4.55
+        },
+        {
+          "year": 2005,
+          "value": 5.28
+        },
+        {
+          "year": 2006,
+          "value": 5.6
+        },
+        {
+          "year": 2007,
+          "value": 5.36
+        },
+        {
+          "year": 2008,
+          "value": 3.19
+        },
+        {
+          "year": 2009,
+          "value": -1.54
+        },
+        {
+          "year": 2010,
+          "value": 3.04
+        },
+        {
+          "year": 2011,
+          "value": 3.17
+        },
+        {
+          "year": 2012,
+          "value": 2.4
+        },
+        {
+          "year": 2013,
+          "value": 2.49
+        },
+        {
+          "year": 2014,
+          "value": 1.41
+        },
+        {
+          "year": 2015,
+          "value": 1.32
+        },
+        {
+          "year": 2016,
+          "value": 0.66
+        },
+        {
+          "year": 2017,
+          "value": 1.16
+        },
+        {
+          "year": 2018,
+          "value": 1.56
+        },
+        {
+          "year": 2019,
+          "value": 0.26
+        },
+        {
+          "year": 2020,
+          "value": -6.17
+        },
+        {
+          "year": 2021,
+          "value": 4.86
+        },
+        {
+          "year": 2022,
+          "value": 2.06
+        },
+        {
+          "year": 2023,
+          "value": 0.81
+        },
+        {
+          "year": 2024,
+          "value": 0.53
         }
       ],
       "inflation": [
@@ -38784,6 +43414,7 @@
       "electricity_access": 5.4,
       "fdi_inflows": 0.0,
       "gdp": 11997800760.22,
+      "gdp_growth": -10.79,
       "inflation": 91.44,
       "internet_users": 6.67,
       "life_expectancy": 57.74,
@@ -38916,6 +43547,36 @@
         {
           "year": 2015,
           "value": 11997800760.22
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2009,
+          "value": 5.04
+        },
+        {
+          "year": 2010,
+          "value": 5.49
+        },
+        {
+          "year": 2011,
+          "value": -4.64
+        },
+        {
+          "year": 2012,
+          "value": -46.08
+        },
+        {
+          "year": 2013,
+          "value": 13.13
+        },
+        {
+          "year": 2014,
+          "value": 3.37
+        },
+        {
+          "year": 2015,
+          "value": -10.79
         }
       ],
       "inflation": [
@@ -39341,6 +44002,7 @@
       "electricity_access": 66.0,
       "fdi_inflows": 1.37,
       "gdp": 49672435513.11,
+      "gdp_growth": -13.96,
       "inflation": 138.81,
       "internet_users": 18.6,
       "life_expectancy": 66.52,
@@ -39649,6 +44311,108 @@
         {
           "year": 2024,
           "value": 49672435513.11
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 6.35
+        },
+        {
+          "year": 2001,
+          "value": 6.5
+        },
+        {
+          "year": 2002,
+          "value": 6.01
+        },
+        {
+          "year": 2003,
+          "value": 6.29
+        },
+        {
+          "year": 2004,
+          "value": 5.14
+        },
+        {
+          "year": 2005,
+          "value": 5.64
+        },
+        {
+          "year": 2006,
+          "value": 6.53
+        },
+        {
+          "year": 2007,
+          "value": 5.74
+        },
+        {
+          "year": 2008,
+          "value": 3.85
+        },
+        {
+          "year": 2009,
+          "value": -2.77
+        },
+        {
+          "year": 2010,
+          "value": 3.86
+        },
+        {
+          "year": 2011,
+          "value": -3.21
+        },
+        {
+          "year": 2012,
+          "value": -17.0
+        },
+        {
+          "year": 2013,
+          "value": 1.96
+        },
+        {
+          "year": 2014,
+          "value": 4.66
+        },
+        {
+          "year": 2015,
+          "value": 1.91
+        },
+        {
+          "year": 2016,
+          "value": 3.47
+        },
+        {
+          "year": 2017,
+          "value": 0.71
+        },
+        {
+          "year": 2018,
+          "value": -2.68
+        },
+        {
+          "year": 2019,
+          "value": -2.18
+        },
+        {
+          "year": 2020,
+          "value": -3.63
+        },
+        {
+          "year": 2021,
+          "value": -1.87
+        },
+        {
+          "year": 2022,
+          "value": -0.96
+        },
+        {
+          "year": 2023,
+          "value": -29.43
+        },
+        {
+          "year": 2024,
+          "value": -13.96
         }
       ],
       "inflation": [
@@ -40106,6 +44870,7 @@
       "electricity_access": 52.4,
       "fdi_inflows": 2.17,
       "gdp": 79235713444.98,
+      "gdp_growth": 5.53,
       "inflation": 3.06,
       "internet_users": 31.16,
       "life_expectancy": 67.21,
@@ -40418,6 +45183,108 @@
         {
           "year": 2024,
           "value": 79235713444.98
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 4.52
+        },
+        {
+          "year": 2001,
+          "value": 6.07
+        },
+        {
+          "year": 2002,
+          "value": 7.09
+        },
+        {
+          "year": 2003,
+          "value": 6.67
+        },
+        {
+          "year": 2004,
+          "value": 7.5
+        },
+        {
+          "year": 2005,
+          "value": 7.48
+        },
+        {
+          "year": 2006,
+          "value": 6.53
+        },
+        {
+          "year": 2007,
+          "value": 6.77
+        },
+        {
+          "year": 2008,
+          "value": 5.69
+        },
+        {
+          "year": 2009,
+          "value": 5.27
+        },
+        {
+          "year": 2010,
+          "value": 6.34
+        },
+        {
+          "year": 2011,
+          "value": 7.67
+        },
+        {
+          "year": 2012,
+          "value": 4.5
+        },
+        {
+          "year": 2013,
+          "value": 6.78
+        },
+        {
+          "year": 2014,
+          "value": 6.73
+        },
+        {
+          "year": 2015,
+          "value": 6.16
+        },
+        {
+          "year": 2016,
+          "value": 6.87
+        },
+        {
+          "year": 2017,
+          "value": 6.73
+        },
+        {
+          "year": 2018,
+          "value": 5.5
+        },
+        {
+          "year": 2019,
+          "value": 5.8
+        },
+        {
+          "year": 2020,
+          "value": 1.99
+        },
+        {
+          "year": 2021,
+          "value": 4.32
+        },
+        {
+          "year": 2022,
+          "value": 4.57
+        },
+        {
+          "year": 2023,
+          "value": 5.07
+        },
+        {
+          "year": 2024,
+          "value": 5.53
         }
       ],
       "inflation": [
@@ -40971,6 +45838,7 @@
       "electricity_access": 61.1,
       "fdi_inflows": 0.79,
       "gdp": 10643440332.24,
+      "gdp_growth": 6.53,
       "inflation": 2.86,
       "internet_users": 39.48,
       "life_expectancy": 62.94,
@@ -41283,6 +46151,108 @@
         {
           "year": 2024,
           "value": 10643440332.24
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": -0.78
+        },
+        {
+          "year": 2001,
+          "value": 0.82
+        },
+        {
+          "year": 2002,
+          "value": 3.83
+        },
+        {
+          "year": 2003,
+          "value": 6.72
+        },
+        {
+          "year": 2004,
+          "value": -0.98
+        },
+        {
+          "year": 2005,
+          "value": -4.67
+        },
+        {
+          "year": 2006,
+          "value": 2.65
+        },
+        {
+          "year": 2007,
+          "value": -1.18
+        },
+        {
+          "year": 2008,
+          "value": 4.04
+        },
+        {
+          "year": 2009,
+          "value": 5.45
+        },
+        {
+          "year": 2010,
+          "value": 5.85
+        },
+        {
+          "year": 2011,
+          "value": 5.82
+        },
+        {
+          "year": 2012,
+          "value": 6.3
+        },
+        {
+          "year": 2013,
+          "value": 5.82
+        },
+        {
+          "year": 2014,
+          "value": 5.63
+        },
+        {
+          "year": 2015,
+          "value": 5.47
+        },
+        {
+          "year": 2016,
+          "value": 4.21
+        },
+        {
+          "year": 2017,
+          "value": 4.01
+        },
+        {
+          "year": 2018,
+          "value": 4.8
+        },
+        {
+          "year": 2019,
+          "value": 4.92
+        },
+        {
+          "year": 2020,
+          "value": 2.16
+        },
+        {
+          "year": 2021,
+          "value": 5.14
+        },
+        {
+          "year": 2022,
+          "value": 6.29
+        },
+        {
+          "year": 2023,
+          "value": 6.2
+        },
+        {
+          "year": 2024,
+          "value": 6.53
         }
       ],
       "inflation": [
@@ -41848,6 +46818,7 @@
       "electricity_access": 100.0,
       "fdi_inflows": 1.48,
       "gdp": 51412122479.85,
+      "gdp_growth": 1.61,
       "inflation": 7.21,
       "internet_users": 76.5,
       "life_expectancy": 76.71,
@@ -42160,6 +47131,108 @@
         {
           "year": 2024,
           "value": 51412122479.85
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 4.71
+        },
+        {
+          "year": 2001,
+          "value": 3.8
+        },
+        {
+          "year": 2002,
+          "value": 1.32
+        },
+        {
+          "year": 2003,
+          "value": 4.7
+        },
+        {
+          "year": 2004,
+          "value": 6.24
+        },
+        {
+          "year": 2005,
+          "value": 3.49
+        },
+        {
+          "year": 2006,
+          "value": 5.24
+        },
+        {
+          "year": 2007,
+          "value": 6.71
+        },
+        {
+          "year": 2008,
+          "value": 4.24
+        },
+        {
+          "year": 2009,
+          "value": 3.04
+        },
+        {
+          "year": 2010,
+          "value": 2.97
+        },
+        {
+          "year": 2011,
+          "value": -2.05
+        },
+        {
+          "year": 2012,
+          "value": 4.22
+        },
+        {
+          "year": 2013,
+          "value": 2.43
+        },
+        {
+          "year": 2014,
+          "value": 3.09
+        },
+        {
+          "year": 2015,
+          "value": 0.97
+        },
+        {
+          "year": 2016,
+          "value": 1.12
+        },
+        {
+          "year": 2017,
+          "value": 2.25
+        },
+        {
+          "year": 2018,
+          "value": 2.61
+        },
+        {
+          "year": 2019,
+          "value": 1.55
+        },
+        {
+          "year": 2020,
+          "value": -8.98
+        },
+        {
+          "year": 2021,
+          "value": 4.74
+        },
+        {
+          "year": 2022,
+          "value": 2.75
+        },
+        {
+          "year": 2023,
+          "value": 0.18
+        },
+        {
+          "year": 2024,
+          "value": 1.61
         }
       ],
       "inflation": [
@@ -42725,6 +47798,7 @@
       "electricity_access": 55.3,
       "fdi_inflows": 6.04,
       "gdp": 53911907079.05,
+      "gdp_growth": 6.06,
       "inflation": 3.32,
       "internet_users": 8.95,
       "life_expectancy": 68.49,
@@ -43037,6 +48111,108 @@
         {
           "year": 2024,
           "value": 53911907079.05
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 3.14
+        },
+        {
+          "year": 2001,
+          "value": 5.18
+        },
+        {
+          "year": 2002,
+          "value": 8.73
+        },
+        {
+          "year": 2003,
+          "value": 6.47
+        },
+        {
+          "year": 2004,
+          "value": 6.81
+        },
+        {
+          "year": 2005,
+          "value": 6.33
+        },
+        {
+          "year": 2006,
+          "value": 10.78
+        },
+        {
+          "year": 2007,
+          "value": 8.41
+        },
+        {
+          "year": 2008,
+          "value": 8.71
+        },
+        {
+          "year": 2009,
+          "value": 6.8
+        },
+        {
+          "year": 2010,
+          "value": 5.64
+        },
+        {
+          "year": 2011,
+          "value": 9.39
+        },
+        {
+          "year": 2012,
+          "value": 3.84
+        },
+        {
+          "year": 2013,
+          "value": 3.59
+        },
+        {
+          "year": 2014,
+          "value": 5.11
+        },
+        {
+          "year": 2015,
+          "value": 5.19
+        },
+        {
+          "year": 2016,
+          "value": 4.78
+        },
+        {
+          "year": 2017,
+          "value": 3.13
+        },
+        {
+          "year": 2018,
+          "value": 6.3
+        },
+        {
+          "year": 2019,
+          "value": 6.44
+        },
+        {
+          "year": 2020,
+          "value": 2.95
+        },
+        {
+          "year": 2021,
+          "value": 3.54
+        },
+        {
+          "year": 2022,
+          "value": 4.59
+        },
+        {
+          "year": 2023,
+          "value": 5.34
+        },
+        {
+          "year": 2024,
+          "value": 6.06
         }
       ],
       "inflation": [
@@ -43602,6 +48778,7 @@
       "electricity_access": 53.6,
       "fdi_inflows": 9.32,
       "gdp": 25303185342.25,
+      "gdp_growth": 3.82,
       "inflation": 14.99,
       "internet_users": 17.1,
       "life_expectancy": 66.53,
@@ -43914,6 +49091,108 @@
         {
           "year": 2024,
           "value": 25303185342.25
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": 3.9
+        },
+        {
+          "year": 2001,
+          "value": 5.32
+        },
+        {
+          "year": 2002,
+          "value": 4.51
+        },
+        {
+          "year": 2003,
+          "value": 6.94
+        },
+        {
+          "year": 2004,
+          "value": 7.03
+        },
+        {
+          "year": 2005,
+          "value": 7.24
+        },
+        {
+          "year": 2006,
+          "value": 7.9
+        },
+        {
+          "year": 2007,
+          "value": 8.35
+        },
+        {
+          "year": 2008,
+          "value": 7.77
+        },
+        {
+          "year": 2009,
+          "value": 9.22
+        },
+        {
+          "year": 2010,
+          "value": 10.3
+        },
+        {
+          "year": 2011,
+          "value": 5.57
+        },
+        {
+          "year": 2012,
+          "value": 7.6
+        },
+        {
+          "year": 2013,
+          "value": 5.06
+        },
+        {
+          "year": 2014,
+          "value": 4.69
+        },
+        {
+          "year": 2015,
+          "value": 2.92
+        },
+        {
+          "year": 2016,
+          "value": 3.76
+        },
+        {
+          "year": 2017,
+          "value": 3.53
+        },
+        {
+          "year": 2018,
+          "value": 4.03
+        },
+        {
+          "year": 2019,
+          "value": 1.44
+        },
+        {
+          "year": 2020,
+          "value": -2.79
+        },
+        {
+          "year": 2021,
+          "value": 6.23
+        },
+        {
+          "year": 2022,
+          "value": 5.21
+        },
+        {
+          "year": 2023,
+          "value": 5.37
+        },
+        {
+          "year": 2024,
+          "value": 3.82
         }
       ],
       "inflation": [
@@ -44471,6 +49750,7 @@
       "electricity_access": 62.0,
       "fdi_inflows": 1.12,
       "gdp": 41521975830.24,
+      "gdp_growth": 1.68,
       "inflation": 104.71,
       "internet_users": 41.64,
       "life_expectancy": 63.06,
@@ -44783,6 +50063,108 @@
         {
           "year": 2024,
           "value": 41521975830.24
+        }
+      ],
+      "gdp_growth": [
+        {
+          "year": 2000,
+          "value": -3.06
+        },
+        {
+          "year": 2001,
+          "value": 1.44
+        },
+        {
+          "year": 2002,
+          "value": -8.89
+        },
+        {
+          "year": 2003,
+          "value": -17.0
+        },
+        {
+          "year": 2004,
+          "value": -5.81
+        },
+        {
+          "year": 2005,
+          "value": -5.71
+        },
+        {
+          "year": 2006,
+          "value": -3.46
+        },
+        {
+          "year": 2007,
+          "value": -3.65
+        },
+        {
+          "year": 2008,
+          "value": -17.67
+        },
+        {
+          "year": 2009,
+          "value": 13.27
+        },
+        {
+          "year": 2010,
+          "value": 19.68
+        },
+        {
+          "year": 2011,
+          "value": 14.19
+        },
+        {
+          "year": 2012,
+          "value": 16.67
+        },
+        {
+          "year": 2013,
+          "value": 1.99
+        },
+        {
+          "year": 2014,
+          "value": 2.38
+        },
+        {
+          "year": 2015,
+          "value": 1.78
+        },
+        {
+          "year": 2016,
+          "value": 0.76
+        },
+        {
+          "year": 2017,
+          "value": 4.73
+        },
+        {
+          "year": 2018,
+          "value": 5.01
+        },
+        {
+          "year": 2019,
+          "value": -6.33
+        },
+        {
+          "year": 2020,
+          "value": -7.82
+        },
+        {
+          "year": 2021,
+          "value": 8.47
+        },
+        {
+          "year": 2022,
+          "value": 6.14
+        },
+        {
+          "year": 2023,
+          "value": 5.35
+        },
+        {
+          "year": 2024,
+          "value": 1.68
         }
       ],
       "inflation": [

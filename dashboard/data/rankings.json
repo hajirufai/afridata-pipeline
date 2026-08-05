@@ -379,7 +379,386 @@
       "year": 2024
     }
   ],
-  "gdp_growth": [],
+  "gdp_growth": [
+    {
+      "rank": 1,
+      "country": "Eritrea",
+      "iso3": "ERI",
+      "value": 8.68,
+      "year": 2011
+    },
+    {
+      "rank": 2,
+      "country": "Niger",
+      "iso3": "NER",
+      "value": 8.32,
+      "year": 2024
+    },
+    {
+      "rank": 3,
+      "country": "Ethiopia",
+      "iso3": "ETH",
+      "value": 7.61,
+      "year": 2024
+    },
+    {
+      "rank": 4,
+      "country": "Benin",
+      "iso3": "BEN",
+      "value": 7.45,
+      "year": 2024
+    },
+    {
+      "rank": 5,
+      "country": "Rwanda",
+      "iso3": "RWA",
+      "value": 7.23,
+      "year": 2024
+    },
+    {
+      "rank": 6,
+      "country": "Cabo Verde",
+      "iso3": "CPV",
+      "value": 6.99,
+      "year": 2024
+    },
+    {
+      "rank": 7,
+      "country": "Djibouti",
+      "iso3": "DJI",
+      "value": 6.98,
+      "year": 2024
+    },
+    {
+      "rank": 8,
+      "country": "Togo",
+      "iso3": "TGO",
+      "value": 6.53,
+      "year": 2024
+    },
+    {
+      "rank": 9,
+      "country": "Senegal",
+      "iso3": "SEN",
+      "value": 6.46,
+      "year": 2024
+    },
+    {
+      "rank": 10,
+      "country": "Mauritania",
+      "iso3": "MRT",
+      "value": 6.31,
+      "year": 2024
+    },
+    {
+      "rank": 11,
+      "country": "Congo, Dem. Rep.",
+      "iso3": "COD",
+      "value": 6.1,
+      "year": 2024
+    },
+    {
+      "rank": 12,
+      "country": "Uganda",
+      "iso3": "UGA",
+      "value": 6.06,
+      "year": 2024
+    },
+    {
+      "rank": 13,
+      "country": "C\u00f4te d'Ivoire",
+      "iso3": "CIV",
+      "value": 6.02,
+      "year": 2024
+    },
+    {
+      "rank": 14,
+      "country": "Ghana",
+      "iso3": "GHA",
+      "value": 5.85,
+      "year": 2024
+    },
+    {
+      "rank": 15,
+      "country": "Gambia",
+      "iso3": "GMB",
+      "value": 5.55,
+      "year": 2024
+    },
+    {
+      "rank": 16,
+      "country": "Tanzania",
+      "iso3": "TZA",
+      "value": 5.53,
+      "year": 2024
+    },
+    {
+      "rank": 17,
+      "country": "Guinea",
+      "iso3": "GIN",
+      "value": 5.35,
+      "year": 2024
+    },
+    {
+      "rank": 18,
+      "country": "Lesotho",
+      "iso3": "LSO",
+      "value": 5.23,
+      "year": 2024
+    },
+    {
+      "rank": 19,
+      "country": "Mali",
+      "iso3": "MLI",
+      "value": 5.02,
+      "year": 2024
+    },
+    {
+      "rank": 20,
+      "country": "Angola",
+      "iso3": "AGO",
+      "value": 4.95,
+      "year": 2024
+    },
+    {
+      "rank": 21,
+      "country": "Chad",
+      "iso3": "TCD",
+      "value": 4.95,
+      "year": 2024
+    },
+    {
+      "rank": 22,
+      "country": "Mauritius",
+      "iso3": "MUS",
+      "value": 4.95,
+      "year": 2024
+    },
+    {
+      "rank": 23,
+      "country": "Burkina Faso",
+      "iso3": "BFA",
+      "value": 4.83,
+      "year": 2024
+    },
+    {
+      "rank": 24,
+      "country": "Kenya",
+      "iso3": "KEN",
+      "value": 4.66,
+      "year": 2024
+    },
+    {
+      "rank": 25,
+      "country": "Guinea-Bissau",
+      "iso3": "GNB",
+      "value": 4.41,
+      "year": 2024
+    },
+    {
+      "rank": 26,
+      "country": "Madagascar",
+      "iso3": "MDG",
+      "value": 4.32,
+      "year": 2024
+    },
+    {
+      "rank": 27,
+      "country": "Sierra Leone",
+      "iso3": "SLE",
+      "value": 4.29,
+      "year": 2024
+    },
+    {
+      "rank": 28,
+      "country": "Burundi",
+      "iso3": "BDI",
+      "value": 4.11,
+      "year": 2024
+    },
+    {
+      "rank": 29,
+      "country": "Somalia",
+      "iso3": "SOM",
+      "value": 4.11,
+      "year": 2024
+    },
+    {
+      "rank": 30,
+      "country": "Nigeria",
+      "iso3": "NGA",
+      "value": 4.07,
+      "year": 2024
+    },
+    {
+      "rank": 31,
+      "country": "Liberia",
+      "iso3": "LBR",
+      "value": 4.02,
+      "year": 2024
+    },
+    {
+      "rank": 32,
+      "country": "Zambia",
+      "iso3": "ZMB",
+      "value": 3.82,
+      "year": 2024
+    },
+    {
+      "rank": 33,
+      "country": "Morocco",
+      "iso3": "MAR",
+      "value": 3.79,
+      "year": 2024
+    },
+    {
+      "rank": 34,
+      "country": "Namibia",
+      "iso3": "NAM",
+      "value": 3.78,
+      "year": 2024
+    },
+    {
+      "rank": 35,
+      "country": "Algeria",
+      "iso3": "DZA",
+      "value": 3.7,
+      "year": 2024
+    },
+    {
+      "rank": 36,
+      "country": "Cameroon",
+      "iso3": "CMR",
+      "value": 3.52,
+      "year": 2024
+    },
+    {
+      "rank": 37,
+      "country": "Gabon",
+      "iso3": "GAB",
+      "value": 3.39,
+      "year": 2024
+    },
+    {
+      "rank": 38,
+      "country": "Seychelles",
+      "iso3": "SYC",
+      "value": 3.35,
+      "year": 2024
+    },
+    {
+      "rank": 39,
+      "country": "Comoros",
+      "iso3": "COM",
+      "value": 3.3,
+      "year": 2024
+    },
+    {
+      "rank": 40,
+      "country": "Eswatini",
+      "iso3": "SWZ",
+      "value": 3.03,
+      "year": 2024
+    },
+    {
+      "rank": 41,
+      "country": "Egypt",
+      "iso3": "EGY",
+      "value": 2.4,
+      "year": 2024
+    },
+    {
+      "rank": 42,
+      "country": "Mozambique",
+      "iso3": "MOZ",
+      "value": 2.15,
+      "year": 2024
+    },
+    {
+      "rank": 43,
+      "country": "Congo, Rep.",
+      "iso3": "COG",
+      "value": 2.1,
+      "year": 2024
+    },
+    {
+      "rank": 44,
+      "country": "Libya",
+      "iso3": "LBY",
+      "value": 1.9,
+      "year": 2024
+    },
+    {
+      "rank": 45,
+      "country": "Zimbabwe",
+      "iso3": "ZWE",
+      "value": 1.68,
+      "year": 2024
+    },
+    {
+      "rank": 46,
+      "country": "Malawi",
+      "iso3": "MWI",
+      "value": 1.67,
+      "year": 2024
+    },
+    {
+      "rank": 47,
+      "country": "Tunisia",
+      "iso3": "TUN",
+      "value": 1.61,
+      "year": 2024
+    },
+    {
+      "rank": 48,
+      "country": "Central African Republic",
+      "iso3": "CAF",
+      "value": 1.5,
+      "year": 2024
+    },
+    {
+      "rank": 49,
+      "country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+      "iso3": "STP",
+      "value": 1.48,
+      "year": 2024
+    },
+    {
+      "rank": 50,
+      "country": "South Africa",
+      "iso3": "ZAF",
+      "value": 0.53,
+      "year": 2024
+    },
+    {
+      "rank": 51,
+      "country": "Equatorial Guinea",
+      "iso3": "GNQ",
+      "value": 0.4,
+      "year": 2024
+    },
+    {
+      "rank": 52,
+      "country": "Botswana",
+      "iso3": "BWA",
+      "value": -2.78,
+      "year": 2024
+    },
+    {
+      "rank": 53,
+      "country": "South Sudan",
+      "iso3": "SSD",
+      "value": -10.79,
+      "year": 2015
+    },
+    {
+      "rank": 54,
+      "country": "Sudan",
+      "iso3": "SDN",
+      "value": -13.96,
+      "year": 2024
+    }
+  ],
   "population": [
     {
       "rank": 1,
@@ -2262,8 +2641,8 @@
   "electricity_access": [
     {
       "rank": 1,
-      "country": "Tunisia",
-      "iso3": "TUN",
+      "country": "Egypt",
+      "iso3": "EGY",
       "value": 100.0,
       "year": 2024
     },
@@ -2276,8 +2655,8 @@
     },
     {
       "rank": 3,
-      "country": "Egypt",
-      "iso3": "EGY",
+      "country": "Mauritius",
+      "iso3": "MUS",
       "value": 100.0,
       "year": 2024
     },
@@ -2297,8 +2676,8 @@
     },
     {
       "rank": 6,
-      "country": "Mauritius",
-      "iso3": "MUS",
+      "country": "Tunisia",
+      "iso3": "TUN",
       "value": 100.0,
       "year": 2024
     },
