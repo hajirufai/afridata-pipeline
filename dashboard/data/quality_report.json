@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-06T08:36:43.418318+00:00",
+  "last_run": "2026-08-07T07:17:47.312755+00:00",
   "dimensions": {
     "completeness": {
       "score": 89.4,
@@ -195,20 +195,6 @@
       "score": 100.0,
       "details": [
         {
-          "indicator": "SP.POP.TOTL",
-          "name": "Population",
-          "latest_year": 2024,
-          "countries_with_data": 54,
-          "status": "pass"
-        },
-        {
-          "indicator": "IT.NET.USER.ZS",
-          "name": "Internet Users (% of population)",
-          "latest_year": 2024,
-          "countries_with_data": 54,
-          "status": "pass"
-        },
-        {
           "indicator": "NY.GDP.MKTP.CD",
           "name": "GDP (current US$)",
           "latest_year": 2024,
@@ -260,6 +246,20 @@
         {
           "indicator": "EG.ELC.ACCS.ZS",
           "name": "Access to Electricity (%)",
+          "latest_year": 2024,
+          "countries_with_data": 54,
+          "status": "pass"
+        },
+        {
+          "indicator": "SP.POP.TOTL",
+          "name": "Population",
+          "latest_year": 2024,
+          "countries_with_data": 54,
+          "status": "pass"
+        },
+        {
+          "indicator": "IT.NET.USER.ZS",
+          "name": "Internet Users (% of population)",
           "latest_year": 2024,
           "countries_with_data": 54,
           "status": "pass"
