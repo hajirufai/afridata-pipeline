@@ -2641,8 +2641,8 @@
   "electricity_access": [
     {
       "rank": 1,
-      "country": "Algeria",
-      "iso3": "DZA",
+      "country": "Egypt",
+      "iso3": "EGY",
       "value": 100.0,
       "year": 2024
     },
@@ -2655,22 +2655,22 @@
     },
     {
       "rank": 3,
-      "country": "Egypt",
-      "iso3": "EGY",
+      "country": "Seychelles",
+      "iso3": "SYC",
       "value": 100.0,
       "year": 2024
     },
     {
       "rank": 4,
-      "country": "Mauritius",
-      "iso3": "MUS",
+      "country": "Algeria",
+      "iso3": "DZA",
       "value": 100.0,
       "year": 2024
     },
     {
       "rank": 5,
-      "country": "Seychelles",
-      "iso3": "SYC",
+      "country": "Mauritius",
+      "iso3": "MUS",
       "value": 100.0,
       "year": 2024
     },
