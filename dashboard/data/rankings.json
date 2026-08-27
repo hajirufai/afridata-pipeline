@@ -2641,43 +2641,43 @@
   "electricity_access": [
     {
       "rank": 1,
-      "country": "Egypt",
-      "iso3": "EGY",
-      "value": 100.0,
-      "year": 2024
-    },
-    {
-      "rank": 2,
-      "country": "Seychelles",
-      "iso3": "SYC",
-      "value": 100.0,
-      "year": 2024
-    },
-    {
-      "rank": 3,
-      "country": "Tunisia",
-      "iso3": "TUN",
-      "value": 100.0,
-      "year": 2024
-    },
-    {
-      "rank": 4,
       "country": "Mauritius",
       "iso3": "MUS",
       "value": 100.0,
       "year": 2024
     },
     {
-      "rank": 5,
+      "rank": 2,
+      "country": "Morocco",
+      "iso3": "MAR",
+      "value": 100.0,
+      "year": 2024
+    },
+    {
+      "rank": 3,
+      "country": "Seychelles",
+      "iso3": "SYC",
+      "value": 100.0,
+      "year": 2024
+    },
+    {
+      "rank": 4,
       "country": "Algeria",
       "iso3": "DZA",
       "value": 100.0,
       "year": 2024
     },
     {
+      "rank": 5,
+      "country": "Egypt",
+      "iso3": "EGY",
+      "value": 100.0,
+      "year": 2024
+    },
+    {
       "rank": 6,
-      "country": "Morocco",
-      "iso3": "MAR",
+      "country": "Tunisia",
+      "iso3": "TUN",
       "value": 100.0,
       "year": 2024
     },
@@ -2767,15 +2767,15 @@
     },
     {
       "rank": 19,
-      "country": "Rwanda",
-      "iso3": "RWA",
+      "country": "Cameroon",
+      "iso3": "CMR",
       "value": 72.0,
       "year": 2024
     },
     {
       "rank": 20,
-      "country": "Cameroon",
-      "iso3": "CMR",
+      "country": "Rwanda",
+      "iso3": "RWA",
       "value": 72.0,
       "year": 2024
     },
