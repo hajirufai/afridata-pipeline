@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-28T18:17:36.613929+00:00",
+  "last_run": "2026-08-29T12:25:22.392643+00:00",
   "dimensions": {
     "completeness": {
       "score": 89.4,
@@ -69,16 +69,16 @@
           "status": "pass"
         },
         {
-          "indicator": "SP.DYN.LE00.IN",
-          "name": "Life Expectancy at Birth",
+          "indicator": "SP.POP.TOTL",
+          "name": "Population",
           "total_records": 1350,
           "non_null": 1350,
           "completeness_pct": 100.0,
           "status": "pass"
         },
         {
-          "indicator": "SP.POP.TOTL",
-          "name": "Population",
+          "indicator": "SP.DYN.LE00.IN",
+          "name": "Life Expectancy at Birth",
           "total_records": 1350,
           "non_null": 1350,
           "completeness_pct": 100.0,
@@ -195,15 +195,29 @@
       "score": 100.0,
       "details": [
         {
-          "indicator": "SP.POP.TOTL",
-          "name": "Population",
+          "indicator": "NY.GDP.MKTP.CD",
+          "name": "GDP (current US$)",
           "latest_year": 2024,
           "countries_with_data": 54,
           "status": "pass"
         },
         {
-          "indicator": "IT.NET.USER.ZS",
-          "name": "Internet Users (% of population)",
+          "indicator": "NY.GDP.MKTP.KD.ZG",
+          "name": "GDP Growth (annual %)",
+          "latest_year": 2024,
+          "countries_with_data": 54,
+          "status": "pass"
+        },
+        {
+          "indicator": "SE.ADT.LITR.ZS",
+          "name": "Literacy Rate (adult %)",
+          "latest_year": 2024,
+          "countries_with_data": 52,
+          "status": "pass"
+        },
+        {
+          "indicator": "BX.KLT.DINV.WD.GD.ZS",
+          "name": "FDI Inflows (% of GDP)",
           "latest_year": 2024,
           "countries_with_data": 54,
           "status": "pass"
@@ -237,29 +251,15 @@
           "status": "pass"
         },
         {
-          "indicator": "NY.GDP.MKTP.CD",
-          "name": "GDP (current US$)",
+          "indicator": "SP.POP.TOTL",
+          "name": "Population",
           "latest_year": 2024,
           "countries_with_data": 54,
           "status": "pass"
         },
         {
-          "indicator": "NY.GDP.MKTP.KD.ZG",
-          "name": "GDP Growth (annual %)",
-          "latest_year": 2024,
-          "countries_with_data": 54,
-          "status": "pass"
-        },
-        {
-          "indicator": "SE.ADT.LITR.ZS",
-          "name": "Literacy Rate (adult %)",
-          "latest_year": 2024,
-          "countries_with_data": 52,
-          "status": "pass"
-        },
-        {
-          "indicator": "BX.KLT.DINV.WD.GD.ZS",
-          "name": "FDI Inflows (% of GDP)",
+          "indicator": "IT.NET.USER.ZS",
+          "name": "Internet Users (% of population)",
           "latest_year": 2024,
           "countries_with_data": 54,
           "status": "pass"
