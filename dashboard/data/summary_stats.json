@@ -3,11 +3,11 @@
     "name": "GDP (current US$)",
     "category": "Economy",
     "unit": "US$",
-    "avg": 53995392283.24,
-    "min": 824992558.05,
-    "max": 401144998373.59,
-    "median": 19818246368.26,
-    "countries": 54
+    "avg": null,
+    "min": null,
+    "max": null,
+    "median": null,
+    "countries": 0
   },
   "gdp_growth": {
     "name": "GDP Growth (annual %)",
@@ -100,7 +100,7 @@
     "countries": 54
   },
   "_africa_totals": {
-    "total_gdp": 2915751183295.0,
+    "total_gdp": 0,
     "total_population": 1512196879.0,
     "countries_tracked": 54,
     "indicators_tracked": 10
