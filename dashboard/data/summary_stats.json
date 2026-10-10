@@ -3,11 +3,11 @@
     "name": "GDP (current US$)",
     "category": "Economy",
     "unit": "US$",
-    "avg": null,
-    "min": null,
-    "max": null,
-    "median": null,
-    "countries": 0
+    "avg": 53995392283.24,
+    "min": 824992558.05,
+    "max": 401144998373.59,
+    "median": 19818246368.26,
+    "countries": 54
   },
   "gdp_growth": {
     "name": "GDP Growth (annual %)",
@@ -93,14 +93,14 @@
     "name": "FDI Inflows (% of GDP)",
     "category": "Investment",
     "unit": "%",
-    "avg": 3.6,
-    "min": -2.02,
+    "avg": 3.65,
+    "min": -1.08,
     "max": 15.42,
-    "median": 2.14,
+    "median": 2.01,
     "countries": 54
   },
   "_africa_totals": {
-    "total_gdp": 0,
+    "total_gdp": 2915751183295.0,
     "total_population": 1512196879.0,
     "countries_tracked": 54,
     "indicators_tracked": 10
