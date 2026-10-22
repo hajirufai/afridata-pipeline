@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-21T11:17:42.107062+00:00",
+  "last_run": "2026-10-22T11:16:33.349949+00:00",
   "dimensions": {
     "completeness": {
       "score": 89.4,
@@ -29,16 +29,16 @@
           "status": "pass"
         },
         {
-          "indicator": "NY.GDP.MKTP.KD.ZG",
-          "name": "GDP Growth (annual %)",
+          "indicator": "BX.KLT.DINV.WD.GD.ZS",
+          "name": "FDI Inflows (% of GDP)",
           "total_records": 1350,
           "non_null": 1305,
           "completeness_pct": 96.7,
           "status": "pass"
         },
         {
-          "indicator": "BX.KLT.DINV.WD.GD.ZS",
-          "name": "FDI Inflows (% of GDP)",
+          "indicator": "NY.GDP.MKTP.KD.ZG",
+          "name": "GDP Growth (annual %)",
           "total_records": 1350,
           "non_null": 1305,
           "completeness_pct": 96.7,
@@ -195,6 +195,20 @@
       "score": 100.0,
       "details": [
         {
+          "indicator": "SP.POP.TOTL",
+          "name": "Population",
+          "latest_year": 2024,
+          "countries_with_data": 54,
+          "status": "pass"
+        },
+        {
+          "indicator": "IT.NET.USER.ZS",
+          "name": "Internet Users (% of population)",
+          "latest_year": 2024,
+          "countries_with_data": 54,
+          "status": "pass"
+        },
+        {
           "indicator": "NY.GDP.MKTP.CD",
           "name": "GDP (current US$)",
           "latest_year": 2024,
@@ -218,20 +232,6 @@
         {
           "indicator": "BX.KLT.DINV.WD.GD.ZS",
           "name": "FDI Inflows (% of GDP)",
-          "latest_year": 2024,
-          "countries_with_data": 54,
-          "status": "pass"
-        },
-        {
-          "indicator": "SP.POP.TOTL",
-          "name": "Population",
-          "latest_year": 2024,
-          "countries_with_data": 54,
-          "status": "pass"
-        },
-        {
-          "indicator": "IT.NET.USER.ZS",
-          "name": "Internet Users (% of population)",
           "latest_year": 2024,
           "countries_with_data": 54,
           "status": "pass"
