@@ -1878,386 +1878,7 @@
       "year": 2024
     }
   ],
-  "life_expectancy": [
-    {
-      "rank": 1,
-      "country": "Tunisia",
-      "iso3": "TUN",
-      "value": 76.71,
-      "year": 2024
-    },
-    {
-      "rank": 2,
-      "country": "Algeria",
-      "iso3": "DZA",
-      "value": 76.47,
-      "year": 2024
-    },
-    {
-      "rank": 3,
-      "country": "Seychelles",
-      "iso3": "SYC",
-      "value": 76.3,
-      "year": 2024
-    },
-    {
-      "rank": 4,
-      "country": "Cabo Verde",
-      "iso3": "CPV",
-      "value": 76.22,
-      "year": 2024
-    },
-    {
-      "rank": 5,
-      "country": "Morocco",
-      "iso3": "MAR",
-      "value": 75.49,
-      "year": 2024
-    },
-    {
-      "rank": 6,
-      "country": "Mauritius",
-      "iso3": "MUS",
-      "value": 73.79,
-      "year": 2024
-    },
-    {
-      "rank": 7,
-      "country": "Egypt",
-      "iso3": "EGY",
-      "value": 71.81,
-      "year": 2024
-    },
-    {
-      "rank": 8,
-      "country": "Libya",
-      "iso3": "LBY",
-      "value": 71.12,
-      "year": 2024
-    },
-    {
-      "rank": 9,
-      "country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
-      "iso3": "STP",
-      "value": 69.91,
-      "year": 2024
-    },
-    {
-      "rank": 10,
-      "country": "Botswana",
-      "iso3": "BWA",
-      "value": 69.29,
-      "year": 2024
-    },
-    {
-      "rank": 11,
-      "country": "Senegal",
-      "iso3": "SEN",
-      "value": 68.92,
-      "year": 2024
-    },
-    {
-      "rank": 12,
-      "country": "Eritrea",
-      "iso3": "ERI",
-      "value": 68.89,
-      "year": 2024
-    },
-    {
-      "rank": 13,
-      "country": "Mauritania",
-      "iso3": "MRT",
-      "value": 68.71,
-      "year": 2024
-    },
-    {
-      "rank": 14,
-      "country": "Gabon",
-      "iso3": "GAB",
-      "value": 68.51,
-      "year": 2024
-    },
-    {
-      "rank": 15,
-      "country": "Uganda",
-      "iso3": "UGA",
-      "value": 68.49,
-      "year": 2024
-    },
-    {
-      "rank": 16,
-      "country": "Rwanda",
-      "iso3": "RWA",
-      "value": 68.02,
-      "year": 2024
-    },
-    {
-      "rank": 17,
-      "country": "Ethiopia",
-      "iso3": "ETH",
-      "value": 67.6,
-      "year": 2024
-    },
-    {
-      "rank": 18,
-      "country": "Malawi",
-      "iso3": "MWI",
-      "value": 67.56,
-      "year": 2024
-    },
-    {
-      "rank": 19,
-      "country": "Namibia",
-      "iso3": "NAM",
-      "value": 67.52,
-      "year": 2024
-    },
-    {
-      "rank": 20,
-      "country": "Tanzania",
-      "iso3": "TZA",
-      "value": 67.21,
-      "year": 2024
-    },
-    {
-      "rank": 21,
-      "country": "Comoros",
-      "iso3": "COM",
-      "value": 67.02,
-      "year": 2024
-    },
-    {
-      "rank": 22,
-      "country": "Zambia",
-      "iso3": "ZMB",
-      "value": 66.53,
-      "year": 2024
-    },
-    {
-      "rank": 23,
-      "country": "Sudan",
-      "iso3": "SDN",
-      "value": 66.52,
-      "year": 2024
-    },
-    {
-      "rank": 24,
-      "country": "South Africa",
-      "iso3": "ZAF",
-      "value": 66.31,
-      "year": 2024
-    },
-    {
-      "rank": 25,
-      "country": "Djibouti",
-      "iso3": "DJI",
-      "value": 66.2,
-      "year": 2024
-    },
-    {
-      "rank": 26,
-      "country": "Gambia",
-      "iso3": "GMB",
-      "value": 66.06,
-      "year": 2024
-    },
-    {
-      "rank": 27,
-      "country": "Congo, Rep.",
-      "iso3": "COG",
-      "value": 66.0,
-      "year": 2024
-    },
-    {
-      "rank": 28,
-      "country": "Ghana",
-      "iso3": "GHA",
-      "value": 65.69,
-      "year": 2024
-    },
-    {
-      "rank": 29,
-      "country": "Angola",
-      "iso3": "AGO",
-      "value": 64.81,
-      "year": 2024
-    },
-    {
-      "rank": 30,
-      "country": "Eswatini",
-      "iso3": "SWZ",
-      "value": 64.26,
-      "year": 2024
-    },
-    {
-      "rank": 31,
-      "country": "Guinea-Bissau",
-      "iso3": "GNB",
-      "value": 64.25,
-      "year": 2024
-    },
-    {
-      "rank": 32,
-      "country": "Cameroon",
-      "iso3": "CMR",
-      "value": 63.97,
-      "year": 2024
-    },
-    {
-      "rank": 33,
-      "country": "Equatorial Guinea",
-      "iso3": "GNQ",
-      "value": 63.91,
-      "year": 2024
-    },
-    {
-      "rank": 34,
-      "country": "Madagascar",
-      "iso3": "MDG",
-      "value": 63.84,
-      "year": 2024
-    },
-    {
-      "rank": 35,
-      "country": "Kenya",
-      "iso3": "KEN",
-      "value": 63.83,
-      "year": 2024
-    },
-    {
-      "rank": 36,
-      "country": "Burundi",
-      "iso3": "BDI",
-      "value": 63.82,
-      "year": 2024
-    },
-    {
-      "rank": 37,
-      "country": "Mozambique",
-      "iso3": "MOZ",
-      "value": 63.8,
-      "year": 2024
-    },
-    {
-      "rank": 38,
-      "country": "Zimbabwe",
-      "iso3": "ZWE",
-      "value": 63.06,
-      "year": 2024
-    },
-    {
-      "rank": 39,
-      "country": "Togo",
-      "iso3": "TGO",
-      "value": 62.94,
-      "year": 2024
-    },
-    {
-      "rank": 40,
-      "country": "Liberia",
-      "iso3": "LBR",
-      "value": 62.32,
-      "year": 2024
-    },
-    {
-      "rank": 41,
-      "country": "C\u00f4te d'Ivoire",
-      "iso3": "CIV",
-      "value": 62.11,
-      "year": 2024
-    },
-    {
-      "rank": 42,
-      "country": "Congo, Dem. Rep.",
-      "iso3": "COD",
-      "value": 62.07,
-      "year": 2024
-    },
-    {
-      "rank": 43,
-      "country": "Sierra Leone",
-      "iso3": "SLE",
-      "value": 61.96,
-      "year": 2024
-    },
-    {
-      "rank": 44,
-      "country": "Niger",
-      "iso3": "NER",
-      "value": 61.43,
-      "year": 2024
-    },
-    {
-      "rank": 45,
-      "country": "Burkina Faso",
-      "iso3": "BFA",
-      "value": 61.29,
-      "year": 2024
-    },
-    {
-      "rank": 46,
-      "country": "Benin",
-      "iso3": "BEN",
-      "value": 60.96,
-      "year": 2024
-    },
-    {
-      "rank": 47,
-      "country": "Guinea",
-      "iso3": "GIN",
-      "value": 60.9,
-      "year": 2024
-    },
-    {
-      "rank": 48,
-      "country": "Mali",
-      "iso3": "MLI",
-      "value": 60.67,
-      "year": 2024
-    },
-    {
-      "rank": 49,
-      "country": "Somalia",
-      "iso3": "SOM",
-      "value": 58.97,
-      "year": 2024
-    },
-    {
-      "rank": 50,
-      "country": "Lesotho",
-      "iso3": "LSO",
-      "value": 57.8,
-      "year": 2024
-    },
-    {
-      "rank": 51,
-      "country": "South Sudan",
-      "iso3": "SSD",
-      "value": 57.74,
-      "year": 2024
-    },
-    {
-      "rank": 52,
-      "country": "Central African Republic",
-      "iso3": "CAF",
-      "value": 57.67,
-      "year": 2024
-    },
-    {
-      "rank": 53,
-      "country": "Chad",
-      "iso3": "TCD",
-      "value": 55.24,
-      "year": 2024
-    },
-    {
-      "rank": 54,
-      "country": "Nigeria",
-      "iso3": "NGA",
-      "value": 54.63,
-      "year": 2024
-    }
-  ],
+  "life_expectancy": [],
   "internet_users": [
     {
       "rank": 1,
@@ -2641,43 +2262,43 @@
   "electricity_access": [
     {
       "rank": 1,
-      "country": "Tunisia",
-      "iso3": "TUN",
-      "value": 100.0,
-      "year": 2024
-    },
-    {
-      "rank": 2,
-      "country": "Morocco",
-      "iso3": "MAR",
-      "value": 100.0,
-      "year": 2024
-    },
-    {
-      "rank": 3,
-      "country": "Egypt",
-      "iso3": "EGY",
-      "value": 100.0,
-      "year": 2024
-    },
-    {
-      "rank": 4,
-      "country": "Seychelles",
-      "iso3": "SYC",
-      "value": 100.0,
-      "year": 2024
-    },
-    {
-      "rank": 5,
       "country": "Algeria",
       "iso3": "DZA",
       "value": 100.0,
       "year": 2024
     },
     {
-      "rank": 6,
+      "rank": 2,
+      "country": "Tunisia",
+      "iso3": "TUN",
+      "value": 100.0,
+      "year": 2024
+    },
+    {
+      "rank": 3,
       "country": "Mauritius",
       "iso3": "MUS",
+      "value": 100.0,
+      "year": 2024
+    },
+    {
+      "rank": 4,
+      "country": "Morocco",
+      "iso3": "MAR",
+      "value": 100.0,
+      "year": 2024
+    },
+    {
+      "rank": 5,
+      "country": "Egypt",
+      "iso3": "EGY",
+      "value": 100.0,
+      "year": 2024
+    },
+    {
+      "rank": 6,
+      "country": "Seychelles",
+      "iso3": "SYC",
       "value": 100.0,
       "year": 2024
     },
@@ -2865,15 +2486,15 @@
     },
     {
       "rank": 33,
-      "country": "Eritrea",
-      "iso3": "ERI",
+      "country": "Uganda",
+      "iso3": "UGA",
       "value": 55.3,
       "year": 2024
     },
     {
       "rank": 34,
-      "country": "Uganda",
-      "iso3": "UGA",
+      "country": "Eritrea",
+      "iso3": "ERI",
       "value": 55.3,
       "year": 2024
     },

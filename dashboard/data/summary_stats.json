@@ -53,11 +53,11 @@
     "name": "Life Expectancy at Birth",
     "category": "Health",
     "unit": "years",
-    "avg": 65.69,
-    "min": 54.63,
-    "max": 76.71,
-    "median": 65.85,
-    "countries": 54
+    "avg": null,
+    "min": null,
+    "max": null,
+    "median": null,
+    "countries": 0
   },
   "internet_users": {
     "name": "Internet Users (% of population)",

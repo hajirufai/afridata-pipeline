@@ -15,7 +15,6 @@
       "gdp_growth": 3.7,
       "inflation": 4.05,
       "internet_users": 77.42,
-      "life_expectancy": 76.47,
       "literacy_rate": 75.14,
       "population": 46814308.0,
       "unemployment": 11.65
@@ -633,108 +632,6 @@
           "value": 77.42
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 70.58
-        },
-        {
-          "year": 2001,
-          "value": 71.03
-        },
-        {
-          "year": 2002,
-          "value": 71.64
-        },
-        {
-          "year": 2003,
-          "value": 71.91
-        },
-        {
-          "year": 2004,
-          "value": 72.54
-        },
-        {
-          "year": 2005,
-          "value": 72.84
-        },
-        {
-          "year": 2006,
-          "value": 73.12
-        },
-        {
-          "year": 2007,
-          "value": 73.35
-        },
-        {
-          "year": 2008,
-          "value": 73.62
-        },
-        {
-          "year": 2009,
-          "value": 73.87
-        },
-        {
-          "year": 2010,
-          "value": 74.14
-        },
-        {
-          "year": 2011,
-          "value": 74.38
-        },
-        {
-          "year": 2012,
-          "value": 74.61
-        },
-        {
-          "year": 2013,
-          "value": 74.81
-        },
-        {
-          "year": 2014,
-          "value": 74.99
-        },
-        {
-          "year": 2015,
-          "value": 75.16
-        },
-        {
-          "year": 2016,
-          "value": 75.31
-        },
-        {
-          "year": 2017,
-          "value": 75.43
-        },
-        {
-          "year": 2018,
-          "value": 75.56
-        },
-        {
-          "year": 2019,
-          "value": 75.68
-        },
-        {
-          "year": 2020,
-          "value": 73.26
-        },
-        {
-          "year": 2021,
-          "value": 75.21
-        },
-        {
-          "year": 2022,
-          "value": 76.13
-        },
-        {
-          "year": 2023,
-          "value": 76.26
-        },
-        {
-          "year": 2024,
-          "value": 76.47
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2002,
@@ -971,7 +868,6 @@
       "gdp_growth": 4.95,
       "inflation": 28.24,
       "internet_users": 40.7,
-      "life_expectancy": 64.81,
       "literacy_rate": 68.18,
       "population": 37885849.0,
       "unemployment": 14.02
@@ -1589,108 +1485,6 @@
           "value": 40.7
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 46.5
-        },
-        {
-          "year": 2001,
-          "value": 47.03
-        },
-        {
-          "year": 2002,
-          "value": 47.87
-        },
-        {
-          "year": 2003,
-          "value": 50.22
-        },
-        {
-          "year": 2004,
-          "value": 51.12
-        },
-        {
-          "year": 2005,
-          "value": 52.13
-        },
-        {
-          "year": 2006,
-          "value": 52.97
-        },
-        {
-          "year": 2007,
-          "value": 54.2
-        },
-        {
-          "year": 2008,
-          "value": 55.28
-        },
-        {
-          "year": 2009,
-          "value": 56.23
-        },
-        {
-          "year": 2010,
-          "value": 57.24
-        },
-        {
-          "year": 2011,
-          "value": 58.09
-        },
-        {
-          "year": 2012,
-          "value": 58.92
-        },
-        {
-          "year": 2013,
-          "value": 59.7
-        },
-        {
-          "year": 2014,
-          "value": 60.4
-        },
-        {
-          "year": 2015,
-          "value": 61.04
-        },
-        {
-          "year": 2016,
-          "value": 61.62
-        },
-        {
-          "year": 2017,
-          "value": 62.12
-        },
-        {
-          "year": 2018,
-          "value": 62.62
-        },
-        {
-          "year": 2019,
-          "value": 63.05
-        },
-        {
-          "year": 2020,
-          "value": 63.12
-        },
-        {
-          "year": 2021,
-          "value": 62.96
-        },
-        {
-          "year": 2022,
-          "value": 64.25
-        },
-        {
-          "year": 2023,
-          "value": 64.62
-        },
-        {
-          "year": 2024,
-          "value": 64.81
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2001,
@@ -1931,7 +1725,6 @@
       "gdp_growth": 7.45,
       "inflation": 1.16,
       "internet_users": 33.98,
-      "life_expectancy": 60.96,
       "literacy_rate": 51.38,
       "population": 14462724.0,
       "unemployment": 1.64
@@ -2549,108 +2342,6 @@
           "value": 33.98
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 56.59
-        },
-        {
-          "year": 2001,
-          "value": 56.65
-        },
-        {
-          "year": 2002,
-          "value": 56.85
-        },
-        {
-          "year": 2003,
-          "value": 57.09
-        },
-        {
-          "year": 2004,
-          "value": 57.35
-        },
-        {
-          "year": 2005,
-          "value": 57.74
-        },
-        {
-          "year": 2006,
-          "value": 57.97
-        },
-        {
-          "year": 2007,
-          "value": 58.25
-        },
-        {
-          "year": 2008,
-          "value": 58.1
-        },
-        {
-          "year": 2009,
-          "value": 58.26
-        },
-        {
-          "year": 2010,
-          "value": 58.39
-        },
-        {
-          "year": 2011,
-          "value": 58.46
-        },
-        {
-          "year": 2012,
-          "value": 58.56
-        },
-        {
-          "year": 2013,
-          "value": 58.86
-        },
-        {
-          "year": 2014,
-          "value": 59.01
-        },
-        {
-          "year": 2015,
-          "value": 59.12
-        },
-        {
-          "year": 2016,
-          "value": 59.28
-        },
-        {
-          "year": 2017,
-          "value": 59.53
-        },
-        {
-          "year": 2018,
-          "value": 59.71
-        },
-        {
-          "year": 2019,
-          "value": 59.89
-        },
-        {
-          "year": 2020,
-          "value": 60.15
-        },
-        {
-          "year": 2021,
-          "value": 59.61
-        },
-        {
-          "year": 2022,
-          "value": 60.48
-        },
-        {
-          "year": 2023,
-          "value": 60.77
-        },
-        {
-          "year": 2024,
-          "value": 60.96
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2002,
@@ -2903,7 +2594,6 @@
       "gdp_growth": -2.78,
       "inflation": 2.82,
       "internet_users": 57.46,
-      "life_expectancy": 69.29,
       "literacy_rate": 81.19,
       "population": 2521139.0,
       "unemployment": 23.81
@@ -3517,108 +3207,6 @@
           "value": 57.46
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 52.26
-        },
-        {
-          "year": 2001,
-          "value": 52.21
-        },
-        {
-          "year": 2002,
-          "value": 52.37
-        },
-        {
-          "year": 2003,
-          "value": 52.85
-        },
-        {
-          "year": 2004,
-          "value": 53.57
-        },
-        {
-          "year": 2005,
-          "value": 54.39
-        },
-        {
-          "year": 2006,
-          "value": 55.11
-        },
-        {
-          "year": 2007,
-          "value": 56.73
-        },
-        {
-          "year": 2008,
-          "value": 57.66
-        },
-        {
-          "year": 2009,
-          "value": 58.3
-        },
-        {
-          "year": 2010,
-          "value": 59.14
-        },
-        {
-          "year": 2011,
-          "value": 59.72
-        },
-        {
-          "year": 2012,
-          "value": 60.38
-        },
-        {
-          "year": 2013,
-          "value": 61.22
-        },
-        {
-          "year": 2014,
-          "value": 62.17
-        },
-        {
-          "year": 2015,
-          "value": 63.22
-        },
-        {
-          "year": 2016,
-          "value": 64.32
-        },
-        {
-          "year": 2017,
-          "value": 65.42
-        },
-        {
-          "year": 2018,
-          "value": 66.37
-        },
-        {
-          "year": 2019,
-          "value": 67.17
-        },
-        {
-          "year": 2020,
-          "value": 67.64
-        },
-        {
-          "year": 2021,
-          "value": 63.3
-        },
-        {
-          "year": 2022,
-          "value": 68.75
-        },
-        {
-          "year": 2023,
-          "value": 69.16
-        },
-        {
-          "year": 2024,
-          "value": 69.29
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2003,
@@ -3847,7 +3435,6 @@
       "gdp_growth": 4.83,
       "inflation": 4.19,
       "internet_users": 28.25,
-      "life_expectancy": 61.29,
       "literacy_rate": 41.57,
       "population": 23548781.0,
       "unemployment": 3.44
@@ -4465,108 +4052,6 @@
           "value": 28.25
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 50.81
-        },
-        {
-          "year": 2001,
-          "value": 51.19
-        },
-        {
-          "year": 2002,
-          "value": 51.45
-        },
-        {
-          "year": 2003,
-          "value": 51.96
-        },
-        {
-          "year": 2004,
-          "value": 52.6
-        },
-        {
-          "year": 2005,
-          "value": 53.27
-        },
-        {
-          "year": 2006,
-          "value": 53.78
-        },
-        {
-          "year": 2007,
-          "value": 54.38
-        },
-        {
-          "year": 2008,
-          "value": 55.2
-        },
-        {
-          "year": 2009,
-          "value": 55.79
-        },
-        {
-          "year": 2010,
-          "value": 56.34
-        },
-        {
-          "year": 2011,
-          "value": 57.0
-        },
-        {
-          "year": 2012,
-          "value": 57.46
-        },
-        {
-          "year": 2013,
-          "value": 57.9
-        },
-        {
-          "year": 2014,
-          "value": 58.33
-        },
-        {
-          "year": 2015,
-          "value": 58.78
-        },
-        {
-          "year": 2016,
-          "value": 59.17
-        },
-        {
-          "year": 2017,
-          "value": 59.58
-        },
-        {
-          "year": 2018,
-          "value": 59.97
-        },
-        {
-          "year": 2019,
-          "value": 60.18
-        },
-        {
-          "year": 2020,
-          "value": 60.45
-        },
-        {
-          "year": 2021,
-          "value": 60.05
-        },
-        {
-          "year": 2022,
-          "value": 60.7
-        },
-        {
-          "year": 2023,
-          "value": 61.09
-        },
-        {
-          "year": 2024,
-          "value": 61.29
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2003,
@@ -4831,7 +4316,6 @@
       "gdp_growth": 4.11,
       "inflation": 20.21,
       "internet_users": 8.6,
-      "life_expectancy": 63.82,
       "literacy_rate": 71.34,
       "population": 14047786.0,
       "unemployment": 0.92
@@ -5441,108 +4925,6 @@
           "value": 8.6
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 47.62
-        },
-        {
-          "year": 2001,
-          "value": 48.51
-        },
-        {
-          "year": 2002,
-          "value": 49.92
-        },
-        {
-          "year": 2003,
-          "value": 51.0
-        },
-        {
-          "year": 2004,
-          "value": 52.22
-        },
-        {
-          "year": 2005,
-          "value": 53.05
-        },
-        {
-          "year": 2006,
-          "value": 53.96
-        },
-        {
-          "year": 2007,
-          "value": 54.83
-        },
-        {
-          "year": 2008,
-          "value": 55.58
-        },
-        {
-          "year": 2009,
-          "value": 56.42
-        },
-        {
-          "year": 2010,
-          "value": 57.09
-        },
-        {
-          "year": 2011,
-          "value": 57.8
-        },
-        {
-          "year": 2012,
-          "value": 58.5
-        },
-        {
-          "year": 2013,
-          "value": 59.18
-        },
-        {
-          "year": 2014,
-          "value": 59.76
-        },
-        {
-          "year": 2015,
-          "value": 60.11
-        },
-        {
-          "year": 2016,
-          "value": 60.79
-        },
-        {
-          "year": 2017,
-          "value": 61.34
-        },
-        {
-          "year": 2018,
-          "value": 61.81
-        },
-        {
-          "year": 2019,
-          "value": 62.18
-        },
-        {
-          "year": 2020,
-          "value": 62.57
-        },
-        {
-          "year": 2021,
-          "value": 62.1
-        },
-        {
-          "year": 2022,
-          "value": 62.88
-        },
-        {
-          "year": 2023,
-          "value": 63.65
-        },
-        {
-          "year": 2024,
-          "value": 63.82
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2000,
@@ -5791,7 +5173,6 @@
       "gdp_growth": 6.99,
       "inflation": 1.05,
       "internet_users": 74.74,
-      "life_expectancy": 76.22,
       "literacy_rate": 88.47,
       "population": 524877.0,
       "unemployment": 11.88
@@ -6409,108 +5790,6 @@
           "value": 74.74
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 68.12
-        },
-        {
-          "year": 2001,
-          "value": 68.71
-        },
-        {
-          "year": 2002,
-          "value": 69.45
-        },
-        {
-          "year": 2003,
-          "value": 70.01
-        },
-        {
-          "year": 2004,
-          "value": 70.5
-        },
-        {
-          "year": 2005,
-          "value": 70.94
-        },
-        {
-          "year": 2006,
-          "value": 71.34
-        },
-        {
-          "year": 2007,
-          "value": 71.49
-        },
-        {
-          "year": 2008,
-          "value": 71.89
-        },
-        {
-          "year": 2009,
-          "value": 72.14
-        },
-        {
-          "year": 2010,
-          "value": 72.51
-        },
-        {
-          "year": 2011,
-          "value": 72.91
-        },
-        {
-          "year": 2012,
-          "value": 73.31
-        },
-        {
-          "year": 2013,
-          "value": 73.48
-        },
-        {
-          "year": 2014,
-          "value": 73.79
-        },
-        {
-          "year": 2015,
-          "value": 74.1
-        },
-        {
-          "year": 2016,
-          "value": 74.35
-        },
-        {
-          "year": 2017,
-          "value": 74.71
-        },
-        {
-          "year": 2018,
-          "value": 74.84
-        },
-        {
-          "year": 2019,
-          "value": 75.45
-        },
-        {
-          "year": 2020,
-          "value": 73.82
-        },
-        {
-          "year": 2021,
-          "value": 74.42
-        },
-        {
-          "year": 2022,
-          "value": 75.91
-        },
-        {
-          "year": 2023,
-          "value": 76.06
-        },
-        {
-          "year": 2024,
-          "value": 76.22
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2009,
@@ -6751,7 +6030,6 @@
       "gdp_growth": 3.52,
       "inflation": 4.53,
       "internet_users": 46.26,
-      "life_expectancy": 63.97,
       "literacy_rate": 72.55,
       "population": 29123744.0,
       "unemployment": 3.6
@@ -7369,108 +6647,6 @@
           "value": 46.26
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 53.34
-        },
-        {
-          "year": 2001,
-          "value": 53.6
-        },
-        {
-          "year": 2002,
-          "value": 53.92
-        },
-        {
-          "year": 2003,
-          "value": 54.25
-        },
-        {
-          "year": 2004,
-          "value": 54.58
-        },
-        {
-          "year": 2005,
-          "value": 54.9
-        },
-        {
-          "year": 2006,
-          "value": 55.3
-        },
-        {
-          "year": 2007,
-          "value": 55.71
-        },
-        {
-          "year": 2008,
-          "value": 56.12
-        },
-        {
-          "year": 2009,
-          "value": 56.49
-        },
-        {
-          "year": 2010,
-          "value": 56.97
-        },
-        {
-          "year": 2011,
-          "value": 57.48
-        },
-        {
-          "year": 2012,
-          "value": 58.17
-        },
-        {
-          "year": 2013,
-          "value": 58.73
-        },
-        {
-          "year": 2014,
-          "value": 59.13
-        },
-        {
-          "year": 2015,
-          "value": 59.69
-        },
-        {
-          "year": 2016,
-          "value": 60.29
-        },
-        {
-          "year": 2017,
-          "value": 60.82
-        },
-        {
-          "year": 2018,
-          "value": 61.19
-        },
-        {
-          "year": 2019,
-          "value": 61.7
-        },
-        {
-          "year": 2020,
-          "value": 61.67
-        },
-        {
-          "year": 2021,
-          "value": 61.15
-        },
-        {
-          "year": 2022,
-          "value": 62.44
-        },
-        {
-          "year": 2023,
-          "value": 63.7
-        },
-        {
-          "year": 2024,
-          "value": 63.97
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2000,
@@ -7711,7 +6887,6 @@
       "gdp_growth": 1.5,
       "inflation": 1.48,
       "internet_users": 13.78,
-      "life_expectancy": 57.67,
       "literacy_rate": 42.44,
       "population": 5330690.0,
       "unemployment": 6.25
@@ -8321,108 +7496,6 @@
           "value": 13.78
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 46.61
-        },
-        {
-          "year": 2001,
-          "value": 46.73
-        },
-        {
-          "year": 2002,
-          "value": 46.84
-        },
-        {
-          "year": 2003,
-          "value": 47.31
-        },
-        {
-          "year": 2004,
-          "value": 47.7
-        },
-        {
-          "year": 2005,
-          "value": 48.21
-        },
-        {
-          "year": 2006,
-          "value": 48.69
-        },
-        {
-          "year": 2007,
-          "value": 49.33
-        },
-        {
-          "year": 2008,
-          "value": 49.87
-        },
-        {
-          "year": 2009,
-          "value": 14.66
-        },
-        {
-          "year": 2010,
-          "value": 46.87
-        },
-        {
-          "year": 2011,
-          "value": 50.11
-        },
-        {
-          "year": 2012,
-          "value": 51.34
-        },
-        {
-          "year": 2013,
-          "value": 49.49
-        },
-        {
-          "year": 2014,
-          "value": 40.27
-        },
-        {
-          "year": 2015,
-          "value": 51.93
-        },
-        {
-          "year": 2016,
-          "value": 51.0
-        },
-        {
-          "year": 2017,
-          "value": 45.23
-        },
-        {
-          "year": 2018,
-          "value": 52.3
-        },
-        {
-          "year": 2019,
-          "value": 31.53
-        },
-        {
-          "year": 2020,
-          "value": 50.6
-        },
-        {
-          "year": 2021,
-          "value": 40.28
-        },
-        {
-          "year": 2022,
-          "value": 18.82
-        },
-        {
-          "year": 2023,
-          "value": 57.41
-        },
-        {
-          "year": 2024,
-          "value": 57.67
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2000,
@@ -8655,7 +7728,6 @@
       "gdp_growth": 4.95,
       "inflation": 8.9,
       "internet_users": 12.63,
-      "life_expectancy": 55.24,
       "literacy_rate": 30.63,
       "population": 20299123.0,
       "unemployment": 1.05
@@ -9273,108 +8345,6 @@
           "value": 12.63
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 47.94
-        },
-        {
-          "year": 2001,
-          "value": 48.31
-        },
-        {
-          "year": 2002,
-          "value": 48.36
-        },
-        {
-          "year": 2003,
-          "value": 48.61
-        },
-        {
-          "year": 2004,
-          "value": 48.69
-        },
-        {
-          "year": 2005,
-          "value": 48.86
-        },
-        {
-          "year": 2006,
-          "value": 48.75
-        },
-        {
-          "year": 2007,
-          "value": 49.21
-        },
-        {
-          "year": 2008,
-          "value": 49.5
-        },
-        {
-          "year": 2009,
-          "value": 49.83
-        },
-        {
-          "year": 2010,
-          "value": 50.11
-        },
-        {
-          "year": 2011,
-          "value": 50.43
-        },
-        {
-          "year": 2012,
-          "value": 50.77
-        },
-        {
-          "year": 2013,
-          "value": 51.05
-        },
-        {
-          "year": 2014,
-          "value": 51.14
-        },
-        {
-          "year": 2015,
-          "value": 51.32
-        },
-        {
-          "year": 2016,
-          "value": 51.6
-        },
-        {
-          "year": 2017,
-          "value": 51.88
-        },
-        {
-          "year": 2018,
-          "value": 52.45
-        },
-        {
-          "year": 2019,
-          "value": 52.99
-        },
-        {
-          "year": 2020,
-          "value": 53.08
-        },
-        {
-          "year": 2021,
-          "value": 53.14
-        },
-        {
-          "year": 2022,
-          "value": 54.53
-        },
-        {
-          "year": 2023,
-          "value": 55.07
-        },
-        {
-          "year": 2024,
-          "value": 55.24
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2000,
@@ -9615,7 +8585,6 @@
       "gdp_growth": 3.3,
       "inflation": 5.05,
       "internet_users": 32.52,
-      "life_expectancy": 67.02,
       "literacy_rate": 75.62,
       "population": 866628.0,
       "unemployment": 3.81
@@ -10225,108 +9194,6 @@
           "value": 32.52
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 58.94
-        },
-        {
-          "year": 2001,
-          "value": 59.59
-        },
-        {
-          "year": 2002,
-          "value": 59.72
-        },
-        {
-          "year": 2003,
-          "value": 60.24
-        },
-        {
-          "year": 2004,
-          "value": 60.56
-        },
-        {
-          "year": 2005,
-          "value": 60.88
-        },
-        {
-          "year": 2006,
-          "value": 61.23
-        },
-        {
-          "year": 2007,
-          "value": 61.48
-        },
-        {
-          "year": 2008,
-          "value": 61.95
-        },
-        {
-          "year": 2009,
-          "value": 62.3
-        },
-        {
-          "year": 2010,
-          "value": 62.75
-        },
-        {
-          "year": 2011,
-          "value": 63.1
-        },
-        {
-          "year": 2012,
-          "value": 63.46
-        },
-        {
-          "year": 2013,
-          "value": 63.84
-        },
-        {
-          "year": 2014,
-          "value": 64.14
-        },
-        {
-          "year": 2015,
-          "value": 64.47
-        },
-        {
-          "year": 2016,
-          "value": 64.79
-        },
-        {
-          "year": 2017,
-          "value": 65.13
-        },
-        {
-          "year": 2018,
-          "value": 65.4
-        },
-        {
-          "year": 2019,
-          "value": 65.66
-        },
-        {
-          "year": 2020,
-          "value": 65.76
-        },
-        {
-          "year": 2021,
-          "value": 65.2
-        },
-        {
-          "year": 2022,
-          "value": 66.48
-        },
-        {
-          "year": 2023,
-          "value": 66.78
-        },
-        {
-          "year": 2024,
-          "value": 67.02
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2000,
@@ -10563,7 +9430,6 @@
       "gdp_growth": 2.1,
       "inflation": 3.09,
       "internet_users": 47.25,
-      "life_expectancy": 66.0,
       "literacy_rate": 76.11,
       "population": 6332961.0,
       "unemployment": 19.89
@@ -11181,108 +10047,6 @@
           "value": 47.25
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 55.37
-        },
-        {
-          "year": 2001,
-          "value": 55.88
-        },
-        {
-          "year": 2002,
-          "value": 56.41
-        },
-        {
-          "year": 2003,
-          "value": 57.13
-        },
-        {
-          "year": 2004,
-          "value": 57.96
-        },
-        {
-          "year": 2005,
-          "value": 58.73
-        },
-        {
-          "year": 2006,
-          "value": 59.47
-        },
-        {
-          "year": 2007,
-          "value": 60.05
-        },
-        {
-          "year": 2008,
-          "value": 60.79
-        },
-        {
-          "year": 2009,
-          "value": 61.22
-        },
-        {
-          "year": 2010,
-          "value": 61.73
-        },
-        {
-          "year": 2011,
-          "value": 62.29
-        },
-        {
-          "year": 2012,
-          "value": 62.66
-        },
-        {
-          "year": 2013,
-          "value": 62.97
-        },
-        {
-          "year": 2014,
-          "value": 63.35
-        },
-        {
-          "year": 2015,
-          "value": 63.66
-        },
-        {
-          "year": 2016,
-          "value": 63.91
-        },
-        {
-          "year": 2017,
-          "value": 64.2
-        },
-        {
-          "year": 2018,
-          "value": 64.47
-        },
-        {
-          "year": 2019,
-          "value": 63.15
-        },
-        {
-          "year": 2020,
-          "value": 64.39
-        },
-        {
-          "year": 2021,
-          "value": 64.19
-        },
-        {
-          "year": 2022,
-          "value": 65.0
-        },
-        {
-          "year": 2023,
-          "value": 65.77
-        },
-        {
-          "year": 2024,
-          "value": 66.0
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2005,
@@ -11511,7 +10275,6 @@
       "gdp_growth": 6.1,
       "inflation": 2.89,
       "internet_users": 19.67,
-      "life_expectancy": 62.07,
       "literacy_rate": 68.5,
       "population": 109276265.0,
       "unemployment": 4.42
@@ -12093,108 +10856,6 @@
           "value": 19.67
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 51.89
-        },
-        {
-          "year": 2001,
-          "value": 52.2
-        },
-        {
-          "year": 2002,
-          "value": 52.37
-        },
-        {
-          "year": 2003,
-          "value": 52.95
-        },
-        {
-          "year": 2004,
-          "value": 53.53
-        },
-        {
-          "year": 2005,
-          "value": 54.0
-        },
-        {
-          "year": 2006,
-          "value": 54.5
-        },
-        {
-          "year": 2007,
-          "value": 54.95
-        },
-        {
-          "year": 2008,
-          "value": 55.39
-        },
-        {
-          "year": 2009,
-          "value": 55.8
-        },
-        {
-          "year": 2010,
-          "value": 56.41
-        },
-        {
-          "year": 2011,
-          "value": 56.91
-        },
-        {
-          "year": 2012,
-          "value": 57.35
-        },
-        {
-          "year": 2013,
-          "value": 57.8
-        },
-        {
-          "year": 2014,
-          "value": 58.24
-        },
-        {
-          "year": 2015,
-          "value": 58.66
-        },
-        {
-          "year": 2016,
-          "value": 59.08
-        },
-        {
-          "year": 2017,
-          "value": 59.49
-        },
-        {
-          "year": 2018,
-          "value": 59.93
-        },
-        {
-          "year": 2019,
-          "value": 60.24
-        },
-        {
-          "year": 2020,
-          "value": 60.43
-        },
-        {
-          "year": 2021,
-          "value": 60.04
-        },
-        {
-          "year": 2022,
-          "value": 60.98
-        },
-        {
-          "year": 2023,
-          "value": 61.9
-        },
-        {
-          "year": 2024,
-          "value": 62.07
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2001,
@@ -12443,7 +11104,6 @@
       "gdp_growth": 6.02,
       "inflation": 3.45,
       "internet_users": 41.43,
-      "life_expectancy": 62.11,
       "literacy_rate": 50.0,
       "population": 31934230.0,
       "unemployment": 2.27
@@ -13061,108 +11721,6 @@
           "value": 41.43
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 51.39
-        },
-        {
-          "year": 2001,
-          "value": 51.43
-        },
-        {
-          "year": 2002,
-          "value": 51.54
-        },
-        {
-          "year": 2003,
-          "value": 51.44
-        },
-        {
-          "year": 2004,
-          "value": 51.94
-        },
-        {
-          "year": 2005,
-          "value": 52.43
-        },
-        {
-          "year": 2006,
-          "value": 52.88
-        },
-        {
-          "year": 2007,
-          "value": 53.45
-        },
-        {
-          "year": 2008,
-          "value": 54.18
-        },
-        {
-          "year": 2009,
-          "value": 54.74
-        },
-        {
-          "year": 2010,
-          "value": 55.28
-        },
-        {
-          "year": 2011,
-          "value": 55.97
-        },
-        {
-          "year": 2012,
-          "value": 56.57
-        },
-        {
-          "year": 2013,
-          "value": 57.06
-        },
-        {
-          "year": 2014,
-          "value": 57.77
-        },
-        {
-          "year": 2015,
-          "value": 58.28
-        },
-        {
-          "year": 2016,
-          "value": 58.81
-        },
-        {
-          "year": 2017,
-          "value": 59.31
-        },
-        {
-          "year": 2018,
-          "value": 59.8
-        },
-        {
-          "year": 2019,
-          "value": 60.27
-        },
-        {
-          "year": 2020,
-          "value": 60.14
-        },
-        {
-          "year": 2021,
-          "value": 60.29
-        },
-        {
-          "year": 2022,
-          "value": 61.56
-        },
-        {
-          "year": 2023,
-          "value": 61.94
-        },
-        {
-          "year": 2024,
-          "value": 62.11
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2000,
@@ -13407,7 +11965,6 @@
       "gdp_growth": 6.98,
       "inflation": 2.11,
       "internet_users": 65.3,
-      "life_expectancy": 66.2,
       "population": 1168722.0,
       "unemployment": 26.01
     },
@@ -13964,108 +12521,6 @@
           "value": 65.3
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 56.73
-        },
-        {
-          "year": 2001,
-          "value": 57.51
-        },
-        {
-          "year": 2002,
-          "value": 57.82
-        },
-        {
-          "year": 2003,
-          "value": 58.04
-        },
-        {
-          "year": 2004,
-          "value": 58.1
-        },
-        {
-          "year": 2005,
-          "value": 58.55
-        },
-        {
-          "year": 2006,
-          "value": 58.96
-        },
-        {
-          "year": 2007,
-          "value": 59.36
-        },
-        {
-          "year": 2008,
-          "value": 59.81
-        },
-        {
-          "year": 2009,
-          "value": 60.35
-        },
-        {
-          "year": 2010,
-          "value": 60.74
-        },
-        {
-          "year": 2011,
-          "value": 61.34
-        },
-        {
-          "year": 2012,
-          "value": 61.72
-        },
-        {
-          "year": 2013,
-          "value": 62.12
-        },
-        {
-          "year": 2014,
-          "value": 62.43
-        },
-        {
-          "year": 2015,
-          "value": 62.83
-        },
-        {
-          "year": 2016,
-          "value": 63.34
-        },
-        {
-          "year": 2017,
-          "value": 63.71
-        },
-        {
-          "year": 2018,
-          "value": 64.11
-        },
-        {
-          "year": 2019,
-          "value": 64.38
-        },
-        {
-          "year": 2020,
-          "value": 64.2
-        },
-        {
-          "year": 2021,
-          "value": 63.83
-        },
-        {
-          "year": 2022,
-          "value": 65.54
-        },
-        {
-          "year": 2023,
-          "value": 65.99
-        },
-        {
-          "year": 2024,
-          "value": 66.2
-        }
-      ],
       "literacy_rate": [],
       "population": [
         {
@@ -14289,7 +12744,6 @@
       "gdp_growth": 2.4,
       "inflation": 28.27,
       "internet_users": 74.65,
-      "life_expectancy": 71.81,
       "literacy_rate": 79.45,
       "population": 116538258.0,
       "unemployment": 6.82
@@ -14907,108 +13361,6 @@
           "value": 74.65
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 67.33
-        },
-        {
-          "year": 2001,
-          "value": 67.61
-        },
-        {
-          "year": 2002,
-          "value": 67.85
-        },
-        {
-          "year": 2003,
-          "value": 68.05
-        },
-        {
-          "year": 2004,
-          "value": 68.21
-        },
-        {
-          "year": 2005,
-          "value": 68.36
-        },
-        {
-          "year": 2006,
-          "value": 68.49
-        },
-        {
-          "year": 2007,
-          "value": 68.63
-        },
-        {
-          "year": 2008,
-          "value": 68.76
-        },
-        {
-          "year": 2009,
-          "value": 68.92
-        },
-        {
-          "year": 2010,
-          "value": 69.08
-        },
-        {
-          "year": 2011,
-          "value": 69.23
-        },
-        {
-          "year": 2012,
-          "value": 69.46
-        },
-        {
-          "year": 2013,
-          "value": 69.63
-        },
-        {
-          "year": 2014,
-          "value": 69.91
-        },
-        {
-          "year": 2015,
-          "value": 70.14
-        },
-        {
-          "year": 2016,
-          "value": 70.44
-        },
-        {
-          "year": 2017,
-          "value": 70.71
-        },
-        {
-          "year": 2018,
-          "value": 70.97
-        },
-        {
-          "year": 2019,
-          "value": 71.21
-        },
-        {
-          "year": 2020,
-          "value": 69.79
-        },
-        {
-          "year": 2021,
-          "value": 68.98
-        },
-        {
-          "year": 2022,
-          "value": 71.01
-        },
-        {
-          "year": 2023,
-          "value": 71.63
-        },
-        {
-          "year": 2024,
-          "value": 71.81
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2005,
@@ -15265,7 +13617,6 @@
       "gdp_growth": 0.4,
       "inflation": 2.92,
       "internet_users": 63.3,
-      "life_expectancy": 63.91,
       "literacy_rate": 88.31,
       "population": 1892516.0,
       "unemployment": 8.29
@@ -15883,108 +14234,6 @@
           "value": 63.3
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 53.4
-        },
-        {
-          "year": 2001,
-          "value": 53.83
-        },
-        {
-          "year": 2002,
-          "value": 54.32
-        },
-        {
-          "year": 2003,
-          "value": 54.79
-        },
-        {
-          "year": 2004,
-          "value": 55.31
-        },
-        {
-          "year": 2005,
-          "value": 55.77
-        },
-        {
-          "year": 2006,
-          "value": 56.35
-        },
-        {
-          "year": 2007,
-          "value": 56.86
-        },
-        {
-          "year": 2008,
-          "value": 57.38
-        },
-        {
-          "year": 2009,
-          "value": 57.88
-        },
-        {
-          "year": 2010,
-          "value": 58.34
-        },
-        {
-          "year": 2011,
-          "value": 58.83
-        },
-        {
-          "year": 2012,
-          "value": 59.3
-        },
-        {
-          "year": 2013,
-          "value": 59.78
-        },
-        {
-          "year": 2014,
-          "value": 60.23
-        },
-        {
-          "year": 2015,
-          "value": 60.63
-        },
-        {
-          "year": 2016,
-          "value": 61.08
-        },
-        {
-          "year": 2017,
-          "value": 61.48
-        },
-        {
-          "year": 2018,
-          "value": 61.91
-        },
-        {
-          "year": 2019,
-          "value": 62.3
-        },
-        {
-          "year": 2020,
-          "value": 62.14
-        },
-        {
-          "year": 2021,
-          "value": 62.45
-        },
-        {
-          "year": 2022,
-          "value": 63.35
-        },
-        {
-          "year": 2023,
-          "value": 63.71
-        },
-        {
-          "year": 2024,
-          "value": 63.91
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2000,
@@ -16212,7 +14461,6 @@
       "gdp": 2065001626.02,
       "gdp_growth": 8.68,
       "internet_users": 14.35,
-      "life_expectancy": 68.89,
       "literacy_rate": 64.66,
       "population": 3535603.0,
       "unemployment": 5.95
@@ -16541,108 +14789,6 @@
           "value": 14.35
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 56.28
-        },
-        {
-          "year": 2001,
-          "value": 58.36
-        },
-        {
-          "year": 2002,
-          "value": 58.94
-        },
-        {
-          "year": 2003,
-          "value": 59.45
-        },
-        {
-          "year": 2004,
-          "value": 60.06
-        },
-        {
-          "year": 2005,
-          "value": 60.63
-        },
-        {
-          "year": 2006,
-          "value": 61.46
-        },
-        {
-          "year": 2007,
-          "value": 62.0
-        },
-        {
-          "year": 2008,
-          "value": 62.42
-        },
-        {
-          "year": 2009,
-          "value": 63.2
-        },
-        {
-          "year": 2010,
-          "value": 63.66
-        },
-        {
-          "year": 2011,
-          "value": 64.23
-        },
-        {
-          "year": 2012,
-          "value": 64.7
-        },
-        {
-          "year": 2013,
-          "value": 65.0
-        },
-        {
-          "year": 2014,
-          "value": 65.52
-        },
-        {
-          "year": 2015,
-          "value": 65.91
-        },
-        {
-          "year": 2016,
-          "value": 66.24
-        },
-        {
-          "year": 2017,
-          "value": 66.61
-        },
-        {
-          "year": 2018,
-          "value": 66.98
-        },
-        {
-          "year": 2019,
-          "value": 67.31
-        },
-        {
-          "year": 2020,
-          "value": 66.98
-        },
-        {
-          "year": 2021,
-          "value": 66.94
-        },
-        {
-          "year": 2022,
-          "value": 67.79
-        },
-        {
-          "year": 2023,
-          "value": 68.62
-        },
-        {
-          "year": 2024,
-          "value": 68.89
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2002,
@@ -16875,7 +15021,6 @@
       "gdp_growth": 3.03,
       "inflation": 2.6,
       "internet_users": 63.4,
-      "life_expectancy": 64.26,
       "literacy_rate": 90.75,
       "population": 1242822.0,
       "unemployment": 34.64
@@ -17473,108 +15618,6 @@
           "value": 63.4
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 47.63
-        },
-        {
-          "year": 2001,
-          "value": 46.34
-        },
-        {
-          "year": 2002,
-          "value": 45.38
-        },
-        {
-          "year": 2003,
-          "value": 44.63
-        },
-        {
-          "year": 2004,
-          "value": 43.91
-        },
-        {
-          "year": 2005,
-          "value": 43.96
-        },
-        {
-          "year": 2006,
-          "value": 44.56
-        },
-        {
-          "year": 2007,
-          "value": 45.16
-        },
-        {
-          "year": 2008,
-          "value": 45.85
-        },
-        {
-          "year": 2009,
-          "value": 46.91
-        },
-        {
-          "year": 2010,
-          "value": 48.33
-        },
-        {
-          "year": 2011,
-          "value": 49.06
-        },
-        {
-          "year": 2012,
-          "value": 50.71
-        },
-        {
-          "year": 2013,
-          "value": 52.11
-        },
-        {
-          "year": 2014,
-          "value": 53.49
-        },
-        {
-          "year": 2015,
-          "value": 54.94
-        },
-        {
-          "year": 2016,
-          "value": 56.23
-        },
-        {
-          "year": 2017,
-          "value": 57.57
-        },
-        {
-          "year": 2018,
-          "value": 58.71
-        },
-        {
-          "year": 2019,
-          "value": 59.85
-        },
-        {
-          "year": 2020,
-          "value": 59.86
-        },
-        {
-          "year": 2021,
-          "value": 58.23
-        },
-        {
-          "year": 2022,
-          "value": 63.03
-        },
-        {
-          "year": 2023,
-          "value": 64.12
-        },
-        {
-          "year": 2024,
-          "value": 64.26
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2000,
@@ -17807,7 +15850,6 @@
       "gdp_growth": 7.61,
       "inflation": 21.04,
       "internet_users": 21.94,
-      "life_expectancy": 67.6,
       "literacy_rate": 60.46,
       "population": 132059767.0,
       "unemployment": 3.36
@@ -18425,108 +16467,6 @@
           "value": 21.94
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 50.88
-        },
-        {
-          "year": 2001,
-          "value": 51.43
-        },
-        {
-          "year": 2002,
-          "value": 52.09
-        },
-        {
-          "year": 2003,
-          "value": 52.88
-        },
-        {
-          "year": 2004,
-          "value": 53.73
-        },
-        {
-          "year": 2005,
-          "value": 54.36
-        },
-        {
-          "year": 2006,
-          "value": 55.4
-        },
-        {
-          "year": 2007,
-          "value": 56.57
-        },
-        {
-          "year": 2008,
-          "value": 57.73
-        },
-        {
-          "year": 2009,
-          "value": 58.72
-        },
-        {
-          "year": 2010,
-          "value": 59.71
-        },
-        {
-          "year": 2011,
-          "value": 60.59
-        },
-        {
-          "year": 2012,
-          "value": 61.44
-        },
-        {
-          "year": 2013,
-          "value": 62.16
-        },
-        {
-          "year": 2014,
-          "value": 62.93
-        },
-        {
-          "year": 2015,
-          "value": 63.59
-        },
-        {
-          "year": 2016,
-          "value": 64.16
-        },
-        {
-          "year": 2017,
-          "value": 64.77
-        },
-        {
-          "year": 2018,
-          "value": 65.26
-        },
-        {
-          "year": 2019,
-          "value": 65.74
-        },
-        {
-          "year": 2020,
-          "value": 65.97
-        },
-        {
-          "year": 2021,
-          "value": 65.33
-        },
-        {
-          "year": 2022,
-          "value": 66.9
-        },
-        {
-          "year": 2023,
-          "value": 67.31
-        },
-        {
-          "year": 2024,
-          "value": 67.6
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2004,
@@ -18779,7 +16719,6 @@
       "gdp_growth": 3.39,
       "inflation": 1.17,
       "internet_users": 68.72,
-      "life_expectancy": 68.51,
       "literacy_rate": 88.86,
       "population": 2538952.0,
       "unemployment": 20.09
@@ -19397,108 +17336,6 @@
           "value": 68.72
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 61.81
-        },
-        {
-          "year": 2001,
-          "value": 61.98
-        },
-        {
-          "year": 2002,
-          "value": 62.17
-        },
-        {
-          "year": 2003,
-          "value": 62.46
-        },
-        {
-          "year": 2004,
-          "value": 62.69
-        },
-        {
-          "year": 2005,
-          "value": 62.98
-        },
-        {
-          "year": 2006,
-          "value": 63.26
-        },
-        {
-          "year": 2007,
-          "value": 63.62
-        },
-        {
-          "year": 2008,
-          "value": 64.01
-        },
-        {
-          "year": 2009,
-          "value": 64.36
-        },
-        {
-          "year": 2010,
-          "value": 64.72
-        },
-        {
-          "year": 2011,
-          "value": 65.1
-        },
-        {
-          "year": 2012,
-          "value": 65.44
-        },
-        {
-          "year": 2013,
-          "value": 65.75
-        },
-        {
-          "year": 2014,
-          "value": 66.07
-        },
-        {
-          "year": 2015,
-          "value": 66.34
-        },
-        {
-          "year": 2016,
-          "value": 66.58
-        },
-        {
-          "year": 2017,
-          "value": 66.82
-        },
-        {
-          "year": 2018,
-          "value": 67.04
-        },
-        {
-          "year": 2019,
-          "value": 67.34
-        },
-        {
-          "year": 2020,
-          "value": 67.07
-        },
-        {
-          "year": 2021,
-          "value": 67.07
-        },
-        {
-          "year": 2022,
-          "value": 67.71
-        },
-        {
-          "year": 2023,
-          "value": 68.34
-        },
-        {
-          "year": 2024,
-          "value": 68.51
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2021,
@@ -19727,7 +17564,6 @@
       "gdp_growth": 5.55,
       "inflation": 11.56,
       "internet_users": 49.49,
-      "life_expectancy": 66.06,
       "literacy_rate": 51.64,
       "population": 2759988.0,
       "unemployment": 6.48
@@ -20345,108 +18181,6 @@
           "value": 49.49
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 56.9
-        },
-        {
-          "year": 2001,
-          "value": 57.28
-        },
-        {
-          "year": 2002,
-          "value": 57.74
-        },
-        {
-          "year": 2003,
-          "value": 58.22
-        },
-        {
-          "year": 2004,
-          "value": 58.75
-        },
-        {
-          "year": 2005,
-          "value": 59.11
-        },
-        {
-          "year": 2006,
-          "value": 59.67
-        },
-        {
-          "year": 2007,
-          "value": 60.0
-        },
-        {
-          "year": 2008,
-          "value": 60.47
-        },
-        {
-          "year": 2009,
-          "value": 60.73
-        },
-        {
-          "year": 2010,
-          "value": 61.17
-        },
-        {
-          "year": 2011,
-          "value": 61.56
-        },
-        {
-          "year": 2012,
-          "value": 61.9
-        },
-        {
-          "year": 2013,
-          "value": 62.25
-        },
-        {
-          "year": 2014,
-          "value": 62.58
-        },
-        {
-          "year": 2015,
-          "value": 62.97
-        },
-        {
-          "year": 2016,
-          "value": 63.39
-        },
-        {
-          "year": 2017,
-          "value": 63.71
-        },
-        {
-          "year": 2018,
-          "value": 64.03
-        },
-        {
-          "year": 2019,
-          "value": 64.43
-        },
-        {
-          "year": 2020,
-          "value": 64.42
-        },
-        {
-          "year": 2021,
-          "value": 63.85
-        },
-        {
-          "year": 2022,
-          "value": 64.86
-        },
-        {
-          "year": 2023,
-          "value": 65.86
-        },
-        {
-          "year": 2024,
-          "value": 66.06
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2000,
@@ -20687,7 +18421,6 @@
       "gdp_growth": 5.85,
       "inflation": 22.85,
       "internet_users": 72.18,
-      "life_expectancy": 65.69,
       "literacy_rate": 76.49,
       "population": 34427414.0,
       "unemployment": 2.82
@@ -21305,108 +19038,6 @@
           "value": 72.18
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 58.14
-        },
-        {
-          "year": 2001,
-          "value": 58.4
-        },
-        {
-          "year": 2002,
-          "value": 58.71
-        },
-        {
-          "year": 2003,
-          "value": 59.01
-        },
-        {
-          "year": 2004,
-          "value": 59.32
-        },
-        {
-          "year": 2005,
-          "value": 59.64
-        },
-        {
-          "year": 2006,
-          "value": 59.98
-        },
-        {
-          "year": 2007,
-          "value": 60.28
-        },
-        {
-          "year": 2008,
-          "value": 60.58
-        },
-        {
-          "year": 2009,
-          "value": 60.93
-        },
-        {
-          "year": 2010,
-          "value": 61.3
-        },
-        {
-          "year": 2011,
-          "value": 61.62
-        },
-        {
-          "year": 2012,
-          "value": 61.99
-        },
-        {
-          "year": 2013,
-          "value": 62.4
-        },
-        {
-          "year": 2014,
-          "value": 62.83
-        },
-        {
-          "year": 2015,
-          "value": 63.17
-        },
-        {
-          "year": 2016,
-          "value": 63.52
-        },
-        {
-          "year": 2017,
-          "value": 63.83
-        },
-        {
-          "year": 2018,
-          "value": 64.14
-        },
-        {
-          "year": 2019,
-          "value": 64.45
-        },
-        {
-          "year": 2020,
-          "value": 64.31
-        },
-        {
-          "year": 2021,
-          "value": 64.29
-        },
-        {
-          "year": 2022,
-          "value": 65.25
-        },
-        {
-          "year": 2023,
-          "value": 65.5
-        },
-        {
-          "year": 2024,
-          "value": 65.69
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2000,
@@ -21651,7 +19282,6 @@
       "gdp_growth": 5.35,
       "inflation": 8.12,
       "internet_users": 33.3,
-      "life_expectancy": 60.9,
       "literacy_rate": 39.62,
       "population": 14754785.0,
       "unemployment": 5.13
@@ -22245,108 +19875,6 @@
           "value": 33.3
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 52.42
-        },
-        {
-          "year": 2001,
-          "value": 52.67
-        },
-        {
-          "year": 2002,
-          "value": 53.2
-        },
-        {
-          "year": 2003,
-          "value": 53.59
-        },
-        {
-          "year": 2004,
-          "value": 53.98
-        },
-        {
-          "year": 2005,
-          "value": 54.42
-        },
-        {
-          "year": 2006,
-          "value": 54.88
-        },
-        {
-          "year": 2007,
-          "value": 55.23
-        },
-        {
-          "year": 2008,
-          "value": 55.7
-        },
-        {
-          "year": 2009,
-          "value": 56.05
-        },
-        {
-          "year": 2010,
-          "value": 56.43
-        },
-        {
-          "year": 2011,
-          "value": 56.78
-        },
-        {
-          "year": 2012,
-          "value": 57.12
-        },
-        {
-          "year": 2013,
-          "value": 57.46
-        },
-        {
-          "year": 2014,
-          "value": 57.58
-        },
-        {
-          "year": 2015,
-          "value": 57.9
-        },
-        {
-          "year": 2016,
-          "value": 58.49
-        },
-        {
-          "year": 2017,
-          "value": 58.72
-        },
-        {
-          "year": 2018,
-          "value": 59.04
-        },
-        {
-          "year": 2019,
-          "value": 59.38
-        },
-        {
-          "year": 2020,
-          "value": 59.35
-        },
-        {
-          "year": 2021,
-          "value": 59.37
-        },
-        {
-          "year": 2022,
-          "value": 60.43
-        },
-        {
-          "year": 2023,
-          "value": 60.74
-        },
-        {
-          "year": 2024,
-          "value": 60.9
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2003,
@@ -22587,7 +20115,6 @@
       "gdp_growth": 4.41,
       "inflation": 3.77,
       "internet_users": 29.78,
-      "life_expectancy": 64.25,
       "literacy_rate": 63.93,
       "population": 2201352.0,
       "unemployment": 2.65
@@ -23197,108 +20724,6 @@
           "value": 29.78
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 50.56
-        },
-        {
-          "year": 2001,
-          "value": 51.05
-        },
-        {
-          "year": 2002,
-          "value": 51.61
-        },
-        {
-          "year": 2003,
-          "value": 52.19
-        },
-        {
-          "year": 2004,
-          "value": 52.8
-        },
-        {
-          "year": 2005,
-          "value": 52.95
-        },
-        {
-          "year": 2006,
-          "value": 54.09
-        },
-        {
-          "year": 2007,
-          "value": 54.87
-        },
-        {
-          "year": 2008,
-          "value": 55.3
-        },
-        {
-          "year": 2009,
-          "value": 56.3
-        },
-        {
-          "year": 2010,
-          "value": 57.0
-        },
-        {
-          "year": 2011,
-          "value": 57.66
-        },
-        {
-          "year": 2012,
-          "value": 58.27
-        },
-        {
-          "year": 2013,
-          "value": 58.88
-        },
-        {
-          "year": 2014,
-          "value": 59.48
-        },
-        {
-          "year": 2015,
-          "value": 60.07
-        },
-        {
-          "year": 2016,
-          "value": 60.62
-        },
-        {
-          "year": 2017,
-          "value": 61.15
-        },
-        {
-          "year": 2018,
-          "value": 61.65
-        },
-        {
-          "year": 2019,
-          "value": 62.16
-        },
-        {
-          "year": 2020,
-          "value": 61.34
-        },
-        {
-          "year": 2021,
-          "value": 61.65
-        },
-        {
-          "year": 2022,
-          "value": 63.6
-        },
-        {
-          "year": 2023,
-          "value": 64.08
-        },
-        {
-          "year": 2024,
-          "value": 64.25
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2000,
@@ -23535,7 +20960,6 @@
       "gdp_growth": 4.66,
       "inflation": 4.49,
       "internet_users": 34.98,
-      "life_expectancy": 63.83,
       "literacy_rate": 82.23,
       "population": 56432944.0,
       "unemployment": 5.49
@@ -24153,108 +21577,6 @@
           "value": 34.98
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 56.08
-        },
-        {
-          "year": 2001,
-          "value": 56.5
-        },
-        {
-          "year": 2002,
-          "value": 56.76
-        },
-        {
-          "year": 2003,
-          "value": 57.37
-        },
-        {
-          "year": 2004,
-          "value": 57.95
-        },
-        {
-          "year": 2005,
-          "value": 58.51
-        },
-        {
-          "year": 2006,
-          "value": 59.06
-        },
-        {
-          "year": 2007,
-          "value": 59.41
-        },
-        {
-          "year": 2008,
-          "value": 59.95
-        },
-        {
-          "year": 2009,
-          "value": 60.48
-        },
-        {
-          "year": 2010,
-          "value": 60.91
-        },
-        {
-          "year": 2011,
-          "value": 61.28
-        },
-        {
-          "year": 2012,
-          "value": 61.54
-        },
-        {
-          "year": 2013,
-          "value": 61.73
-        },
-        {
-          "year": 2014,
-          "value": 61.99
-        },
-        {
-          "year": 2015,
-          "value": 62.28
-        },
-        {
-          "year": 2016,
-          "value": 62.53
-        },
-        {
-          "year": 2017,
-          "value": 62.73
-        },
-        {
-          "year": 2018,
-          "value": 62.83
-        },
-        {
-          "year": 2019,
-          "value": 62.94
-        },
-        {
-          "year": 2020,
-          "value": 61.6
-        },
-        {
-          "year": 2021,
-          "value": 61.23
-        },
-        {
-          "year": 2022,
-          "value": 63.55
-        },
-        {
-          "year": 2023,
-          "value": 63.65
-        },
-        {
-          "year": 2024,
-          "value": 63.83
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2000,
@@ -24483,7 +21805,6 @@
       "gdp_growth": 5.23,
       "inflation": 6.11,
       "internet_users": 51.8,
-      "life_expectancy": 57.8,
       "literacy_rate": 90.45,
       "population": 2337423.0,
       "unemployment": 16.34
@@ -25101,108 +22422,6 @@
           "value": 51.8
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 48.78
-        },
-        {
-          "year": 2001,
-          "value": 47.15
-        },
-        {
-          "year": 2002,
-          "value": 45.95
-        },
-        {
-          "year": 2003,
-          "value": 44.92
-        },
-        {
-          "year": 2004,
-          "value": 44.04
-        },
-        {
-          "year": 2005,
-          "value": 43.61
-        },
-        {
-          "year": 2006,
-          "value": 43.18
-        },
-        {
-          "year": 2007,
-          "value": 43.66
-        },
-        {
-          "year": 2008,
-          "value": 44.3
-        },
-        {
-          "year": 2009,
-          "value": 45.05
-        },
-        {
-          "year": 2010,
-          "value": 46.05
-        },
-        {
-          "year": 2011,
-          "value": 46.93
-        },
-        {
-          "year": 2012,
-          "value": 48.23
-        },
-        {
-          "year": 2013,
-          "value": 49.55
-        },
-        {
-          "year": 2014,
-          "value": 50.79
-        },
-        {
-          "year": 2015,
-          "value": 51.83
-        },
-        {
-          "year": 2016,
-          "value": 52.91
-        },
-        {
-          "year": 2017,
-          "value": 53.87
-        },
-        {
-          "year": 2018,
-          "value": 54.64
-        },
-        {
-          "year": 2019,
-          "value": 55.25
-        },
-        {
-          "year": 2020,
-          "value": 55.13
-        },
-        {
-          "year": 2021,
-          "value": 54.21
-        },
-        {
-          "year": 2022,
-          "value": 56.81
-        },
-        {
-          "year": 2023,
-          "value": 57.38
-        },
-        {
-          "year": 2024,
-          "value": 57.8
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2000,
@@ -25451,7 +22670,6 @@
       "gdp_growth": 4.02,
       "inflation": 8.21,
       "internet_users": 32.23,
-      "life_expectancy": 62.32,
       "literacy_rate": 59.4,
       "population": 5612817.0,
       "unemployment": 2.91
@@ -26033,108 +23251,6 @@
           "value": 32.23
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 51.85
-        },
-        {
-          "year": 2001,
-          "value": 53.11
-        },
-        {
-          "year": 2002,
-          "value": 54.06
-        },
-        {
-          "year": 2003,
-          "value": 53.05
-        },
-        {
-          "year": 2004,
-          "value": 55.95
-        },
-        {
-          "year": 2005,
-          "value": 56.77
-        },
-        {
-          "year": 2006,
-          "value": 57.49
-        },
-        {
-          "year": 2007,
-          "value": 58.15
-        },
-        {
-          "year": 2008,
-          "value": 58.67
-        },
-        {
-          "year": 2009,
-          "value": 59.11
-        },
-        {
-          "year": 2010,
-          "value": 59.36
-        },
-        {
-          "year": 2011,
-          "value": 59.49
-        },
-        {
-          "year": 2012,
-          "value": 59.78
-        },
-        {
-          "year": 2013,
-          "value": 59.99
-        },
-        {
-          "year": 2014,
-          "value": 59.21
-        },
-        {
-          "year": 2015,
-          "value": 59.25
-        },
-        {
-          "year": 2016,
-          "value": 60.48
-        },
-        {
-          "year": 2017,
-          "value": 60.78
-        },
-        {
-          "year": 2018,
-          "value": 61.0
-        },
-        {
-          "year": 2019,
-          "value": 61.23
-        },
-        {
-          "year": 2020,
-          "value": 61.27
-        },
-        {
-          "year": 2021,
-          "value": 61.17
-        },
-        {
-          "year": 2022,
-          "value": 61.93
-        },
-        {
-          "year": 2023,
-          "value": 62.16
-        },
-        {
-          "year": 2024,
-          "value": 62.32
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2010,
@@ -26363,7 +23479,6 @@
       "gdp_growth": 1.9,
       "inflation": 2.13,
       "internet_users": 81.95,
-      "life_expectancy": 71.12,
       "population": 7381023.0,
       "unemployment": 19.09
     },
@@ -26948,108 +24063,6 @@
           "value": 81.95
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 70.54
-        },
-        {
-          "year": 2001,
-          "value": 70.65
-        },
-        {
-          "year": 2002,
-          "value": 70.79
-        },
-        {
-          "year": 2003,
-          "value": 71.0
-        },
-        {
-          "year": 2004,
-          "value": 71.21
-        },
-        {
-          "year": 2005,
-          "value": 71.44
-        },
-        {
-          "year": 2006,
-          "value": 71.63
-        },
-        {
-          "year": 2007,
-          "value": 71.79
-        },
-        {
-          "year": 2008,
-          "value": 71.94
-        },
-        {
-          "year": 2009,
-          "value": 72.07
-        },
-        {
-          "year": 2010,
-          "value": 72.2
-        },
-        {
-          "year": 2011,
-          "value": 69.95
-        },
-        {
-          "year": 2012,
-          "value": 72.19
-        },
-        {
-          "year": 2013,
-          "value": 72.34
-        },
-        {
-          "year": 2014,
-          "value": 71.3
-        },
-        {
-          "year": 2015,
-          "value": 71.64
-        },
-        {
-          "year": 2016,
-          "value": 71.8
-        },
-        {
-          "year": 2017,
-          "value": 72.72
-        },
-        {
-          "year": 2018,
-          "value": 73.15
-        },
-        {
-          "year": 2019,
-          "value": 72.94
-        },
-        {
-          "year": 2020,
-          "value": 72.39
-        },
-        {
-          "year": 2021,
-          "value": 72.06
-        },
-        {
-          "year": 2022,
-          "value": 74.46
-        },
-        {
-          "year": 2023,
-          "value": 69.34
-        },
-        {
-          "year": 2024,
-          "value": 71.12
-        }
-      ],
       "literacy_rate": [],
       "population": [
         {
@@ -27273,7 +24286,6 @@
       "gdp_growth": 4.32,
       "inflation": 7.61,
       "internet_users": 18.68,
-      "life_expectancy": 63.84,
       "literacy_rate": 74.69,
       "population": 31964956.0,
       "unemployment": 3.05
@@ -27891,108 +24903,6 @@
           "value": 18.68
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 57.97
-        },
-        {
-          "year": 2001,
-          "value": 58.67
-        },
-        {
-          "year": 2002,
-          "value": 59.17
-        },
-        {
-          "year": 2003,
-          "value": 59.69
-        },
-        {
-          "year": 2004,
-          "value": 60.17
-        },
-        {
-          "year": 2005,
-          "value": 60.66
-        },
-        {
-          "year": 2006,
-          "value": 61.14
-        },
-        {
-          "year": 2007,
-          "value": 61.53
-        },
-        {
-          "year": 2008,
-          "value": 61.99
-        },
-        {
-          "year": 2009,
-          "value": 62.3
-        },
-        {
-          "year": 2010,
-          "value": 62.6
-        },
-        {
-          "year": 2011,
-          "value": 62.86
-        },
-        {
-          "year": 2012,
-          "value": 63.01
-        },
-        {
-          "year": 2013,
-          "value": 63.16
-        },
-        {
-          "year": 2014,
-          "value": 63.26
-        },
-        {
-          "year": 2015,
-          "value": 63.36
-        },
-        {
-          "year": 2016,
-          "value": 63.43
-        },
-        {
-          "year": 2017,
-          "value": 63.43
-        },
-        {
-          "year": 2018,
-          "value": 63.49
-        },
-        {
-          "year": 2019,
-          "value": 63.5
-        },
-        {
-          "year": 2020,
-          "value": 62.71
-        },
-        {
-          "year": 2021,
-          "value": 62.52
-        },
-        {
-          "year": 2022,
-          "value": 63.07
-        },
-        {
-          "year": 2023,
-          "value": 63.63
-        },
-        {
-          "year": 2024,
-          "value": 63.84
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2000,
@@ -28233,7 +25143,6 @@
       "gdp_growth": 1.67,
       "inflation": 32.18,
       "internet_users": 18.96,
-      "life_expectancy": 67.56,
       "literacy_rate": 70.15,
       "population": 21655286.0,
       "unemployment": 5.05
@@ -28851,108 +25760,6 @@
           "value": 18.96
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 46.17
-        },
-        {
-          "year": 2001,
-          "value": 47.2
-        },
-        {
-          "year": 2002,
-          "value": 48.18
-        },
-        {
-          "year": 2003,
-          "value": 49.6
-        },
-        {
-          "year": 2004,
-          "value": 51.07
-        },
-        {
-          "year": 2005,
-          "value": 52.47
-        },
-        {
-          "year": 2006,
-          "value": 53.65
-        },
-        {
-          "year": 2007,
-          "value": 54.69
-        },
-        {
-          "year": 2008,
-          "value": 55.72
-        },
-        {
-          "year": 2009,
-          "value": 56.71
-        },
-        {
-          "year": 2010,
-          "value": 57.79
-        },
-        {
-          "year": 2011,
-          "value": 58.86
-        },
-        {
-          "year": 2012,
-          "value": 59.87
-        },
-        {
-          "year": 2013,
-          "value": 60.82
-        },
-        {
-          "year": 2014,
-          "value": 61.65
-        },
-        {
-          "year": 2015,
-          "value": 62.32
-        },
-        {
-          "year": 2016,
-          "value": 63.16
-        },
-        {
-          "year": 2017,
-          "value": 63.91
-        },
-        {
-          "year": 2018,
-          "value": 64.46
-        },
-        {
-          "year": 2019,
-          "value": 65.0
-        },
-        {
-          "year": 2020,
-          "value": 65.22
-        },
-        {
-          "year": 2021,
-          "value": 64.78
-        },
-        {
-          "year": 2022,
-          "value": 66.04
-        },
-        {
-          "year": 2023,
-          "value": 67.35
-        },
-        {
-          "year": 2024,
-          "value": 67.56
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2017,
@@ -29189,7 +25996,6 @@
       "gdp_growth": 5.02,
       "inflation": 3.21,
       "internet_users": 36.8,
-      "life_expectancy": 60.67,
       "literacy_rate": 35.63,
       "population": 24478595.0,
       "unemployment": 2.92
@@ -29807,108 +26613,6 @@
           "value": 36.8
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 50.6
-        },
-        {
-          "year": 2001,
-          "value": 51.3
-        },
-        {
-          "year": 2002,
-          "value": 51.99
-        },
-        {
-          "year": 2003,
-          "value": 52.63
-        },
-        {
-          "year": 2004,
-          "value": 53.25
-        },
-        {
-          "year": 2005,
-          "value": 53.79
-        },
-        {
-          "year": 2006,
-          "value": 54.3
-        },
-        {
-          "year": 2007,
-          "value": 54.76
-        },
-        {
-          "year": 2008,
-          "value": 55.19
-        },
-        {
-          "year": 2009,
-          "value": 55.59
-        },
-        {
-          "year": 2010,
-          "value": 55.99
-        },
-        {
-          "year": 2011,
-          "value": 56.37
-        },
-        {
-          "year": 2012,
-          "value": 56.7
-        },
-        {
-          "year": 2013,
-          "value": 57.05
-        },
-        {
-          "year": 2014,
-          "value": 57.48
-        },
-        {
-          "year": 2015,
-          "value": 57.85
-        },
-        {
-          "year": 2016,
-          "value": 58.29
-        },
-        {
-          "year": 2017,
-          "value": 58.56
-        },
-        {
-          "year": 2018,
-          "value": 58.87
-        },
-        {
-          "year": 2019,
-          "value": 59.22
-        },
-        {
-          "year": 2020,
-          "value": 58.86
-        },
-        {
-          "year": 2021,
-          "value": 59.12
-        },
-        {
-          "year": 2022,
-          "value": 60.03
-        },
-        {
-          "year": 2023,
-          "value": 60.44
-        },
-        {
-          "year": 2024,
-          "value": 60.67
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2003,
@@ -30161,7 +26865,6 @@
       "gdp_growth": 6.31,
       "inflation": 2.49,
       "internet_users": 45.78,
-      "life_expectancy": 68.71,
       "literacy_rate": 59.53,
       "population": 5169395.0,
       "unemployment": 10.26
@@ -30779,108 +27482,6 @@
           "value": 45.78
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 61.04
-        },
-        {
-          "year": 2001,
-          "value": 61.66
-        },
-        {
-          "year": 2002,
-          "value": 62.25
-        },
-        {
-          "year": 2003,
-          "value": 62.8
-        },
-        {
-          "year": 2004,
-          "value": 63.37
-        },
-        {
-          "year": 2005,
-          "value": 63.92
-        },
-        {
-          "year": 2006,
-          "value": 64.49
-        },
-        {
-          "year": 2007,
-          "value": 64.89
-        },
-        {
-          "year": 2008,
-          "value": 65.23
-        },
-        {
-          "year": 2009,
-          "value": 65.48
-        },
-        {
-          "year": 2010,
-          "value": 65.66
-        },
-        {
-          "year": 2011,
-          "value": 65.75
-        },
-        {
-          "year": 2012,
-          "value": 65.81
-        },
-        {
-          "year": 2013,
-          "value": 65.89
-        },
-        {
-          "year": 2014,
-          "value": 66.21
-        },
-        {
-          "year": 2015,
-          "value": 66.5
-        },
-        {
-          "year": 2016,
-          "value": 66.82
-        },
-        {
-          "year": 2017,
-          "value": 67.09
-        },
-        {
-          "year": 2018,
-          "value": 67.42
-        },
-        {
-          "year": 2019,
-          "value": 67.64
-        },
-        {
-          "year": 2020,
-          "value": 66.79
-        },
-        {
-          "year": 2021,
-          "value": 66.76
-        },
-        {
-          "year": 2022,
-          "value": 68.28
-        },
-        {
-          "year": 2023,
-          "value": 68.48
-        },
-        {
-          "year": 2024,
-          "value": 68.71
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2000,
@@ -31121,7 +27722,6 @@
       "gdp_growth": 4.95,
       "inflation": 3.6,
       "internet_users": 73.31,
-      "life_expectancy": 73.79,
       "literacy_rate": 94.29,
       "population": 1245779.0,
       "unemployment": 5.55
@@ -31739,108 +28339,6 @@
           "value": 73.31
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 71.66
-        },
-        {
-          "year": 2001,
-          "value": 71.77
-        },
-        {
-          "year": 2002,
-          "value": 71.97
-        },
-        {
-          "year": 2003,
-          "value": 72.12
-        },
-        {
-          "year": 2004,
-          "value": 72.27
-        },
-        {
-          "year": 2005,
-          "value": 72.43
-        },
-        {
-          "year": 2006,
-          "value": 72.43
-        },
-        {
-          "year": 2007,
-          "value": 72.57
-        },
-        {
-          "year": 2008,
-          "value": 72.57
-        },
-        {
-          "year": 2009,
-          "value": 72.88
-        },
-        {
-          "year": 2010,
-          "value": 72.97
-        },
-        {
-          "year": 2011,
-          "value": 73.27
-        },
-        {
-          "year": 2012,
-          "value": 73.86
-        },
-        {
-          "year": 2013,
-          "value": 74.02
-        },
-        {
-          "year": 2014,
-          "value": 74.19
-        },
-        {
-          "year": 2015,
-          "value": 74.35
-        },
-        {
-          "year": 2016,
-          "value": 74.39
-        },
-        {
-          "year": 2017,
-          "value": 74.51
-        },
-        {
-          "year": 2018,
-          "value": 74.42
-        },
-        {
-          "year": 2019,
-          "value": 74.24
-        },
-        {
-          "year": 2020,
-          "value": 74.18
-        },
-        {
-          "year": 2021,
-          "value": 73.68
-        },
-        {
-          "year": 2022,
-          "value": 73.51
-        },
-        {
-          "year": 2023,
-          "value": 73.41
-        },
-        {
-          "year": 2024,
-          "value": 73.79
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2000,
@@ -32101,7 +28599,6 @@
       "gdp_growth": 3.79,
       "inflation": 0.99,
       "internet_users": 91.2,
-      "life_expectancy": 75.49,
       "literacy_rate": 64.26,
       "population": 38081173.0,
       "unemployment": 9.1
@@ -32719,108 +29216,6 @@
           "value": 91.2
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 66.79
-        },
-        {
-          "year": 2001,
-          "value": 67.2
-        },
-        {
-          "year": 2002,
-          "value": 67.58
-        },
-        {
-          "year": 2003,
-          "value": 67.96
-        },
-        {
-          "year": 2004,
-          "value": 68.27
-        },
-        {
-          "year": 2005,
-          "value": 68.75
-        },
-        {
-          "year": 2006,
-          "value": 69.16
-        },
-        {
-          "year": 2007,
-          "value": 69.62
-        },
-        {
-          "year": 2008,
-          "value": 70.05
-        },
-        {
-          "year": 2009,
-          "value": 70.45
-        },
-        {
-          "year": 2010,
-          "value": 70.82
-        },
-        {
-          "year": 2011,
-          "value": 71.26
-        },
-        {
-          "year": 2012,
-          "value": 71.67
-        },
-        {
-          "year": 2013,
-          "value": 72.12
-        },
-        {
-          "year": 2014,
-          "value": 72.52
-        },
-        {
-          "year": 2015,
-          "value": 72.89
-        },
-        {
-          "year": 2016,
-          "value": 73.23
-        },
-        {
-          "year": 2017,
-          "value": 73.61
-        },
-        {
-          "year": 2018,
-          "value": 73.95
-        },
-        {
-          "year": 2019,
-          "value": 74.25
-        },
-        {
-          "year": 2020,
-          "value": 73.13
-        },
-        {
-          "year": 2021,
-          "value": 73.39
-        },
-        {
-          "year": 2022,
-          "value": 75.16
-        },
-        {
-          "year": 2023,
-          "value": 75.31
-        },
-        {
-          "year": 2024,
-          "value": 75.49
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2004,
@@ -33069,7 +29464,6 @@
       "gdp_growth": 2.15,
       "inflation": 4.08,
       "internet_users": 20.53,
-      "life_expectancy": 63.8,
       "literacy_rate": 61.67,
       "population": 34631766.0,
       "unemployment": 6.67
@@ -33667,108 +30061,6 @@
           "value": 20.53
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 49.48
-        },
-        {
-          "year": 2001,
-          "value": 50.26
-        },
-        {
-          "year": 2002,
-          "value": 50.88
-        },
-        {
-          "year": 2003,
-          "value": 51.38
-        },
-        {
-          "year": 2004,
-          "value": 51.85
-        },
-        {
-          "year": 2005,
-          "value": 52.32
-        },
-        {
-          "year": 2006,
-          "value": 52.75
-        },
-        {
-          "year": 2007,
-          "value": 53.26
-        },
-        {
-          "year": 2008,
-          "value": 53.8
-        },
-        {
-          "year": 2009,
-          "value": 54.4
-        },
-        {
-          "year": 2010,
-          "value": 55.04
-        },
-        {
-          "year": 2011,
-          "value": 55.73
-        },
-        {
-          "year": 2012,
-          "value": 56.46
-        },
-        {
-          "year": 2013,
-          "value": 57.19
-        },
-        {
-          "year": 2014,
-          "value": 57.97
-        },
-        {
-          "year": 2015,
-          "value": 58.71
-        },
-        {
-          "year": 2016,
-          "value": 59.45
-        },
-        {
-          "year": 2017,
-          "value": 60.15
-        },
-        {
-          "year": 2018,
-          "value": 60.79
-        },
-        {
-          "year": 2019,
-          "value": 61.31
-        },
-        {
-          "year": 2020,
-          "value": 61.39
-        },
-        {
-          "year": 2021,
-          "value": 60.27
-        },
-        {
-          "year": 2022,
-          "value": 63.01
-        },
-        {
-          "year": 2023,
-          "value": 63.61
-        },
-        {
-          "year": 2024,
-          "value": 63.8
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2003,
@@ -34017,7 +30309,6 @@
       "gdp_growth": 3.78,
       "inflation": 4.24,
       "internet_users": 64.87,
-      "life_expectancy": 67.52,
       "literacy_rate": 87.64,
       "population": 3030131.0,
       "unemployment": 19.16
@@ -34623,108 +30914,6 @@
           "value": 64.87
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 52.95
-        },
-        {
-          "year": 2001,
-          "value": 51.98
-        },
-        {
-          "year": 2002,
-          "value": 51.99
-        },
-        {
-          "year": 2003,
-          "value": 51.92
-        },
-        {
-          "year": 2004,
-          "value": 52.17
-        },
-        {
-          "year": 2005,
-          "value": 52.56
-        },
-        {
-          "year": 2006,
-          "value": 53.18
-        },
-        {
-          "year": 2007,
-          "value": 54.03
-        },
-        {
-          "year": 2008,
-          "value": 54.74
-        },
-        {
-          "year": 2009,
-          "value": 55.35
-        },
-        {
-          "year": 2010,
-          "value": 56.09
-        },
-        {
-          "year": 2011,
-          "value": 56.65
-        },
-        {
-          "year": 2012,
-          "value": 57.73
-        },
-        {
-          "year": 2013,
-          "value": 58.47
-        },
-        {
-          "year": 2014,
-          "value": 59.31
-        },
-        {
-          "year": 2015,
-          "value": 60.01
-        },
-        {
-          "year": 2016,
-          "value": 60.81
-        },
-        {
-          "year": 2017,
-          "value": 61.66
-        },
-        {
-          "year": 2018,
-          "value": 62.58
-        },
-        {
-          "year": 2019,
-          "value": 63.55
-        },
-        {
-          "year": 2020,
-          "value": 64.07
-        },
-        {
-          "year": 2021,
-          "value": 60.85
-        },
-        {
-          "year": 2022,
-          "value": 64.19
-        },
-        {
-          "year": 2023,
-          "value": 67.39
-        },
-        {
-          "year": 2024,
-          "value": 67.52
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2001,
@@ -34969,7 +31158,6 @@
       "gdp_growth": 8.32,
       "inflation": 9.07,
       "internet_users": 15.56,
-      "life_expectancy": 61.43,
       "literacy_rate": 35.61,
       "population": 27032412.0,
       "unemployment": 0.38
@@ -35587,108 +31775,6 @@
           "value": 15.56
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 49.17
-        },
-        {
-          "year": 2001,
-          "value": 49.87
-        },
-        {
-          "year": 2002,
-          "value": 50.65
-        },
-        {
-          "year": 2003,
-          "value": 51.55
-        },
-        {
-          "year": 2004,
-          "value": 52.4
-        },
-        {
-          "year": 2005,
-          "value": 53.32
-        },
-        {
-          "year": 2006,
-          "value": 54.22
-        },
-        {
-          "year": 2007,
-          "value": 55.06
-        },
-        {
-          "year": 2008,
-          "value": 55.85
-        },
-        {
-          "year": 2009,
-          "value": 56.49
-        },
-        {
-          "year": 2010,
-          "value": 57.08
-        },
-        {
-          "year": 2011,
-          "value": 57.6
-        },
-        {
-          "year": 2012,
-          "value": 57.99
-        },
-        {
-          "year": 2013,
-          "value": 58.36
-        },
-        {
-          "year": 2014,
-          "value": 58.69
-        },
-        {
-          "year": 2015,
-          "value": 58.85
-        },
-        {
-          "year": 2016,
-          "value": 59.23
-        },
-        {
-          "year": 2017,
-          "value": 59.52
-        },
-        {
-          "year": 2018,
-          "value": 59.77
-        },
-        {
-          "year": 2019,
-          "value": 60.03
-        },
-        {
-          "year": 2020,
-          "value": 59.89
-        },
-        {
-          "year": 2021,
-          "value": 59.54
-        },
-        {
-          "year": 2022,
-          "value": 60.4
-        },
-        {
-          "year": 2023,
-          "value": 61.18
-        },
-        {
-          "year": 2024,
-          "value": 61.43
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2001,
@@ -35937,7 +32023,6 @@
       "gdp_growth": 4.07,
       "inflation": 33.24,
       "internet_users": 41.21,
-      "life_expectancy": 54.63,
       "literacy_rate": 70.41,
       "population": 232679478.0,
       "unemployment": 3.04
@@ -36555,108 +32640,6 @@
           "value": 41.21
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 47.14
-        },
-        {
-          "year": 2001,
-          "value": 47.55
-        },
-        {
-          "year": 2002,
-          "value": 48.02
-        },
-        {
-          "year": 2003,
-          "value": 48.62
-        },
-        {
-          "year": 2004,
-          "value": 49.15
-        },
-        {
-          "year": 2005,
-          "value": 49.54
-        },
-        {
-          "year": 2006,
-          "value": 49.88
-        },
-        {
-          "year": 2007,
-          "value": 50.38
-        },
-        {
-          "year": 2008,
-          "value": 50.75
-        },
-        {
-          "year": 2009,
-          "value": 51.08
-        },
-        {
-          "year": 2010,
-          "value": 51.31
-        },
-        {
-          "year": 2011,
-          "value": 51.49
-        },
-        {
-          "year": 2012,
-          "value": 51.69
-        },
-        {
-          "year": 2013,
-          "value": 51.83
-        },
-        {
-          "year": 2014,
-          "value": 51.94
-        },
-        {
-          "year": 2015,
-          "value": 51.94
-        },
-        {
-          "year": 2016,
-          "value": 52.19
-        },
-        {
-          "year": 2017,
-          "value": 52.4
-        },
-        {
-          "year": 2018,
-          "value": 52.67
-        },
-        {
-          "year": 2019,
-          "value": 53.01
-        },
-        {
-          "year": 2020,
-          "value": 53.07
-        },
-        {
-          "year": 2021,
-          "value": 53.45
-        },
-        {
-          "year": 2022,
-          "value": 54.08
-        },
-        {
-          "year": 2023,
-          "value": 54.46
-        },
-        {
-          "year": 2024,
-          "value": 54.63
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2003,
@@ -36901,7 +32884,6 @@
       "gdp_growth": 7.23,
       "inflation": 1.77,
       "internet_users": 31.7,
-      "life_expectancy": 68.02,
       "literacy_rate": 78.76,
       "population": 14256567.0,
       "unemployment": 11.33
@@ -37515,108 +33497,6 @@
           "value": 31.7
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 47.8
-        },
-        {
-          "year": 2001,
-          "value": 49.49
-        },
-        {
-          "year": 2002,
-          "value": 51.26
-        },
-        {
-          "year": 2003,
-          "value": 53.53
-        },
-        {
-          "year": 2004,
-          "value": 55.52
-        },
-        {
-          "year": 2005,
-          "value": 56.97
-        },
-        {
-          "year": 2006,
-          "value": 58.34
-        },
-        {
-          "year": 2007,
-          "value": 59.5
-        },
-        {
-          "year": 2008,
-          "value": 60.64
-        },
-        {
-          "year": 2009,
-          "value": 61.81
-        },
-        {
-          "year": 2010,
-          "value": 62.8
-        },
-        {
-          "year": 2011,
-          "value": 63.48
-        },
-        {
-          "year": 2012,
-          "value": 64.19
-        },
-        {
-          "year": 2013,
-          "value": 64.65
-        },
-        {
-          "year": 2014,
-          "value": 65.09
-        },
-        {
-          "year": 2015,
-          "value": 65.42
-        },
-        {
-          "year": 2016,
-          "value": 65.73
-        },
-        {
-          "year": 2017,
-          "value": 66.14
-        },
-        {
-          "year": 2018,
-          "value": 66.35
-        },
-        {
-          "year": 2019,
-          "value": 66.69
-        },
-        {
-          "year": 2020,
-          "value": 66.95
-        },
-        {
-          "year": 2021,
-          "value": 66.85
-        },
-        {
-          "year": 2022,
-          "value": 67.53
-        },
-        {
-          "year": 2023,
-          "value": 67.78
-        },
-        {
-          "year": 2024,
-          "value": 68.02
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2000,
@@ -37865,7 +33745,6 @@
       "gdp_growth": 1.48,
       "inflation": 14.35,
       "internet_users": 59.12,
-      "life_expectancy": 69.91,
       "literacy_rate": 87.44,
       "population": 235536.0,
       "unemployment": 9.06
@@ -38483,108 +34362,6 @@
           "value": 59.12
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 61.21
-        },
-        {
-          "year": 2001,
-          "value": 61.5
-        },
-        {
-          "year": 2002,
-          "value": 61.83
-        },
-        {
-          "year": 2003,
-          "value": 62.16
-        },
-        {
-          "year": 2004,
-          "value": 62.56
-        },
-        {
-          "year": 2005,
-          "value": 62.43
-        },
-        {
-          "year": 2006,
-          "value": 63.04
-        },
-        {
-          "year": 2007,
-          "value": 63.34
-        },
-        {
-          "year": 2008,
-          "value": 63.45
-        },
-        {
-          "year": 2009,
-          "value": 63.67
-        },
-        {
-          "year": 2010,
-          "value": 63.87
-        },
-        {
-          "year": 2011,
-          "value": 64.12
-        },
-        {
-          "year": 2012,
-          "value": 64.5
-        },
-        {
-          "year": 2013,
-          "value": 64.93
-        },
-        {
-          "year": 2014,
-          "value": 65.48
-        },
-        {
-          "year": 2015,
-          "value": 66.02
-        },
-        {
-          "year": 2016,
-          "value": 66.56
-        },
-        {
-          "year": 2017,
-          "value": 67.07
-        },
-        {
-          "year": 2018,
-          "value": 67.6
-        },
-        {
-          "year": 2019,
-          "value": 68.04
-        },
-        {
-          "year": 2020,
-          "value": 67.98
-        },
-        {
-          "year": 2021,
-          "value": 68.03
-        },
-        {
-          "year": 2022,
-          "value": 69.24
-        },
-        {
-          "year": 2023,
-          "value": 69.72
-        },
-        {
-          "year": 2024,
-          "value": 69.91
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2001,
@@ -38821,7 +34598,6 @@
       "gdp_growth": 6.46,
       "inflation": 0.8,
       "internet_users": 60.12,
-      "life_expectancy": 68.92,
       "literacy_rate": 50.36,
       "population": 18501984.0,
       "unemployment": 2.79
@@ -39439,108 +35215,6 @@
           "value": 60.12
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 57.62
-        },
-        {
-          "year": 2001,
-          "value": 58.16
-        },
-        {
-          "year": 2002,
-          "value": 58.91
-        },
-        {
-          "year": 2003,
-          "value": 59.47
-        },
-        {
-          "year": 2004,
-          "value": 60.31
-        },
-        {
-          "year": 2005,
-          "value": 60.98
-        },
-        {
-          "year": 2006,
-          "value": 61.8
-        },
-        {
-          "year": 2007,
-          "value": 62.65
-        },
-        {
-          "year": 2008,
-          "value": 63.2
-        },
-        {
-          "year": 2009,
-          "value": 63.75
-        },
-        {
-          "year": 2010,
-          "value": 64.22
-        },
-        {
-          "year": 2011,
-          "value": 64.8
-        },
-        {
-          "year": 2012,
-          "value": 65.23
-        },
-        {
-          "year": 2013,
-          "value": 65.64
-        },
-        {
-          "year": 2014,
-          "value": 66.0
-        },
-        {
-          "year": 2015,
-          "value": 66.45
-        },
-        {
-          "year": 2016,
-          "value": 66.72
-        },
-        {
-          "year": 2017,
-          "value": 67.06
-        },
-        {
-          "year": 2018,
-          "value": 67.38
-        },
-        {
-          "year": 2019,
-          "value": 67.67
-        },
-        {
-          "year": 2020,
-          "value": 67.5
-        },
-        {
-          "year": 2021,
-          "value": 66.87
-        },
-        {
-          "year": 2022,
-          "value": 67.79
-        },
-        {
-          "year": 2023,
-          "value": 68.68
-        },
-        {
-          "year": 2024,
-          "value": 68.92
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2002,
@@ -39809,7 +35483,6 @@
       "gdp_growth": 3.35,
       "inflation": 0.31,
       "internet_users": 87.82,
-      "life_expectancy": 76.3,
       "literacy_rate": 93.95,
       "population": 121354.0
     },
@@ -40422,108 +36095,6 @@
           "value": 87.82
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 72.78
-        },
-        {
-          "year": 2001,
-          "value": 73.25
-        },
-        {
-          "year": 2002,
-          "value": 71.09
-        },
-        {
-          "year": 2003,
-          "value": 71.03
-        },
-        {
-          "year": 2004,
-          "value": 72.66
-        },
-        {
-          "year": 2005,
-          "value": 72.13
-        },
-        {
-          "year": 2006,
-          "value": 72.22
-        },
-        {
-          "year": 2007,
-          "value": 73.14
-        },
-        {
-          "year": 2008,
-          "value": 73.16
-        },
-        {
-          "year": 2009,
-          "value": 73.08
-        },
-        {
-          "year": 2010,
-          "value": 73.2
-        },
-        {
-          "year": 2011,
-          "value": 72.72
-        },
-        {
-          "year": 2012,
-          "value": 74.28
-        },
-        {
-          "year": 2013,
-          "value": 73.12
-        },
-        {
-          "year": 2014,
-          "value": 73.23
-        },
-        {
-          "year": 2015,
-          "value": 74.3
-        },
-        {
-          "year": 2016,
-          "value": 74.31
-        },
-        {
-          "year": 2017,
-          "value": 74.3
-        },
-        {
-          "year": 2018,
-          "value": 72.84
-        },
-        {
-          "year": 2019,
-          "value": 74.05
-        },
-        {
-          "year": 2020,
-          "value": 77.24
-        },
-        {
-          "year": 2021,
-          "value": 73.4
-        },
-        {
-          "year": 2022,
-          "value": 74.51
-        },
-        {
-          "year": 2023,
-          "value": 75.42
-        },
-        {
-          "year": 2024,
-          "value": 76.3
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2002,
@@ -40655,7 +36226,6 @@
       "gdp_growth": 4.29,
       "inflation": 28.63,
       "internet_users": 25.1,
-      "life_expectancy": 61.96,
       "literacy_rate": 43.58,
       "population": 8642022.0,
       "unemployment": 3.1
@@ -41245,108 +36815,6 @@
           "value": 25.1
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 44.83
-        },
-        {
-          "year": 2001,
-          "value": 45.45
-        },
-        {
-          "year": 2002,
-          "value": 46.17
-        },
-        {
-          "year": 2003,
-          "value": 46.78
-        },
-        {
-          "year": 2004,
-          "value": 47.48
-        },
-        {
-          "year": 2005,
-          "value": 48.31
-        },
-        {
-          "year": 2006,
-          "value": 49.55
-        },
-        {
-          "year": 2007,
-          "value": 50.02
-        },
-        {
-          "year": 2008,
-          "value": 50.69
-        },
-        {
-          "year": 2009,
-          "value": 51.31
-        },
-        {
-          "year": 2010,
-          "value": 51.93
-        },
-        {
-          "year": 2011,
-          "value": 52.59
-        },
-        {
-          "year": 2012,
-          "value": 53.16
-        },
-        {
-          "year": 2013,
-          "value": 54.05
-        },
-        {
-          "year": 2014,
-          "value": 54.28
-        },
-        {
-          "year": 2015,
-          "value": 55.45
-        },
-        {
-          "year": 2016,
-          "value": 56.94
-        },
-        {
-          "year": 2017,
-          "value": 57.76
-        },
-        {
-          "year": 2018,
-          "value": 59.06
-        },
-        {
-          "year": 2019,
-          "value": 59.59
-        },
-        {
-          "year": 2020,
-          "value": 59.69
-        },
-        {
-          "year": 2021,
-          "value": 60.26
-        },
-        {
-          "year": 2022,
-          "value": 61.27
-        },
-        {
-          "year": 2023,
-          "value": 61.79
-        },
-        {
-          "year": 2024,
-          "value": 61.96
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2004,
@@ -41594,7 +37062,6 @@
       "gdp": 11967000000.0,
       "gdp_growth": 4.11,
       "internet_users": 27.94,
-      "life_expectancy": 58.97,
       "literacy_rate": 54.12,
       "population": 19009151.0,
       "unemployment": 18.95
@@ -42099,108 +37566,6 @@
           "value": 27.94
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 50.75
-        },
-        {
-          "year": 2001,
-          "value": 50.83
-        },
-        {
-          "year": 2002,
-          "value": 50.82
-        },
-        {
-          "year": 2003,
-          "value": 50.72
-        },
-        {
-          "year": 2004,
-          "value": 50.69
-        },
-        {
-          "year": 2005,
-          "value": 50.89
-        },
-        {
-          "year": 2006,
-          "value": 50.91
-        },
-        {
-          "year": 2007,
-          "value": 50.88
-        },
-        {
-          "year": 2008,
-          "value": 51.46
-        },
-        {
-          "year": 2009,
-          "value": 52.1
-        },
-        {
-          "year": 2010,
-          "value": 48.9
-        },
-        {
-          "year": 2011,
-          "value": 32.45
-        },
-        {
-          "year": 2012,
-          "value": 49.14
-        },
-        {
-          "year": 2013,
-          "value": 54.02
-        },
-        {
-          "year": 2014,
-          "value": 54.44
-        },
-        {
-          "year": 2015,
-          "value": 55.06
-        },
-        {
-          "year": 2016,
-          "value": 55.28
-        },
-        {
-          "year": 2017,
-          "value": 52.19
-        },
-        {
-          "year": 2018,
-          "value": 54.77
-        },
-        {
-          "year": 2019,
-          "value": 57.25
-        },
-        {
-          "year": 2020,
-          "value": 57.09
-        },
-        {
-          "year": 2021,
-          "value": 55.7
-        },
-        {
-          "year": 2022,
-          "value": 53.93
-        },
-        {
-          "year": 2023,
-          "value": 58.82
-        },
-        {
-          "year": 2024,
-          "value": 58.97
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2019,
@@ -42433,7 +37798,6 @@
       "gdp_growth": 0.53,
       "inflation": 4.36,
       "internet_users": 78.36,
-      "life_expectancy": 66.31,
       "literacy_rate": 91.15,
       "population": 64007187.0,
       "unemployment": 32.28
@@ -43051,108 +38415,6 @@
           "value": 78.36
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 58.37
-        },
-        {
-          "year": 2001,
-          "value": 57.16
-        },
-        {
-          "year": 2002,
-          "value": 55.58
-        },
-        {
-          "year": 2003,
-          "value": 54.24
-        },
-        {
-          "year": 2004,
-          "value": 53.96
-        },
-        {
-          "year": 2005,
-          "value": 53.91
-        },
-        {
-          "year": 2006,
-          "value": 54.22
-        },
-        {
-          "year": 2007,
-          "value": 54.95
-        },
-        {
-          "year": 2008,
-          "value": 55.98
-        },
-        {
-          "year": 2009,
-          "value": 57.41
-        },
-        {
-          "year": 2010,
-          "value": 58.89
-        },
-        {
-          "year": 2011,
-          "value": 60.6
-        },
-        {
-          "year": 2012,
-          "value": 61.74
-        },
-        {
-          "year": 2013,
-          "value": 62.39
-        },
-        {
-          "year": 2014,
-          "value": 63.18
-        },
-        {
-          "year": 2015,
-          "value": 64.05
-        },
-        {
-          "year": 2016,
-          "value": 64.75
-        },
-        {
-          "year": 2017,
-          "value": 65.42
-        },
-        {
-          "year": 2018,
-          "value": 65.73
-        },
-        {
-          "year": 2019,
-          "value": 66.07
-        },
-        {
-          "year": 2020,
-          "value": 65.15
-        },
-        {
-          "year": 2021,
-          "value": 62.01
-        },
-        {
-          "year": 2022,
-          "value": 65.45
-        },
-        {
-          "year": 2023,
-          "value": 66.14
-        },
-        {
-          "year": 2024,
-          "value": 66.31
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2007,
@@ -43421,7 +38683,6 @@
       "gdp_growth": -10.79,
       "inflation": 91.44,
       "internet_users": 6.67,
-      "life_expectancy": 57.74,
       "literacy_rate": 26.83,
       "population": 11943408.0,
       "unemployment": 12.37
@@ -43683,108 +38944,6 @@
           "value": 6.67
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 47.59
-        },
-        {
-          "year": 2001,
-          "value": 48.55
-        },
-        {
-          "year": 2002,
-          "value": 49.39
-        },
-        {
-          "year": 2003,
-          "value": 52.32
-        },
-        {
-          "year": 2004,
-          "value": 53.05
-        },
-        {
-          "year": 2005,
-          "value": 53.97
-        },
-        {
-          "year": 2006,
-          "value": 54.65
-        },
-        {
-          "year": 2007,
-          "value": 55.42
-        },
-        {
-          "year": 2008,
-          "value": 56.28
-        },
-        {
-          "year": 2009,
-          "value": 56.85
-        },
-        {
-          "year": 2010,
-          "value": 57.48
-        },
-        {
-          "year": 2011,
-          "value": 57.67
-        },
-        {
-          "year": 2012,
-          "value": 58.24
-        },
-        {
-          "year": 2013,
-          "value": 58.28
-        },
-        {
-          "year": 2014,
-          "value": 45.62
-        },
-        {
-          "year": 2015,
-          "value": 39.76
-        },
-        {
-          "year": 2016,
-          "value": 36.72
-        },
-        {
-          "year": 2017,
-          "value": 35.35
-        },
-        {
-          "year": 2018,
-          "value": 51.91
-        },
-        {
-          "year": 2019,
-          "value": 58.13
-        },
-        {
-          "year": 2020,
-          "value": 57.65
-        },
-        {
-          "year": 2021,
-          "value": 57.05
-        },
-        {
-          "year": 2022,
-          "value": 57.2
-        },
-        {
-          "year": 2023,
-          "value": 57.62
-        },
-        {
-          "year": 2024,
-          "value": 57.74
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2008,
@@ -44009,7 +39168,6 @@
       "gdp_growth": -13.96,
       "inflation": 138.81,
       "internet_users": 18.6,
-      "life_expectancy": 66.52,
       "literacy_rate": 53.52,
       "population": 50448963.0,
       "unemployment": 7.53
@@ -44555,108 +39713,6 @@
           "value": 18.6
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 58.95
-        },
-        {
-          "year": 2001,
-          "value": 59.26
-        },
-        {
-          "year": 2002,
-          "value": 59.31
-        },
-        {
-          "year": 2003,
-          "value": 58.32
-        },
-        {
-          "year": 2004,
-          "value": 56.77
-        },
-        {
-          "year": 2005,
-          "value": 57.23
-        },
-        {
-          "year": 2006,
-          "value": 60.4
-        },
-        {
-          "year": 2007,
-          "value": 61.44
-        },
-        {
-          "year": 2008,
-          "value": 61.26
-        },
-        {
-          "year": 2009,
-          "value": 62.68
-        },
-        {
-          "year": 2010,
-          "value": 62.98
-        },
-        {
-          "year": 2011,
-          "value": 63.18
-        },
-        {
-          "year": 2012,
-          "value": 63.43
-        },
-        {
-          "year": 2013,
-          "value": 63.44
-        },
-        {
-          "year": 2014,
-          "value": 63.99
-        },
-        {
-          "year": 2015,
-          "value": 64.38
-        },
-        {
-          "year": 2016,
-          "value": 64.68
-        },
-        {
-          "year": 2017,
-          "value": 65.15
-        },
-        {
-          "year": 2018,
-          "value": 65.5
-        },
-        {
-          "year": 2019,
-          "value": 65.8
-        },
-        {
-          "year": 2020,
-          "value": 65.12
-        },
-        {
-          "year": 2021,
-          "value": 64.46
-        },
-        {
-          "year": 2022,
-          "value": 65.69
-        },
-        {
-          "year": 2023,
-          "value": 66.33
-        },
-        {
-          "year": 2024,
-          "value": 66.52
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2000,
@@ -44881,7 +39937,6 @@
       "gdp_growth": 5.53,
       "inflation": 3.06,
       "internet_users": 31.16,
-      "life_expectancy": 67.21,
       "literacy_rate": 78.21,
       "population": 68560157.0,
       "unemployment": 1.56
@@ -45499,108 +40554,6 @@
           "value": 31.16
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 53.24
-        },
-        {
-          "year": 2001,
-          "value": 54.12
-        },
-        {
-          "year": 2002,
-          "value": 54.94
-        },
-        {
-          "year": 2003,
-          "value": 55.93
-        },
-        {
-          "year": 2004,
-          "value": 56.84
-        },
-        {
-          "year": 2005,
-          "value": 57.67
-        },
-        {
-          "year": 2006,
-          "value": 58.51
-        },
-        {
-          "year": 2007,
-          "value": 59.26
-        },
-        {
-          "year": 2008,
-          "value": 59.9
-        },
-        {
-          "year": 2009,
-          "value": 60.49
-        },
-        {
-          "year": 2010,
-          "value": 61.13
-        },
-        {
-          "year": 2011,
-          "value": 61.62
-        },
-        {
-          "year": 2012,
-          "value": 62.29
-        },
-        {
-          "year": 2013,
-          "value": 62.79
-        },
-        {
-          "year": 2014,
-          "value": 63.36
-        },
-        {
-          "year": 2015,
-          "value": 63.93
-        },
-        {
-          "year": 2016,
-          "value": 64.4
-        },
-        {
-          "year": 2017,
-          "value": 64.96
-        },
-        {
-          "year": 2018,
-          "value": 65.49
-        },
-        {
-          "year": 2019,
-          "value": 66.01
-        },
-        {
-          "year": 2020,
-          "value": 66.77
-        },
-        {
-          "year": 2021,
-          "value": 66.13
-        },
-        {
-          "year": 2022,
-          "value": 66.88
-        },
-        {
-          "year": 2023,
-          "value": 67.0
-        },
-        {
-          "year": 2024,
-          "value": 67.21
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2002,
@@ -45849,7 +40802,6 @@
       "gdp_growth": 6.53,
       "inflation": 2.86,
       "internet_users": 39.48,
-      "life_expectancy": 62.94,
       "literacy_rate": 72.6,
       "population": 8406558.0,
       "unemployment": 1.95
@@ -46467,108 +41419,6 @@
           "value": 39.48
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 54.59
-        },
-        {
-          "year": 2001,
-          "value": 54.76
-        },
-        {
-          "year": 2002,
-          "value": 55.04
-        },
-        {
-          "year": 2003,
-          "value": 55.31
-        },
-        {
-          "year": 2004,
-          "value": 55.61
-        },
-        {
-          "year": 2005,
-          "value": 55.93
-        },
-        {
-          "year": 2006,
-          "value": 56.15
-        },
-        {
-          "year": 2007,
-          "value": 56.4
-        },
-        {
-          "year": 2008,
-          "value": 56.66
-        },
-        {
-          "year": 2009,
-          "value": 56.94
-        },
-        {
-          "year": 2010,
-          "value": 57.24
-        },
-        {
-          "year": 2011,
-          "value": 57.62
-        },
-        {
-          "year": 2012,
-          "value": 57.95
-        },
-        {
-          "year": 2013,
-          "value": 58.36
-        },
-        {
-          "year": 2014,
-          "value": 58.78
-        },
-        {
-          "year": 2015,
-          "value": 59.23
-        },
-        {
-          "year": 2016,
-          "value": 59.68
-        },
-        {
-          "year": 2017,
-          "value": 60.15
-        },
-        {
-          "year": 2018,
-          "value": 60.61
-        },
-        {
-          "year": 2019,
-          "value": 61.06
-        },
-        {
-          "year": 2020,
-          "value": 61.14
-        },
-        {
-          "year": 2021,
-          "value": 61.34
-        },
-        {
-          "year": 2022,
-          "value": 62.29
-        },
-        {
-          "year": 2023,
-          "value": 62.74
-        },
-        {
-          "year": 2024,
-          "value": 62.94
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2000,
@@ -46829,7 +41679,6 @@
       "gdp_growth": 1.61,
       "inflation": 7.21,
       "internet_users": 76.5,
-      "life_expectancy": 76.71,
       "literacy_rate": 86.25,
       "population": 12277109.0,
       "unemployment": 15.34
@@ -47439,108 +42288,6 @@
           "value": 76.5
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 72.6
-        },
-        {
-          "year": 2001,
-          "value": 72.82
-        },
-        {
-          "year": 2002,
-          "value": 73.07
-        },
-        {
-          "year": 2003,
-          "value": 73.3
-        },
-        {
-          "year": 2004,
-          "value": 73.52
-        },
-        {
-          "year": 2005,
-          "value": 73.71
-        },
-        {
-          "year": 2006,
-          "value": 73.89
-        },
-        {
-          "year": 2007,
-          "value": 74.04
-        },
-        {
-          "year": 2008,
-          "value": 74.19
-        },
-        {
-          "year": 2009,
-          "value": 74.32
-        },
-        {
-          "year": 2010,
-          "value": 74.44
-        },
-        {
-          "year": 2011,
-          "value": 74.47
-        },
-        {
-          "year": 2012,
-          "value": 74.6
-        },
-        {
-          "year": 2013,
-          "value": 74.67
-        },
-        {
-          "year": 2014,
-          "value": 74.78
-        },
-        {
-          "year": 2015,
-          "value": 74.88
-        },
-        {
-          "year": 2016,
-          "value": 75.01
-        },
-        {
-          "year": 2017,
-          "value": 75.18
-        },
-        {
-          "year": 2018,
-          "value": 75.37
-        },
-        {
-          "year": 2019,
-          "value": 75.6
-        },
-        {
-          "year": 2020,
-          "value": 75.0
-        },
-        {
-          "year": 2021,
-          "value": 72.89
-        },
-        {
-          "year": 2022,
-          "value": 76.05
-        },
-        {
-          "year": 2023,
-          "value": 76.51
-        },
-        {
-          "year": 2024,
-          "value": 76.71
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2004,
@@ -47809,7 +42556,6 @@
       "gdp_growth": 6.06,
       "inflation": 3.32,
       "internet_users": 8.95,
-      "life_expectancy": 68.49,
       "literacy_rate": 77.04,
       "population": 50015092.0,
       "unemployment": 2.74
@@ -48427,108 +43173,6 @@
           "value": 8.95
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 49.64
-        },
-        {
-          "year": 2001,
-          "value": 50.58
-        },
-        {
-          "year": 2002,
-          "value": 51.44
-        },
-        {
-          "year": 2003,
-          "value": 52.41
-        },
-        {
-          "year": 2004,
-          "value": 53.7
-        },
-        {
-          "year": 2005,
-          "value": 54.93
-        },
-        {
-          "year": 2006,
-          "value": 56.12
-        },
-        {
-          "year": 2007,
-          "value": 57.25
-        },
-        {
-          "year": 2008,
-          "value": 58.25
-        },
-        {
-          "year": 2009,
-          "value": 59.16
-        },
-        {
-          "year": 2010,
-          "value": 59.96
-        },
-        {
-          "year": 2011,
-          "value": 60.79
-        },
-        {
-          "year": 2012,
-          "value": 61.58
-        },
-        {
-          "year": 2013,
-          "value": 62.35
-        },
-        {
-          "year": 2014,
-          "value": 63.06
-        },
-        {
-          "year": 2015,
-          "value": 63.83
-        },
-        {
-          "year": 2016,
-          "value": 64.49
-        },
-        {
-          "year": 2017,
-          "value": 65.17
-        },
-        {
-          "year": 2018,
-          "value": 65.78
-        },
-        {
-          "year": 2019,
-          "value": 66.35
-        },
-        {
-          "year": 2020,
-          "value": 66.41
-        },
-        {
-          "year": 2021,
-          "value": 66.45
-        },
-        {
-          "year": 2022,
-          "value": 67.67
-        },
-        {
-          "year": 2023,
-          "value": 68.25
-        },
-        {
-          "year": 2024,
-          "value": 68.49
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2002,
@@ -48789,7 +43433,6 @@
       "gdp_growth": 3.82,
       "inflation": 14.99,
       "internet_users": 17.1,
-      "life_expectancy": 66.53,
       "literacy_rate": 71.77,
       "population": 21314956.0,
       "unemployment": 5.9
@@ -49407,108 +44050,6 @@
           "value": 17.1
         }
       ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 46.58
-        },
-        {
-          "year": 2001,
-          "value": 47.41
-        },
-        {
-          "year": 2002,
-          "value": 48.46
-        },
-        {
-          "year": 2003,
-          "value": 49.62
-        },
-        {
-          "year": 2004,
-          "value": 50.54
-        },
-        {
-          "year": 2005,
-          "value": 51.62
-        },
-        {
-          "year": 2006,
-          "value": 52.69
-        },
-        {
-          "year": 2007,
-          "value": 53.73
-        },
-        {
-          "year": 2008,
-          "value": 54.84
-        },
-        {
-          "year": 2009,
-          "value": 55.89
-        },
-        {
-          "year": 2010,
-          "value": 56.9
-        },
-        {
-          "year": 2011,
-          "value": 57.84
-        },
-        {
-          "year": 2012,
-          "value": 58.7
-        },
-        {
-          "year": 2013,
-          "value": 59.45
-        },
-        {
-          "year": 2014,
-          "value": 60.11
-        },
-        {
-          "year": 2015,
-          "value": 60.73
-        },
-        {
-          "year": 2016,
-          "value": 61.13
-        },
-        {
-          "year": 2017,
-          "value": 61.56
-        },
-        {
-          "year": 2018,
-          "value": 62.14
-        },
-        {
-          "year": 2019,
-          "value": 62.91
-        },
-        {
-          "year": 2020,
-          "value": 63.36
-        },
-        {
-          "year": 2021,
-          "value": 62.36
-        },
-        {
-          "year": 2022,
-          "value": 65.28
-        },
-        {
-          "year": 2023,
-          "value": 66.35
-        },
-        {
-          "year": 2024,
-          "value": 66.53
-        }
-      ],
       "literacy_rate": [
         {
           "year": 2002,
@@ -49761,7 +44302,6 @@
       "gdp_growth": 1.68,
       "inflation": 104.71,
       "internet_users": 41.64,
-      "life_expectancy": 63.06,
       "literacy_rate": 93.23,
       "population": 16634373.0,
       "unemployment": 9.44
@@ -50329,108 +44869,6 @@
         {
           "year": 2024,
           "value": 41.64
-        }
-      ],
-      "life_expectancy": [
-        {
-          "year": 2000,
-          "value": 46.03
-        },
-        {
-          "year": 2001,
-          "value": 44.52
-        },
-        {
-          "year": 2002,
-          "value": 45.94
-        },
-        {
-          "year": 2003,
-          "value": 45.37
-        },
-        {
-          "year": 2004,
-          "value": 46.04
-        },
-        {
-          "year": 2005,
-          "value": 46.57
-        },
-        {
-          "year": 2006,
-          "value": 47.06
-        },
-        {
-          "year": 2007,
-          "value": 47.58
-        },
-        {
-          "year": 2008,
-          "value": 48.46
-        },
-        {
-          "year": 2009,
-          "value": 49.75
-        },
-        {
-          "year": 2010,
-          "value": 51.92
-        },
-        {
-          "year": 2011,
-          "value": 53.91
-        },
-        {
-          "year": 2012,
-          "value": 55.39
-        },
-        {
-          "year": 2013,
-          "value": 56.84
-        },
-        {
-          "year": 2014,
-          "value": 58.11
-        },
-        {
-          "year": 2015,
-          "value": 58.99
-        },
-        {
-          "year": 2016,
-          "value": 59.76
-        },
-        {
-          "year": 2017,
-          "value": 60.26
-        },
-        {
-          "year": 2018,
-          "value": 60.91
-        },
-        {
-          "year": 2019,
-          "value": 61.06
-        },
-        {
-          "year": 2020,
-          "value": 61.53
-        },
-        {
-          "year": 2021,
-          "value": 60.13
-        },
-        {
-          "year": 2022,
-          "value": 62.36
-        },
-        {
-          "year": 2023,
-          "value": 62.77
-        },
-        {
-          "year": 2024,
-          "value": 63.06
         }
       ],
       "literacy_rate": [
