@@ -4,10 +4,10 @@
     "iso3": "DZA",
     "iso2": "DZ",
     "region": "North Africa",
-    "income_level": "Upper middle income",
-    "capital_city": "Algiers",
-    "lat": 36.7397,
-    "lng": 3.05097,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 100.0,
       "fdi_inflows": 0.48,
@@ -17,8 +17,7 @@
       "internet_users": 77.42,
       "life_expectancy": 76.47,
       "literacy_rate": 75.14,
-      "population": 46814308.0,
-      "unemployment": 11.65
+      "population": 46814308.0
     },
     "trends": {
       "electricity_access": [
@@ -850,108 +849,6 @@
           "year": 2024,
           "value": 46814308.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 29.77
-        },
-        {
-          "year": 2001,
-          "value": 27.3
-        },
-        {
-          "year": 2002,
-          "value": 25.9
-        },
-        {
-          "year": 2003,
-          "value": 23.72
-        },
-        {
-          "year": 2004,
-          "value": 17.65
-        },
-        {
-          "year": 2005,
-          "value": 15.27
-        },
-        {
-          "year": 2006,
-          "value": 12.27
-        },
-        {
-          "year": 2007,
-          "value": 13.79
-        },
-        {
-          "year": 2008,
-          "value": 11.33
-        },
-        {
-          "year": 2009,
-          "value": 10.16
-        },
-        {
-          "year": 2010,
-          "value": 9.96
-        },
-        {
-          "year": 2011,
-          "value": 9.96
-        },
-        {
-          "year": 2012,
-          "value": 10.97
-        },
-        {
-          "year": 2013,
-          "value": 9.82
-        },
-        {
-          "year": 2014,
-          "value": 10.21
-        },
-        {
-          "year": 2015,
-          "value": 11.21
-        },
-        {
-          "year": 2016,
-          "value": 10.2
-        },
-        {
-          "year": 2017,
-          "value": 12.0
-        },
-        {
-          "year": 2018,
-          "value": 12.11
-        },
-        {
-          "year": 2019,
-          "value": 12.3
-        },
-        {
-          "year": 2020,
-          "value": 14.08
-        },
-        {
-          "year": 2021,
-          "value": 13.66
-        },
-        {
-          "year": 2022,
-          "value": 12.38
-        },
-        {
-          "year": 2023,
-          "value": 11.64
-        },
-        {
-          "year": 2024,
-          "value": 11.65
-        }
       ]
     }
   },
@@ -960,10 +857,10 @@
     "iso3": "AGO",
     "iso2": "AO",
     "region": "Central Africa",
-    "income_level": "Lower middle income",
-    "capital_city": "Luanda",
-    "lat": -8.81155,
-    "lng": 13.242,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 55.5,
       "fdi_inflows": -1.08,
@@ -973,8 +870,7 @@
       "internet_users": 40.7,
       "life_expectancy": 64.81,
       "literacy_rate": 68.18,
-      "population": 37885849.0,
-      "unemployment": 14.02
+      "population": 37885849.0
     },
     "trends": {
       "electricity_access": [
@@ -1810,108 +1706,6 @@
           "year": 2024,
           "value": 37885849.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 16.65
-        },
-        {
-          "year": 2001,
-          "value": 16.67
-        },
-        {
-          "year": 2002,
-          "value": 16.43
-        },
-        {
-          "year": 2003,
-          "value": 16.45
-        },
-        {
-          "year": 2004,
-          "value": 16.31
-        },
-        {
-          "year": 2005,
-          "value": 16.3
-        },
-        {
-          "year": 2006,
-          "value": 16.12
-        },
-        {
-          "year": 2007,
-          "value": 16.07
-        },
-        {
-          "year": 2008,
-          "value": 16.15
-        },
-        {
-          "year": 2009,
-          "value": 16.38
-        },
-        {
-          "year": 2010,
-          "value": 16.59
-        },
-        {
-          "year": 2011,
-          "value": 16.77
-        },
-        {
-          "year": 2012,
-          "value": 16.54
-        },
-        {
-          "year": 2013,
-          "value": 16.46
-        },
-        {
-          "year": 2014,
-          "value": 16.37
-        },
-        {
-          "year": 2015,
-          "value": 16.47
-        },
-        {
-          "year": 2016,
-          "value": 16.57
-        },
-        {
-          "year": 2017,
-          "value": 16.62
-        },
-        {
-          "year": 2018,
-          "value": 16.6
-        },
-        {
-          "year": 2019,
-          "value": 16.5
-        },
-        {
-          "year": 2020,
-          "value": 16.7
-        },
-        {
-          "year": 2021,
-          "value": 15.8
-        },
-        {
-          "year": 2022,
-          "value": 14.12
-        },
-        {
-          "year": 2023,
-          "value": 14.05
-        },
-        {
-          "year": 2024,
-          "value": 14.02
-        }
       ]
     }
   },
@@ -1920,10 +1714,10 @@
     "iso3": "BEN",
     "iso2": "BJ",
     "region": "West Africa",
-    "income_level": "Lower middle income",
-    "capital_city": "Porto-Novo",
-    "lat": 6.4779,
-    "lng": 2.6323,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 59.0,
       "fdi_inflows": 1.85,
@@ -1933,8 +1727,7 @@
       "internet_users": 33.98,
       "life_expectancy": 60.96,
       "literacy_rate": 51.38,
-      "population": 14462724.0,
-      "unemployment": 1.64
+      "population": 14462724.0
     },
     "trends": {
       "electricity_access": [
@@ -2782,108 +2575,6 @@
           "year": 2024,
           "value": 14462724.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 0.86
-        },
-        {
-          "year": 2001,
-          "value": 0.77
-        },
-        {
-          "year": 2002,
-          "value": 0.69
-        },
-        {
-          "year": 2003,
-          "value": 0.75
-        },
-        {
-          "year": 2004,
-          "value": 0.79
-        },
-        {
-          "year": 2005,
-          "value": 0.86
-        },
-        {
-          "year": 2006,
-          "value": 0.89
-        },
-        {
-          "year": 2007,
-          "value": 0.9
-        },
-        {
-          "year": 2008,
-          "value": 0.9
-        },
-        {
-          "year": 2009,
-          "value": 0.95
-        },
-        {
-          "year": 2010,
-          "value": 1.04
-        },
-        {
-          "year": 2011,
-          "value": 2.65
-        },
-        {
-          "year": 2012,
-          "value": 2.46
-        },
-        {
-          "year": 2013,
-          "value": 2.2
-        },
-        {
-          "year": 2014,
-          "value": 1.95
-        },
-        {
-          "year": 2015,
-          "value": 1.89
-        },
-        {
-          "year": 2016,
-          "value": 1.83
-        },
-        {
-          "year": 2017,
-          "value": 1.69
-        },
-        {
-          "year": 2018,
-          "value": 1.43
-        },
-        {
-          "year": 2019,
-          "value": 1.21
-        },
-        {
-          "year": 2020,
-          "value": 1.52
-        },
-        {
-          "year": 2021,
-          "value": 1.83
-        },
-        {
-          "year": 2022,
-          "value": 1.69
-        },
-        {
-          "year": 2023,
-          "value": 1.64
-        },
-        {
-          "year": 2024,
-          "value": 1.64
-        }
       ]
     }
   },
@@ -2892,10 +2583,10 @@
     "iso3": "BWA",
     "iso2": "BW",
     "region": "Southern Africa",
-    "income_level": "Upper middle income",
-    "capital_city": "Gaborone",
-    "lat": -24.6544,
-    "lng": 25.9201,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 80.2,
       "fdi_inflows": 3.0,
@@ -2905,8 +2596,7 @@
       "internet_users": 57.46,
       "life_expectancy": 69.29,
       "literacy_rate": 81.19,
-      "population": 2521139.0,
-      "unemployment": 23.81
+      "population": 2521139.0
     },
     "trends": {
       "electricity_access": [
@@ -3726,108 +3416,6 @@
           "year": 2024,
           "value": 2521139.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 15.88
-        },
-        {
-          "year": 2001,
-          "value": 18.54
-        },
-        {
-          "year": 2002,
-          "value": 21.28
-        },
-        {
-          "year": 2003,
-          "value": 23.8
-        },
-        {
-          "year": 2004,
-          "value": 21.75
-        },
-        {
-          "year": 2005,
-          "value": 19.85
-        },
-        {
-          "year": 2006,
-          "value": 17.78
-        },
-        {
-          "year": 2007,
-          "value": 16.98
-        },
-        {
-          "year": 2008,
-          "value": 16.29
-        },
-        {
-          "year": 2009,
-          "value": 16.17
-        },
-        {
-          "year": 2010,
-          "value": 17.86
-        },
-        {
-          "year": 2011,
-          "value": 18.05
-        },
-        {
-          "year": 2012,
-          "value": 17.92
-        },
-        {
-          "year": 2013,
-          "value": 18.17
-        },
-        {
-          "year": 2014,
-          "value": 18.48
-        },
-        {
-          "year": 2015,
-          "value": 18.91
-        },
-        {
-          "year": 2016,
-          "value": 19.33
-        },
-        {
-          "year": 2017,
-          "value": 19.67
-        },
-        {
-          "year": 2018,
-          "value": 19.66
-        },
-        {
-          "year": 2019,
-          "value": 20.09
-        },
-        {
-          "year": 2020,
-          "value": 21.02
-        },
-        {
-          "year": 2021,
-          "value": 23.11
-        },
-        {
-          "year": 2022,
-          "value": 23.61
-        },
-        {
-          "year": 2023,
-          "value": 23.38
-        },
-        {
-          "year": 2024,
-          "value": 23.81
-        }
       ]
     }
   },
@@ -3836,10 +3424,10 @@
     "iso3": "BFA",
     "iso2": "BF",
     "region": "West Africa",
-    "income_level": "Low income",
-    "capital_city": "Ouagadougou",
-    "lat": 12.3605,
-    "lng": -1.53395,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 34.0,
       "fdi_inflows": -0.87,
@@ -3849,8 +3437,7 @@
       "internet_users": 28.25,
       "life_expectancy": 61.29,
       "literacy_rate": 41.57,
-      "population": 23548781.0,
-      "unemployment": 3.44
+      "population": 23548781.0
     },
     "trends": {
       "electricity_access": [
@@ -4710,108 +4297,6 @@
           "year": 2024,
           "value": 23548781.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 2.69
-        },
-        {
-          "year": 2001,
-          "value": 2.75
-        },
-        {
-          "year": 2002,
-          "value": 2.86
-        },
-        {
-          "year": 2003,
-          "value": 2.78
-        },
-        {
-          "year": 2004,
-          "value": 3.48
-        },
-        {
-          "year": 2005,
-          "value": 4.0
-        },
-        {
-          "year": 2006,
-          "value": 3.67
-        },
-        {
-          "year": 2007,
-          "value": 3.3
-        },
-        {
-          "year": 2008,
-          "value": 3.5
-        },
-        {
-          "year": 2009,
-          "value": 3.72
-        },
-        {
-          "year": 2010,
-          "value": 3.73
-        },
-        {
-          "year": 2011,
-          "value": 3.83
-        },
-        {
-          "year": 2012,
-          "value": 3.85
-        },
-        {
-          "year": 2013,
-          "value": 4.05
-        },
-        {
-          "year": 2014,
-          "value": 4.25
-        },
-        {
-          "year": 2015,
-          "value": 4.47
-        },
-        {
-          "year": 2016,
-          "value": 4.6
-        },
-        {
-          "year": 2017,
-          "value": 4.66
-        },
-        {
-          "year": 2018,
-          "value": 4.7
-        },
-        {
-          "year": 2019,
-          "value": 4.49
-        },
-        {
-          "year": 2020,
-          "value": 4.59
-        },
-        {
-          "year": 2021,
-          "value": 4.51
-        },
-        {
-          "year": 2022,
-          "value": 3.83
-        },
-        {
-          "year": 2023,
-          "value": 3.6
-        },
-        {
-          "year": 2024,
-          "value": 3.44
-        }
       ]
     }
   },
@@ -4820,10 +4305,10 @@
     "iso3": "BDI",
     "iso2": "BI",
     "region": "East Africa",
-    "income_level": "Low income",
-    "capital_city": "Bujumbura",
-    "lat": -3.3784,
-    "lng": 29.3639,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 20.1,
       "fdi_inflows": 1.1,
@@ -4833,8 +4318,7 @@
       "internet_users": 8.6,
       "life_expectancy": 63.82,
       "literacy_rate": 71.34,
-      "population": 14047786.0,
-      "unemployment": 0.92
+      "population": 14047786.0
     },
     "trends": {
       "electricity_access": [
@@ -5670,108 +5154,6 @@
           "year": 2024,
           "value": 14047786.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 3.14
-        },
-        {
-          "year": 2001,
-          "value": 3.15
-        },
-        {
-          "year": 2002,
-          "value": 3.17
-        },
-        {
-          "year": 2003,
-          "value": 3.15
-        },
-        {
-          "year": 2004,
-          "value": 3.18
-        },
-        {
-          "year": 2005,
-          "value": 3.16
-        },
-        {
-          "year": 2006,
-          "value": 3.19
-        },
-        {
-          "year": 2007,
-          "value": 2.4
-        },
-        {
-          "year": 2008,
-          "value": 1.63
-        },
-        {
-          "year": 2009,
-          "value": 1.62
-        },
-        {
-          "year": 2010,
-          "value": 1.61
-        },
-        {
-          "year": 2011,
-          "value": 1.6
-        },
-        {
-          "year": 2012,
-          "value": 1.59
-        },
-        {
-          "year": 2013,
-          "value": 1.58
-        },
-        {
-          "year": 2014,
-          "value": 1.57
-        },
-        {
-          "year": 2015,
-          "value": 1.45
-        },
-        {
-          "year": 2016,
-          "value": 1.35
-        },
-        {
-          "year": 2017,
-          "value": 1.25
-        },
-        {
-          "year": 2018,
-          "value": 1.15
-        },
-        {
-          "year": 2019,
-          "value": 1.04
-        },
-        {
-          "year": 2020,
-          "value": 1.03
-        },
-        {
-          "year": 2021,
-          "value": 1.12
-        },
-        {
-          "year": 2022,
-          "value": 0.91
-        },
-        {
-          "year": 2023,
-          "value": 0.91
-        },
-        {
-          "year": 2024,
-          "value": 0.92
-        }
       ]
     }
   },
@@ -5780,10 +5162,10 @@
     "iso3": "CPV",
     "iso2": "CV",
     "region": "West Africa",
-    "income_level": "Upper middle income",
-    "capital_city": "Praia",
-    "lat": 14.9218,
-    "lng": -23.5087,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 98.4,
       "fdi_inflows": 4.05,
@@ -5793,8 +5175,7 @@
       "internet_users": 74.74,
       "life_expectancy": 76.22,
       "literacy_rate": 88.47,
-      "population": 524877.0,
-      "unemployment": 11.88
+      "population": 524877.0
     },
     "trends": {
       "electricity_access": [
@@ -6630,108 +6011,6 @@
           "year": 2024,
           "value": 524877.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 13.02
-        },
-        {
-          "year": 2001,
-          "value": 13.24
-        },
-        {
-          "year": 2002,
-          "value": 13.38
-        },
-        {
-          "year": 2003,
-          "value": 13.6
-        },
-        {
-          "year": 2004,
-          "value": 13.46
-        },
-        {
-          "year": 2005,
-          "value": 13.44
-        },
-        {
-          "year": 2006,
-          "value": 13.38
-        },
-        {
-          "year": 2007,
-          "value": 13.29
-        },
-        {
-          "year": 2008,
-          "value": 13.31
-        },
-        {
-          "year": 2009,
-          "value": 13.52
-        },
-        {
-          "year": 2010,
-          "value": 10.67
-        },
-        {
-          "year": 2011,
-          "value": 10.96
-        },
-        {
-          "year": 2012,
-          "value": 11.14
-        },
-        {
-          "year": 2013,
-          "value": 11.4
-        },
-        {
-          "year": 2014,
-          "value": 11.69
-        },
-        {
-          "year": 2015,
-          "value": 11.92
-        },
-        {
-          "year": 2016,
-          "value": 12.09
-        },
-        {
-          "year": 2017,
-          "value": 12.24
-        },
-        {
-          "year": 2018,
-          "value": 12.17
-        },
-        {
-          "year": 2019,
-          "value": 12.12
-        },
-        {
-          "year": 2020,
-          "value": 14.65
-        },
-        {
-          "year": 2021,
-          "value": 13.93
-        },
-        {
-          "year": 2022,
-          "value": 12.24
-        },
-        {
-          "year": 2023,
-          "value": 11.88
-        },
-        {
-          "year": 2024,
-          "value": 11.88
-        }
       ]
     }
   },
@@ -6740,10 +6019,10 @@
     "iso3": "CMR",
     "iso2": "CM",
     "region": "Central Africa",
-    "income_level": "Lower middle income",
-    "capital_city": "Yaounde",
-    "lat": 3.8721,
-    "lng": 11.5174,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 72.0,
       "fdi_inflows": 1.67,
@@ -6753,8 +6032,7 @@
       "internet_users": 46.26,
       "life_expectancy": 63.97,
       "literacy_rate": 72.55,
-      "population": 29123744.0,
-      "unemployment": 3.6
+      "population": 29123744.0
     },
     "trends": {
       "electricity_access": [
@@ -7590,108 +6868,6 @@
           "year": 2024,
           "value": 29123744.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 7.53
-        },
-        {
-          "year": 2001,
-          "value": 7.46
-        },
-        {
-          "year": 2002,
-          "value": 6.71
-        },
-        {
-          "year": 2003,
-          "value": 5.91
-        },
-        {
-          "year": 2004,
-          "value": 5.09
-        },
-        {
-          "year": 2005,
-          "value": 4.4
-        },
-        {
-          "year": 2006,
-          "value": 3.73
-        },
-        {
-          "year": 2007,
-          "value": 3.06
-        },
-        {
-          "year": 2008,
-          "value": 3.39
-        },
-        {
-          "year": 2009,
-          "value": 3.74
-        },
-        {
-          "year": 2010,
-          "value": 4.11
-        },
-        {
-          "year": 2011,
-          "value": 3.99
-        },
-        {
-          "year": 2012,
-          "value": 3.84
-        },
-        {
-          "year": 2013,
-          "value": 3.69
-        },
-        {
-          "year": 2014,
-          "value": 3.53
-        },
-        {
-          "year": 2015,
-          "value": 3.52
-        },
-        {
-          "year": 2016,
-          "value": 3.53
-        },
-        {
-          "year": 2017,
-          "value": 3.57
-        },
-        {
-          "year": 2018,
-          "value": 3.61
-        },
-        {
-          "year": 2019,
-          "value": 3.63
-        },
-        {
-          "year": 2020,
-          "value": 3.88
-        },
-        {
-          "year": 2021,
-          "value": 3.98
-        },
-        {
-          "year": 2022,
-          "value": 3.65
-        },
-        {
-          "year": 2023,
-          "value": 3.61
-        },
-        {
-          "year": 2024,
-          "value": 3.6
-        }
       ]
     }
   },
@@ -7700,10 +6876,10 @@
     "iso3": "CAF",
     "iso2": "CF",
     "region": "Central Africa",
-    "income_level": "Low income",
-    "capital_city": "Bangui",
-    "lat": 5.63056,
-    "lng": 21.6407,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 18.2,
       "fdi_inflows": 1.47,
@@ -7713,8 +6889,7 @@
       "internet_users": 13.78,
       "life_expectancy": 57.67,
       "literacy_rate": 42.44,
-      "population": 5330690.0,
-      "unemployment": 6.25
+      "population": 5330690.0
     },
     "trends": {
       "electricity_access": [
@@ -8534,108 +7709,6 @@
           "year": 2024,
           "value": 5330690.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 5.72
-        },
-        {
-          "year": 2001,
-          "value": 5.77
-        },
-        {
-          "year": 2002,
-          "value": 5.81
-        },
-        {
-          "year": 2003,
-          "value": 5.81
-        },
-        {
-          "year": 2004,
-          "value": 5.73
-        },
-        {
-          "year": 2005,
-          "value": 5.69
-        },
-        {
-          "year": 2006,
-          "value": 5.61
-        },
-        {
-          "year": 2007,
-          "value": 5.56
-        },
-        {
-          "year": 2008,
-          "value": 5.51
-        },
-        {
-          "year": 2009,
-          "value": 5.58
-        },
-        {
-          "year": 2010,
-          "value": 5.66
-        },
-        {
-          "year": 2011,
-          "value": 5.64
-        },
-        {
-          "year": 2012,
-          "value": 5.58
-        },
-        {
-          "year": 2013,
-          "value": 5.57
-        },
-        {
-          "year": 2014,
-          "value": 5.63
-        },
-        {
-          "year": 2015,
-          "value": 5.78
-        },
-        {
-          "year": 2016,
-          "value": 5.79
-        },
-        {
-          "year": 2017,
-          "value": 5.84
-        },
-        {
-          "year": 2018,
-          "value": 5.83
-        },
-        {
-          "year": 2019,
-          "value": 5.92
-        },
-        {
-          "year": 2020,
-          "value": 6.52
-        },
-        {
-          "year": 2021,
-          "value": 6.7
-        },
-        {
-          "year": 2022,
-          "value": 6.29
-        },
-        {
-          "year": 2023,
-          "value": 6.18
-        },
-        {
-          "year": 2024,
-          "value": 6.25
-        }
       ]
     }
   },
@@ -8644,10 +7717,10 @@
     "iso3": "TCD",
     "iso2": "TD",
     "region": "Central Africa",
-    "income_level": "Low income",
-    "capital_city": "N'Djamena",
-    "lat": 12.1048,
-    "lng": 15.0445,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 13.4,
       "fdi_inflows": 0.01,
@@ -8657,8 +7730,7 @@
       "internet_users": 12.63,
       "life_expectancy": 55.24,
       "literacy_rate": 30.63,
-      "population": 20299123.0,
-      "unemployment": 1.05
+      "population": 20299123.0
     },
     "trends": {
       "electricity_access": [
@@ -9494,108 +8566,6 @@
           "year": 2024,
           "value": 20299123.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 0.8
-        },
-        {
-          "year": 2001,
-          "value": 0.79
-        },
-        {
-          "year": 2002,
-          "value": 0.77
-        },
-        {
-          "year": 2003,
-          "value": 0.72
-        },
-        {
-          "year": 2004,
-          "value": 0.67
-        },
-        {
-          "year": 2005,
-          "value": 0.66
-        },
-        {
-          "year": 2006,
-          "value": 0.72
-        },
-        {
-          "year": 2007,
-          "value": 0.84
-        },
-        {
-          "year": 2008,
-          "value": 0.92
-        },
-        {
-          "year": 2009,
-          "value": 0.94
-        },
-        {
-          "year": 2010,
-          "value": 0.91
-        },
-        {
-          "year": 2011,
-          "value": 0.92
-        },
-        {
-          "year": 2012,
-          "value": 0.89
-        },
-        {
-          "year": 2013,
-          "value": 0.95
-        },
-        {
-          "year": 2014,
-          "value": 0.98
-        },
-        {
-          "year": 2015,
-          "value": 1.03
-        },
-        {
-          "year": 2016,
-          "value": 1.09
-        },
-        {
-          "year": 2017,
-          "value": 1.13
-        },
-        {
-          "year": 2018,
-          "value": 1.14
-        },
-        {
-          "year": 2019,
-          "value": 1.08
-        },
-        {
-          "year": 2020,
-          "value": 1.7
-        },
-        {
-          "year": 2021,
-          "value": 1.53
-        },
-        {
-          "year": 2022,
-          "value": 1.08
-        },
-        {
-          "year": 2023,
-          "value": 1.06
-        },
-        {
-          "year": 2024,
-          "value": 1.05
-        }
       ]
     }
   },
@@ -9604,10 +8574,10 @@
     "iso3": "COM",
     "iso2": "KM",
     "region": "East Africa",
-    "income_level": "Lower middle income",
-    "capital_city": "Moroni",
-    "lat": -11.6986,
-    "lng": 43.2418,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 91.7,
       "fdi_inflows": 0.44,
@@ -9617,8 +8587,7 @@
       "internet_users": 32.52,
       "life_expectancy": 67.02,
       "literacy_rate": 75.62,
-      "population": 866628.0,
-      "unemployment": 3.81
+      "population": 866628.0
     },
     "trends": {
       "electricity_access": [
@@ -10442,108 +9411,6 @@
           "year": 2024,
           "value": 866628.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 4.4
-        },
-        {
-          "year": 2001,
-          "value": 4.38
-        },
-        {
-          "year": 2002,
-          "value": 4.37
-        },
-        {
-          "year": 2003,
-          "value": 4.56
-        },
-        {
-          "year": 2004,
-          "value": 4.57
-        },
-        {
-          "year": 2005,
-          "value": 4.53
-        },
-        {
-          "year": 2006,
-          "value": 4.48
-        },
-        {
-          "year": 2007,
-          "value": 4.47
-        },
-        {
-          "year": 2008,
-          "value": 4.42
-        },
-        {
-          "year": 2009,
-          "value": 4.3
-        },
-        {
-          "year": 2010,
-          "value": 4.19
-        },
-        {
-          "year": 2011,
-          "value": 4.12
-        },
-        {
-          "year": 2012,
-          "value": 4.09
-        },
-        {
-          "year": 2013,
-          "value": 3.98
-        },
-        {
-          "year": 2014,
-          "value": 3.98
-        },
-        {
-          "year": 2015,
-          "value": 4.03
-        },
-        {
-          "year": 2016,
-          "value": 4.12
-        },
-        {
-          "year": 2017,
-          "value": 4.05
-        },
-        {
-          "year": 2018,
-          "value": 3.98
-        },
-        {
-          "year": 2019,
-          "value": 3.93
-        },
-        {
-          "year": 2020,
-          "value": 4.47
-        },
-        {
-          "year": 2021,
-          "value": 4.39
-        },
-        {
-          "year": 2022,
-          "value": 3.88
-        },
-        {
-          "year": 2023,
-          "value": 3.83
-        },
-        {
-          "year": 2024,
-          "value": 3.81
-        }
       ]
     }
   },
@@ -10552,10 +9419,10 @@
     "iso3": "COG",
     "iso2": "CG",
     "region": "Central Africa",
-    "income_level": "Lower middle income",
-    "capital_city": "Brazzaville",
-    "lat": -4.2767,
-    "lng": 15.2662,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 53.0,
       "fdi_inflows": 3.84,
@@ -10565,8 +9432,7 @@
       "internet_users": 47.25,
       "life_expectancy": 66.0,
       "literacy_rate": 76.11,
-      "population": 6332961.0,
-      "unemployment": 19.89
+      "population": 6332961.0
     },
     "trends": {
       "electricity_access": [
@@ -11390,108 +10256,6 @@
           "year": 2024,
           "value": 6332961.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 19.87
-        },
-        {
-          "year": 2001,
-          "value": 19.88
-        },
-        {
-          "year": 2002,
-          "value": 19.64
-        },
-        {
-          "year": 2003,
-          "value": 19.88
-        },
-        {
-          "year": 2004,
-          "value": 19.9
-        },
-        {
-          "year": 2005,
-          "value": 19.8
-        },
-        {
-          "year": 2006,
-          "value": 19.56
-        },
-        {
-          "year": 2007,
-          "value": 19.91
-        },
-        {
-          "year": 2008,
-          "value": 19.96
-        },
-        {
-          "year": 2009,
-          "value": 19.84
-        },
-        {
-          "year": 2010,
-          "value": 19.3
-        },
-        {
-          "year": 2011,
-          "value": 19.43
-        },
-        {
-          "year": 2012,
-          "value": 19.49
-        },
-        {
-          "year": 2013,
-          "value": 19.84
-        },
-        {
-          "year": 2014,
-          "value": 19.7
-        },
-        {
-          "year": 2015,
-          "value": 20.02
-        },
-        {
-          "year": 2016,
-          "value": 20.3
-        },
-        {
-          "year": 2017,
-          "value": 20.74
-        },
-        {
-          "year": 2018,
-          "value": 20.84
-        },
-        {
-          "year": 2019,
-          "value": 20.49
-        },
-        {
-          "year": 2020,
-          "value": 22.29
-        },
-        {
-          "year": 2021,
-          "value": 22.0
-        },
-        {
-          "year": 2022,
-          "value": 20.13
-        },
-        {
-          "year": 2023,
-          "value": 19.92
-        },
-        {
-          "year": 2024,
-          "value": 19.89
-        }
       ]
     }
   },
@@ -11500,10 +10264,10 @@
     "iso3": "COD",
     "iso2": "CD",
     "region": "Central Africa",
-    "income_level": "Low income",
-    "capital_city": "Kinshasa",
-    "lat": -4.325,
-    "lng": 15.3222,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 22.5,
       "fdi_inflows": 3.85,
@@ -11513,8 +10277,7 @@
       "internet_users": 19.67,
       "life_expectancy": 62.07,
       "literacy_rate": 68.5,
-      "population": 109276265.0,
-      "unemployment": 4.42
+      "population": 109276265.0
     },
     "trends": {
       "electricity_access": [
@@ -12322,108 +11085,6 @@
           "year": 2024,
           "value": 109276265.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 3.25
-        },
-        {
-          "year": 2001,
-          "value": 3.25
-        },
-        {
-          "year": 2002,
-          "value": 3.18
-        },
-        {
-          "year": 2003,
-          "value": 3.06
-        },
-        {
-          "year": 2004,
-          "value": 2.98
-        },
-        {
-          "year": 2005,
-          "value": 2.95
-        },
-        {
-          "year": 2006,
-          "value": 3.17
-        },
-        {
-          "year": 2007,
-          "value": 3.4
-        },
-        {
-          "year": 2008,
-          "value": 3.63
-        },
-        {
-          "year": 2009,
-          "value": 3.88
-        },
-        {
-          "year": 2010,
-          "value": 4.1
-        },
-        {
-          "year": 2011,
-          "value": 4.32
-        },
-        {
-          "year": 2012,
-          "value": 4.49
-        },
-        {
-          "year": 2013,
-          "value": 4.47
-        },
-        {
-          "year": 2014,
-          "value": 4.44
-        },
-        {
-          "year": 2015,
-          "value": 4.44
-        },
-        {
-          "year": 2016,
-          "value": 4.53
-        },
-        {
-          "year": 2017,
-          "value": 4.61
-        },
-        {
-          "year": 2018,
-          "value": 4.63
-        },
-        {
-          "year": 2019,
-          "value": 4.61
-        },
-        {
-          "year": 2020,
-          "value": 5.36
-        },
-        {
-          "year": 2021,
-          "value": 5.29
-        },
-        {
-          "year": 2022,
-          "value": 4.54
-        },
-        {
-          "year": 2023,
-          "value": 4.47
-        },
-        {
-          "year": 2024,
-          "value": 4.42
-        }
       ]
     }
   },
@@ -12432,10 +11093,10 @@
     "iso3": "CIV",
     "iso2": "CI",
     "region": "West Africa",
-    "income_level": "Lower middle income",
-    "capital_city": "Yamoussoukro",
-    "lat": 5.332,
-    "lng": -4.0305,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 72.9,
       "fdi_inflows": 3.58,
@@ -12445,8 +11106,7 @@
       "internet_users": 41.43,
       "life_expectancy": 62.11,
       "literacy_rate": 50.0,
-      "population": 31934230.0,
-      "unemployment": 2.27
+      "population": 31934230.0
     },
     "trends": {
       "electricity_access": [
@@ -13286,108 +11946,6 @@
           "year": 2024,
           "value": 31934230.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 4.83
-        },
-        {
-          "year": 2001,
-          "value": 5.2
-        },
-        {
-          "year": 2002,
-          "value": 5.51
-        },
-        {
-          "year": 2003,
-          "value": 5.85
-        },
-        {
-          "year": 2004,
-          "value": 5.92
-        },
-        {
-          "year": 2005,
-          "value": 6.02
-        },
-        {
-          "year": 2006,
-          "value": 6.02
-        },
-        {
-          "year": 2007,
-          "value": 6.28
-        },
-        {
-          "year": 2008,
-          "value": 6.38
-        },
-        {
-          "year": 2009,
-          "value": 6.57
-        },
-        {
-          "year": 2010,
-          "value": 6.61
-        },
-        {
-          "year": 2011,
-          "value": 7.14
-        },
-        {
-          "year": 2012,
-          "value": 7.22
-        },
-        {
-          "year": 2013,
-          "value": 4.25
-        },
-        {
-          "year": 2014,
-          "value": 3.27
-        },
-        {
-          "year": 2015,
-          "value": 2.57
-        },
-        {
-          "year": 2016,
-          "value": 1.9
-        },
-        {
-          "year": 2017,
-          "value": 3.27
-        },
-        {
-          "year": 2018,
-          "value": 2.85
-        },
-        {
-          "year": 2019,
-          "value": 2.4
-        },
-        {
-          "year": 2020,
-          "value": 2.59
-        },
-        {
-          "year": 2021,
-          "value": 2.62
-        },
-        {
-          "year": 2022,
-          "value": 2.31
-        },
-        {
-          "year": 2023,
-          "value": 2.26
-        },
-        {
-          "year": 2024,
-          "value": 2.27
-        }
       ]
     }
   },
@@ -13396,10 +11954,10 @@
     "iso3": "DJI",
     "iso2": "DJ",
     "region": "East Africa",
-    "income_level": "Lower middle income",
-    "capital_city": "Djibouti",
-    "lat": 11.5806,
-    "lng": 43.1425,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 69.2,
       "fdi_inflows": 1.63,
@@ -13408,8 +11966,7 @@
       "inflation": 2.11,
       "internet_users": 65.3,
       "life_expectancy": 66.2,
-      "population": 1168722.0,
-      "unemployment": 26.01
+      "population": 1168722.0
     },
     "trends": {
       "electricity_access": [
@@ -14168,108 +12725,6 @@
           "year": 2024,
           "value": 1168722.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 26.66
-        },
-        {
-          "year": 2001,
-          "value": 26.6
-        },
-        {
-          "year": 2002,
-          "value": 26.59
-        },
-        {
-          "year": 2003,
-          "value": 26.48
-        },
-        {
-          "year": 2004,
-          "value": 26.44
-        },
-        {
-          "year": 2005,
-          "value": 26.45
-        },
-        {
-          "year": 2006,
-          "value": 26.38
-        },
-        {
-          "year": 2007,
-          "value": 26.29
-        },
-        {
-          "year": 2008,
-          "value": 26.18
-        },
-        {
-          "year": 2009,
-          "value": 26.32
-        },
-        {
-          "year": 2010,
-          "value": 26.37
-        },
-        {
-          "year": 2011,
-          "value": 26.31
-        },
-        {
-          "year": 2012,
-          "value": 26.18
-        },
-        {
-          "year": 2013,
-          "value": 26.15
-        },
-        {
-          "year": 2014,
-          "value": 26.16
-        },
-        {
-          "year": 2015,
-          "value": 26.06
-        },
-        {
-          "year": 2016,
-          "value": 25.98
-        },
-        {
-          "year": 2017,
-          "value": 26.06
-        },
-        {
-          "year": 2018,
-          "value": 26.18
-        },
-        {
-          "year": 2019,
-          "value": 26.26
-        },
-        {
-          "year": 2020,
-          "value": 27.7
-        },
-        {
-          "year": 2021,
-          "value": 27.63
-        },
-        {
-          "year": 2022,
-          "value": 26.27
-        },
-        {
-          "year": 2023,
-          "value": 26.07
-        },
-        {
-          "year": 2024,
-          "value": 26.01
-        }
       ]
     }
   },
@@ -14278,10 +12733,10 @@
     "iso3": "EGY",
     "iso2": "EG",
     "region": "North Africa",
-    "income_level": "Lower middle income",
-    "capital_city": "Cairo",
-    "lat": 30.0982,
-    "lng": 31.2461,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 100.0,
       "fdi_inflows": 11.97,
@@ -14291,8 +12746,7 @@
       "internet_users": 74.65,
       "life_expectancy": 71.81,
       "literacy_rate": 79.45,
-      "population": 116538258.0,
-      "unemployment": 6.82
+      "population": 116538258.0
     },
     "trends": {
       "electricity_access": [
@@ -15144,108 +13598,6 @@
           "year": 2024,
           "value": 116538258.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 8.98
-        },
-        {
-          "year": 2001,
-          "value": 9.26
-        },
-        {
-          "year": 2002,
-          "value": 10.01
-        },
-        {
-          "year": 2003,
-          "value": 10.91
-        },
-        {
-          "year": 2004,
-          "value": 10.32
-        },
-        {
-          "year": 2005,
-          "value": 11.05
-        },
-        {
-          "year": 2006,
-          "value": 10.49
-        },
-        {
-          "year": 2007,
-          "value": 8.8
-        },
-        {
-          "year": 2008,
-          "value": 8.52
-        },
-        {
-          "year": 2009,
-          "value": 9.09
-        },
-        {
-          "year": 2010,
-          "value": 8.76
-        },
-        {
-          "year": 2011,
-          "value": 11.85
-        },
-        {
-          "year": 2012,
-          "value": 12.6
-        },
-        {
-          "year": 2013,
-          "value": 13.15
-        },
-        {
-          "year": 2014,
-          "value": 13.11
-        },
-        {
-          "year": 2015,
-          "value": 13.05
-        },
-        {
-          "year": 2016,
-          "value": 12.45
-        },
-        {
-          "year": 2017,
-          "value": 11.77
-        },
-        {
-          "year": 2018,
-          "value": 9.86
-        },
-        {
-          "year": 2019,
-          "value": 7.85
-        },
-        {
-          "year": 2020,
-          "value": 7.97
-        },
-        {
-          "year": 2021,
-          "value": 7.44
-        },
-        {
-          "year": 2022,
-          "value": 6.55
-        },
-        {
-          "year": 2023,
-          "value": 6.75
-        },
-        {
-          "year": 2024,
-          "value": 6.82
-        }
       ]
     }
   },
@@ -15254,10 +13606,10 @@
     "iso3": "GNQ",
     "iso2": "GQ",
     "region": "Central Africa",
-    "income_level": "Upper middle income",
-    "capital_city": "Malabo",
-    "lat": 3.7523,
-    "lng": 8.7741,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 65.1,
       "fdi_inflows": 1.42,
@@ -15267,8 +13619,7 @@
       "internet_users": 63.3,
       "life_expectancy": 63.91,
       "literacy_rate": 88.31,
-      "population": 1892516.0,
-      "unemployment": 8.29
+      "population": 1892516.0
     },
     "trends": {
       "electricity_access": [
@@ -16092,108 +14443,6 @@
           "year": 2024,
           "value": 1892516.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 7.44
-        },
-        {
-          "year": 2001,
-          "value": 7.55
-        },
-        {
-          "year": 2002,
-          "value": 7.65
-        },
-        {
-          "year": 2003,
-          "value": 7.7
-        },
-        {
-          "year": 2004,
-          "value": 7.66
-        },
-        {
-          "year": 2005,
-          "value": 7.67
-        },
-        {
-          "year": 2006,
-          "value": 7.61
-        },
-        {
-          "year": 2007,
-          "value": 7.59
-        },
-        {
-          "year": 2008,
-          "value": 7.57
-        },
-        {
-          "year": 2009,
-          "value": 7.7
-        },
-        {
-          "year": 2010,
-          "value": 7.85
-        },
-        {
-          "year": 2011,
-          "value": 7.84
-        },
-        {
-          "year": 2012,
-          "value": 7.76
-        },
-        {
-          "year": 2013,
-          "value": 7.67
-        },
-        {
-          "year": 2014,
-          "value": 7.67
-        },
-        {
-          "year": 2015,
-          "value": 7.78
-        },
-        {
-          "year": 2016,
-          "value": 7.8
-        },
-        {
-          "year": 2017,
-          "value": 7.84
-        },
-        {
-          "year": 2018,
-          "value": 7.82
-        },
-        {
-          "year": 2019,
-          "value": 7.92
-        },
-        {
-          "year": 2020,
-          "value": 8.62
-        },
-        {
-          "year": 2021,
-          "value": 8.82
-        },
-        {
-          "year": 2022,
-          "value": 8.33
-        },
-        {
-          "year": 2023,
-          "value": 8.22
-        },
-        {
-          "year": 2024,
-          "value": 8.29
-        }
       ]
     }
   },
@@ -16202,10 +14451,10 @@
     "iso3": "ERI",
     "iso2": "ER",
     "region": "East Africa",
-    "income_level": "Low income",
-    "capital_city": "Asmara",
-    "lat": 15.3315,
-    "lng": 38.9183,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 55.3,
       "fdi_inflows": 0.3,
@@ -16214,8 +14463,7 @@
       "internet_users": 14.35,
       "life_expectancy": 68.89,
       "literacy_rate": 64.66,
-      "population": 3535603.0,
-      "unemployment": 5.95
+      "population": 3535603.0
     },
     "trends": {
       "electricity_access": [
@@ -16754,108 +15002,6 @@
           "year": 2024,
           "value": 3535603.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 5.66
-        },
-        {
-          "year": 2001,
-          "value": 5.74
-        },
-        {
-          "year": 2002,
-          "value": 5.79
-        },
-        {
-          "year": 2003,
-          "value": 5.79
-        },
-        {
-          "year": 2004,
-          "value": 5.7
-        },
-        {
-          "year": 2005,
-          "value": 5.72
-        },
-        {
-          "year": 2006,
-          "value": 5.71
-        },
-        {
-          "year": 2007,
-          "value": 5.72
-        },
-        {
-          "year": 2008,
-          "value": 5.68
-        },
-        {
-          "year": 2009,
-          "value": 5.76
-        },
-        {
-          "year": 2010,
-          "value": 5.85
-        },
-        {
-          "year": 2011,
-          "value": 5.8
-        },
-        {
-          "year": 2012,
-          "value": 5.69
-        },
-        {
-          "year": 2013,
-          "value": 5.62
-        },
-        {
-          "year": 2014,
-          "value": 5.64
-        },
-        {
-          "year": 2015,
-          "value": 5.75
-        },
-        {
-          "year": 2016,
-          "value": 5.77
-        },
-        {
-          "year": 2017,
-          "value": 5.8
-        },
-        {
-          "year": 2018,
-          "value": 5.76
-        },
-        {
-          "year": 2019,
-          "value": 5.81
-        },
-        {
-          "year": 2020,
-          "value": 6.38
-        },
-        {
-          "year": 2021,
-          "value": 6.49
-        },
-        {
-          "year": 2022,
-          "value": 6.03
-        },
-        {
-          "year": 2023,
-          "value": 5.91
-        },
-        {
-          "year": 2024,
-          "value": 5.95
-        }
       ]
     }
   },
@@ -16864,10 +15010,10 @@
     "iso3": "SWZ",
     "iso2": "SZ",
     "region": "Southern Africa",
-    "income_level": "Lower middle income",
-    "capital_city": "Mbabane",
-    "lat": -26.5225,
-    "lng": 31.4659,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 89.3,
       "fdi_inflows": 2.79,
@@ -16877,8 +15023,7 @@
       "internet_users": 63.4,
       "life_expectancy": 64.26,
       "literacy_rate": 90.75,
-      "population": 1242822.0,
-      "unemployment": 34.64
+      "population": 1242822.0
     },
     "trends": {
       "electricity_access": [
@@ -17686,108 +15831,6 @@
           "year": 2024,
           "value": 1242822.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 24.55
-        },
-        {
-          "year": 2001,
-          "value": 25.24
-        },
-        {
-          "year": 2002,
-          "value": 25.77
-        },
-        {
-          "year": 2003,
-          "value": 26.26
-        },
-        {
-          "year": 2004,
-          "value": 26.72
-        },
-        {
-          "year": 2005,
-          "value": 27.22
-        },
-        {
-          "year": 2006,
-          "value": 27.69
-        },
-        {
-          "year": 2007,
-          "value": 28.24
-        },
-        {
-          "year": 2008,
-          "value": 27.89
-        },
-        {
-          "year": 2009,
-          "value": 27.49
-        },
-        {
-          "year": 2010,
-          "value": 26.86
-        },
-        {
-          "year": 2011,
-          "value": 26.11
-        },
-        {
-          "year": 2012,
-          "value": 25.23
-        },
-        {
-          "year": 2013,
-          "value": 24.56
-        },
-        {
-          "year": 2014,
-          "value": 23.93
-        },
-        {
-          "year": 2015,
-          "value": 23.43
-        },
-        {
-          "year": 2016,
-          "value": 22.72
-        },
-        {
-          "year": 2017,
-          "value": 24.54
-        },
-        {
-          "year": 2018,
-          "value": 26.47
-        },
-        {
-          "year": 2019,
-          "value": 28.22
-        },
-        {
-          "year": 2020,
-          "value": 32.98
-        },
-        {
-          "year": 2021,
-          "value": 34.15
-        },
-        {
-          "year": 2022,
-          "value": 36.47
-        },
-        {
-          "year": 2023,
-          "value": 34.61
-        },
-        {
-          "year": 2024,
-          "value": 34.64
-        }
       ]
     }
   },
@@ -17796,10 +15839,10 @@
     "iso3": "ETH",
     "iso2": "ET",
     "region": "East Africa",
-    "income_level": "Low income",
-    "capital_city": "Addis Ababa",
-    "lat": 9.02274,
-    "lng": 38.7468,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 56.6,
       "fdi_inflows": 2.69,
@@ -17809,8 +15852,7 @@
       "internet_users": 21.94,
       "life_expectancy": 67.6,
       "literacy_rate": 60.46,
-      "population": 132059767.0,
-      "unemployment": 3.36
+      "population": 132059767.0
     },
     "trends": {
       "electricity_access": [
@@ -18658,108 +16700,6 @@
           "year": 2024,
           "value": 132059767.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 3.5
-        },
-        {
-          "year": 2001,
-          "value": 3.16
-        },
-        {
-          "year": 2002,
-          "value": 3.05
-        },
-        {
-          "year": 2003,
-          "value": 3.01
-        },
-        {
-          "year": 2004,
-          "value": 2.78
-        },
-        {
-          "year": 2005,
-          "value": 2.5
-        },
-        {
-          "year": 2006,
-          "value": 2.34
-        },
-        {
-          "year": 2007,
-          "value": 2.34
-        },
-        {
-          "year": 2008,
-          "value": 2.33
-        },
-        {
-          "year": 2009,
-          "value": 2.33
-        },
-        {
-          "year": 2010,
-          "value": 2.29
-        },
-        {
-          "year": 2011,
-          "value": 2.27
-        },
-        {
-          "year": 2012,
-          "value": 2.25
-        },
-        {
-          "year": 2013,
-          "value": 2.25
-        },
-        {
-          "year": 2014,
-          "value": 2.36
-        },
-        {
-          "year": 2015,
-          "value": 2.44
-        },
-        {
-          "year": 2016,
-          "value": 2.56
-        },
-        {
-          "year": 2017,
-          "value": 2.67
-        },
-        {
-          "year": 2018,
-          "value": 2.81
-        },
-        {
-          "year": 2019,
-          "value": 2.93
-        },
-        {
-          "year": 2020,
-          "value": 4.0
-        },
-        {
-          "year": 2021,
-          "value": 3.94
-        },
-        {
-          "year": 2022,
-          "value": 3.39
-        },
-        {
-          "year": 2023,
-          "value": 3.38
-        },
-        {
-          "year": 2024,
-          "value": 3.36
-        }
       ]
     }
   },
@@ -18768,10 +16708,10 @@
     "iso3": "GAB",
     "iso2": "GA",
     "region": "Central Africa",
-    "income_level": "Upper middle income",
-    "capital_city": "Libreville",
-    "lat": 0.38832,
-    "lng": 9.45162,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 95.1,
       "fdi_inflows": 1.48,
@@ -18781,8 +16721,7 @@
       "internet_users": 68.72,
       "life_expectancy": 68.51,
       "literacy_rate": 88.86,
-      "population": 2538952.0,
-      "unemployment": 20.09
+      "population": 2538952.0
     },
     "trends": {
       "electricity_access": [
@@ -19606,108 +17545,6 @@
           "year": 2024,
           "value": 2538952.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 17.85
-        },
-        {
-          "year": 2001,
-          "value": 17.83
-        },
-        {
-          "year": 2002,
-          "value": 17.38
-        },
-        {
-          "year": 2003,
-          "value": 17.13
-        },
-        {
-          "year": 2004,
-          "value": 17.11
-        },
-        {
-          "year": 2005,
-          "value": 16.91
-        },
-        {
-          "year": 2006,
-          "value": 17.8
-        },
-        {
-          "year": 2007,
-          "value": 18.26
-        },
-        {
-          "year": 2008,
-          "value": 19.21
-        },
-        {
-          "year": 2009,
-          "value": 19.76
-        },
-        {
-          "year": 2010,
-          "value": 20.39
-        },
-        {
-          "year": 2011,
-          "value": 19.89
-        },
-        {
-          "year": 2012,
-          "value": 19.66
-        },
-        {
-          "year": 2013,
-          "value": 19.74
-        },
-        {
-          "year": 2014,
-          "value": 19.87
-        },
-        {
-          "year": 2015,
-          "value": 19.94
-        },
-        {
-          "year": 2016,
-          "value": 20.12
-        },
-        {
-          "year": 2017,
-          "value": 20.31
-        },
-        {
-          "year": 2018,
-          "value": 20.46
-        },
-        {
-          "year": 2019,
-          "value": 20.37
-        },
-        {
-          "year": 2020,
-          "value": 21.28
-        },
-        {
-          "year": 2021,
-          "value": 21.22
-        },
-        {
-          "year": 2022,
-          "value": 20.32
-        },
-        {
-          "year": 2023,
-          "value": 20.16
-        },
-        {
-          "year": 2024,
-          "value": 20.09
-        }
       ]
     }
   },
@@ -19716,10 +17553,10 @@
     "iso3": "GMB",
     "iso2": "GM",
     "region": "West Africa",
-    "income_level": "Low income",
-    "capital_city": "Banjul",
-    "lat": 13.4495,
-    "lng": -16.5885,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 69.0,
       "fdi_inflows": 9.66,
@@ -19729,8 +17566,7 @@
       "internet_users": 49.49,
       "life_expectancy": 66.06,
       "literacy_rate": 51.64,
-      "population": 2759988.0,
-      "unemployment": 6.48
+      "population": 2759988.0
     },
     "trends": {
       "electricity_access": [
@@ -20566,108 +18402,6 @@
           "year": 2024,
           "value": 2759988.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 9.72
-        },
-        {
-          "year": 2001,
-          "value": 9.64
-        },
-        {
-          "year": 2002,
-          "value": 10.04
-        },
-        {
-          "year": 2003,
-          "value": 9.99
-        },
-        {
-          "year": 2004,
-          "value": 9.95
-        },
-        {
-          "year": 2005,
-          "value": 9.92
-        },
-        {
-          "year": 2006,
-          "value": 10.24
-        },
-        {
-          "year": 2007,
-          "value": 10.43
-        },
-        {
-          "year": 2008,
-          "value": 10.06
-        },
-        {
-          "year": 2009,
-          "value": 9.78
-        },
-        {
-          "year": 2010,
-          "value": 9.67
-        },
-        {
-          "year": 2011,
-          "value": 10.28
-        },
-        {
-          "year": 2012,
-          "value": 10.35
-        },
-        {
-          "year": 2013,
-          "value": 9.45
-        },
-        {
-          "year": 2014,
-          "value": 8.19
-        },
-        {
-          "year": 2015,
-          "value": 7.23
-        },
-        {
-          "year": 2016,
-          "value": 6.24
-        },
-        {
-          "year": 2017,
-          "value": 5.1
-        },
-        {
-          "year": 2018,
-          "value": 4.05
-        },
-        {
-          "year": 2019,
-          "value": 4.48
-        },
-        {
-          "year": 2020,
-          "value": 5.84
-        },
-        {
-          "year": 2021,
-          "value": 6.21
-        },
-        {
-          "year": 2022,
-          "value": 6.07
-        },
-        {
-          "year": 2023,
-          "value": 6.48
-        },
-        {
-          "year": 2024,
-          "value": 6.48
-        }
       ]
     }
   },
@@ -20676,10 +18410,10 @@
     "iso3": "GHA",
     "iso2": "GH",
     "region": "West Africa",
-    "income_level": "Lower middle income",
-    "capital_city": "Accra",
-    "lat": 5.57045,
-    "lng": -0.20795,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 91.9,
       "fdi_inflows": 2.12,
@@ -20689,8 +18423,7 @@
       "internet_users": 72.18,
       "life_expectancy": 65.69,
       "literacy_rate": 76.49,
-      "population": 34427414.0,
-      "unemployment": 2.82
+      "population": 34427414.0
     },
     "trends": {
       "electricity_access": [
@@ -21530,108 +19263,6 @@
           "year": 2024,
           "value": 34427414.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 10.46
-        },
-        {
-          "year": 2001,
-          "value": 9.62
-        },
-        {
-          "year": 2002,
-          "value": 8.71
-        },
-        {
-          "year": 2003,
-          "value": 7.73
-        },
-        {
-          "year": 2004,
-          "value": 6.76
-        },
-        {
-          "year": 2005,
-          "value": 5.82
-        },
-        {
-          "year": 2006,
-          "value": 4.9
-        },
-        {
-          "year": 2007,
-          "value": 5.1
-        },
-        {
-          "year": 2008,
-          "value": 5.14
-        },
-        {
-          "year": 2009,
-          "value": 5.36
-        },
-        {
-          "year": 2010,
-          "value": 5.38
-        },
-        {
-          "year": 2011,
-          "value": 4.21
-        },
-        {
-          "year": 2012,
-          "value": 3.13
-        },
-        {
-          "year": 2013,
-          "value": 2.17
-        },
-        {
-          "year": 2014,
-          "value": 4.4
-        },
-        {
-          "year": 2015,
-          "value": 6.81
-        },
-        {
-          "year": 2016,
-          "value": 5.26
-        },
-        {
-          "year": 2017,
-          "value": 3.37
-        },
-        {
-          "year": 2018,
-          "value": 3.2
-        },
-        {
-          "year": 2019,
-          "value": 3.07
-        },
-        {
-          "year": 2020,
-          "value": 3.18
-        },
-        {
-          "year": 2021,
-          "value": 3.2
-        },
-        {
-          "year": 2022,
-          "value": 2.87
-        },
-        {
-          "year": 2023,
-          "value": 2.83
-        },
-        {
-          "year": 2024,
-          "value": 2.82
-        }
       ]
     }
   },
@@ -21640,10 +19271,10 @@
     "iso3": "GIN",
     "iso2": "GN",
     "region": "West Africa",
-    "income_level": "Lower middle income",
-    "capital_city": "Conakry",
-    "lat": 9.51667,
-    "lng": -13.7,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 53.8,
       "fdi_inflows": 5.61,
@@ -21653,8 +19284,7 @@
       "internet_users": 33.3,
       "life_expectancy": 60.9,
       "literacy_rate": 39.62,
-      "population": 14754785.0,
-      "unemployment": 5.13
+      "population": 14754785.0
     },
     "trends": {
       "electricity_access": [
@@ -22466,108 +20096,6 @@
           "year": 2024,
           "value": 14754785.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 4.59
-        },
-        {
-          "year": 2001,
-          "value": 4.58
-        },
-        {
-          "year": 2002,
-          "value": 4.55
-        },
-        {
-          "year": 2003,
-          "value": 4.63
-        },
-        {
-          "year": 2004,
-          "value": 4.71
-        },
-        {
-          "year": 2005,
-          "value": 4.81
-        },
-        {
-          "year": 2006,
-          "value": 4.86
-        },
-        {
-          "year": 2007,
-          "value": 4.79
-        },
-        {
-          "year": 2008,
-          "value": 4.8
-        },
-        {
-          "year": 2009,
-          "value": 4.91
-        },
-        {
-          "year": 2010,
-          "value": 5.02
-        },
-        {
-          "year": 2011,
-          "value": 5.02
-        },
-        {
-          "year": 2012,
-          "value": 4.87
-        },
-        {
-          "year": 2013,
-          "value": 4.94
-        },
-        {
-          "year": 2014,
-          "value": 5.04
-        },
-        {
-          "year": 2015,
-          "value": 5.15
-        },
-        {
-          "year": 2016,
-          "value": 5.0
-        },
-        {
-          "year": 2017,
-          "value": 4.86
-        },
-        {
-          "year": 2018,
-          "value": 4.83
-        },
-        {
-          "year": 2019,
-          "value": 5.02
-        },
-        {
-          "year": 2020,
-          "value": 6.01
-        },
-        {
-          "year": 2021,
-          "value": 5.82
-        },
-        {
-          "year": 2022,
-          "value": 5.17
-        },
-        {
-          "year": 2023,
-          "value": 5.14
-        },
-        {
-          "year": 2024,
-          "value": 5.13
-        }
       ]
     }
   },
@@ -22576,10 +20104,10 @@
     "iso3": "GNB",
     "iso2": "GW",
     "region": "West Africa",
-    "income_level": "Low income",
-    "capital_city": "Bissau",
-    "lat": 11.8037,
-    "lng": -15.1804,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 43.7,
       "fdi_inflows": 1.21,
@@ -22589,8 +20117,7 @@
       "internet_users": 29.78,
       "life_expectancy": 64.25,
       "literacy_rate": 63.93,
-      "population": 2201352.0,
-      "unemployment": 2.65
+      "population": 2201352.0
     },
     "trends": {
       "electricity_access": [
@@ -23414,108 +20941,6 @@
           "year": 2024,
           "value": 2201352.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 3.36
-        },
-        {
-          "year": 2001,
-          "value": 2.96
-        },
-        {
-          "year": 2002,
-          "value": 3.15
-        },
-        {
-          "year": 2003,
-          "value": 3.17
-        },
-        {
-          "year": 2004,
-          "value": 3.23
-        },
-        {
-          "year": 2005,
-          "value": 3.18
-        },
-        {
-          "year": 2006,
-          "value": 3.14
-        },
-        {
-          "year": 2007,
-          "value": 3.12
-        },
-        {
-          "year": 2008,
-          "value": 3.16
-        },
-        {
-          "year": 2009,
-          "value": 3.16
-        },
-        {
-          "year": 2010,
-          "value": 3.12
-        },
-        {
-          "year": 2011,
-          "value": 3.07
-        },
-        {
-          "year": 2012,
-          "value": 3.13
-        },
-        {
-          "year": 2013,
-          "value": 3.17
-        },
-        {
-          "year": 2014,
-          "value": 3.29
-        },
-        {
-          "year": 2015,
-          "value": 3.17
-        },
-        {
-          "year": 2016,
-          "value": 3.14
-        },
-        {
-          "year": 2017,
-          "value": 3.09
-        },
-        {
-          "year": 2018,
-          "value": 3.13
-        },
-        {
-          "year": 2019,
-          "value": 2.41
-        },
-        {
-          "year": 2020,
-          "value": 2.89
-        },
-        {
-          "year": 2021,
-          "value": 3.02
-        },
-        {
-          "year": 2022,
-          "value": 2.67
-        },
-        {
-          "year": 2023,
-          "value": 2.63
-        },
-        {
-          "year": 2024,
-          "value": 2.65
-        }
       ]
     }
   },
@@ -23524,10 +20949,10 @@
     "iso3": "KEN",
     "iso2": "KE",
     "region": "East Africa",
-    "income_level": "Lower middle income",
-    "capital_city": "Nairobi",
-    "lat": -1.27975,
-    "lng": 36.8126,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 77.0,
       "fdi_inflows": 0.65,
@@ -23537,8 +20962,7 @@
       "internet_users": 34.98,
       "life_expectancy": 63.83,
       "literacy_rate": 82.23,
-      "population": 56432944.0,
-      "unemployment": 5.49
+      "population": 56432944.0
     },
     "trends": {
       "electricity_access": [
@@ -24362,108 +21786,6 @@
           "year": 2024,
           "value": 56432944.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 2.88
-        },
-        {
-          "year": 2001,
-          "value": 2.88
-        },
-        {
-          "year": 2002,
-          "value": 2.92
-        },
-        {
-          "year": 2003,
-          "value": 2.87
-        },
-        {
-          "year": 2004,
-          "value": 2.84
-        },
-        {
-          "year": 2005,
-          "value": 2.74
-        },
-        {
-          "year": 2006,
-          "value": 2.67
-        },
-        {
-          "year": 2007,
-          "value": 2.64
-        },
-        {
-          "year": 2008,
-          "value": 2.75
-        },
-        {
-          "year": 2009,
-          "value": 2.82
-        },
-        {
-          "year": 2010,
-          "value": 2.79
-        },
-        {
-          "year": 2011,
-          "value": 2.7
-        },
-        {
-          "year": 2012,
-          "value": 2.68
-        },
-        {
-          "year": 2013,
-          "value": 2.76
-        },
-        {
-          "year": 2014,
-          "value": 2.77
-        },
-        {
-          "year": 2015,
-          "value": 2.76
-        },
-        {
-          "year": 2016,
-          "value": 2.76
-        },
-        {
-          "year": 2017,
-          "value": 3.54
-        },
-        {
-          "year": 2018,
-          "value": 4.28
-        },
-        {
-          "year": 2019,
-          "value": 5.01
-        },
-        {
-          "year": 2020,
-          "value": 5.61
-        },
-        {
-          "year": 2021,
-          "value": 5.69
-        },
-        {
-          "year": 2022,
-          "value": 5.57
-        },
-        {
-          "year": 2023,
-          "value": 5.41
-        },
-        {
-          "year": 2024,
-          "value": 5.49
-        }
       ]
     }
   },
@@ -24472,10 +21794,10 @@
     "iso3": "LSO",
     "iso2": "LS",
     "region": "Southern Africa",
-    "income_level": "Lower middle income",
-    "capital_city": "Maseru",
-    "lat": -29.5208,
-    "lng": 27.7167,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 60.6,
       "fdi_inflows": 0.62,
@@ -24485,8 +21807,7 @@
       "internet_users": 51.8,
       "life_expectancy": 57.8,
       "literacy_rate": 90.45,
-      "population": 2337423.0,
-      "unemployment": 16.34
+      "population": 2337423.0
     },
     "trends": {
       "electricity_access": [
@@ -25330,108 +22651,6 @@
           "year": 2024,
           "value": 2337423.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 16.17
-        },
-        {
-          "year": 2001,
-          "value": 16.08
-        },
-        {
-          "year": 2002,
-          "value": 16.08
-        },
-        {
-          "year": 2003,
-          "value": 16.06
-        },
-        {
-          "year": 2004,
-          "value": 16.15
-        },
-        {
-          "year": 2005,
-          "value": 16.03
-        },
-        {
-          "year": 2006,
-          "value": 16.05
-        },
-        {
-          "year": 2007,
-          "value": 15.94
-        },
-        {
-          "year": 2008,
-          "value": 15.85
-        },
-        {
-          "year": 2009,
-          "value": 16.11
-        },
-        {
-          "year": 2010,
-          "value": 16.07
-        },
-        {
-          "year": 2011,
-          "value": 16.11
-        },
-        {
-          "year": 2012,
-          "value": 15.76
-        },
-        {
-          "year": 2013,
-          "value": 15.93
-        },
-        {
-          "year": 2014,
-          "value": 16.07
-        },
-        {
-          "year": 2015,
-          "value": 16.22
-        },
-        {
-          "year": 2016,
-          "value": 16.14
-        },
-        {
-          "year": 2017,
-          "value": 16.38
-        },
-        {
-          "year": 2018,
-          "value": 16.61
-        },
-        {
-          "year": 2019,
-          "value": 16.88
-        },
-        {
-          "year": 2020,
-          "value": 18.39
-        },
-        {
-          "year": 2021,
-          "value": 18.21
-        },
-        {
-          "year": 2022,
-          "value": 16.62
-        },
-        {
-          "year": 2023,
-          "value": 16.35
-        },
-        {
-          "year": 2024,
-          "value": 16.34
-        }
       ]
     }
   },
@@ -25440,10 +22659,10 @@
     "iso3": "LBR",
     "iso2": "LR",
     "region": "West Africa",
-    "income_level": "Low income",
-    "capital_city": "Monrovia",
-    "lat": 6.30039,
-    "lng": -10.7957,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 34.9,
       "fdi_inflows": 9.87,
@@ -25453,8 +22672,7 @@
       "internet_users": 32.23,
       "life_expectancy": 62.32,
       "literacy_rate": 59.4,
-      "population": 5612817.0,
-      "unemployment": 2.91
+      "population": 5612817.0
     },
     "trends": {
       "electricity_access": [
@@ -26242,108 +23460,6 @@
           "year": 2024,
           "value": 5612817.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 2.02
-        },
-        {
-          "year": 2001,
-          "value": 2.1
-        },
-        {
-          "year": 2002,
-          "value": 2.22
-        },
-        {
-          "year": 2003,
-          "value": 2.42
-        },
-        {
-          "year": 2004,
-          "value": 2.42
-        },
-        {
-          "year": 2005,
-          "value": 2.41
-        },
-        {
-          "year": 2006,
-          "value": 2.28
-        },
-        {
-          "year": 2007,
-          "value": 2.23
-        },
-        {
-          "year": 2008,
-          "value": 2.22
-        },
-        {
-          "year": 2009,
-          "value": 2.24
-        },
-        {
-          "year": 2010,
-          "value": 2.27
-        },
-        {
-          "year": 2011,
-          "value": 2.21
-        },
-        {
-          "year": 2012,
-          "value": 2.15
-        },
-        {
-          "year": 2013,
-          "value": 2.08
-        },
-        {
-          "year": 2014,
-          "value": 2.08
-        },
-        {
-          "year": 2015,
-          "value": 2.56
-        },
-        {
-          "year": 2016,
-          "value": 3.08
-        },
-        {
-          "year": 2017,
-          "value": 3.07
-        },
-        {
-          "year": 2018,
-          "value": 3.06
-        },
-        {
-          "year": 2019,
-          "value": 3.07
-        },
-        {
-          "year": 2020,
-          "value": 4.1
-        },
-        {
-          "year": 2021,
-          "value": 3.84
-        },
-        {
-          "year": 2022,
-          "value": 2.96
-        },
-        {
-          "year": 2023,
-          "value": 2.9
-        },
-        {
-          "year": 2024,
-          "value": 2.91
-        }
       ]
     }
   },
@@ -26352,10 +23468,10 @@
     "iso3": "LBY",
     "iso2": "LY",
     "region": "North Africa",
-    "income_level": "Upper middle income",
-    "capital_city": "Tripoli",
-    "lat": 32.8578,
-    "lng": 13.1072,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 77.4,
       "fdi_inflows": 1.44,
@@ -26364,8 +23480,7 @@
       "inflation": 2.13,
       "internet_users": 81.95,
       "life_expectancy": 71.12,
-      "population": 7381023.0,
-      "unemployment": 19.09
+      "population": 7381023.0
     },
     "trends": {
       "electricity_access": [
@@ -27152,108 +24267,6 @@
           "year": 2024,
           "value": 7381023.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 19.27
-        },
-        {
-          "year": 2001,
-          "value": 19.24
-        },
-        {
-          "year": 2002,
-          "value": 19.28
-        },
-        {
-          "year": 2003,
-          "value": 19.07
-        },
-        {
-          "year": 2004,
-          "value": 18.94
-        },
-        {
-          "year": 2005,
-          "value": 18.66
-        },
-        {
-          "year": 2006,
-          "value": 18.8
-        },
-        {
-          "year": 2007,
-          "value": 18.77
-        },
-        {
-          "year": 2008,
-          "value": 19.04
-        },
-        {
-          "year": 2009,
-          "value": 19.29
-        },
-        {
-          "year": 2010,
-          "value": 19.32
-        },
-        {
-          "year": 2011,
-          "value": 19.5
-        },
-        {
-          "year": 2012,
-          "value": 19.03
-        },
-        {
-          "year": 2013,
-          "value": 19.31
-        },
-        {
-          "year": 2014,
-          "value": 19.3
-        },
-        {
-          "year": 2015,
-          "value": 19.69
-        },
-        {
-          "year": 2016,
-          "value": 19.56
-        },
-        {
-          "year": 2017,
-          "value": 19.05
-        },
-        {
-          "year": 2018,
-          "value": 18.86
-        },
-        {
-          "year": 2019,
-          "value": 19.09
-        },
-        {
-          "year": 2020,
-          "value": 19.65
-        },
-        {
-          "year": 2021,
-          "value": 19.78
-        },
-        {
-          "year": 2022,
-          "value": 19.24
-        },
-        {
-          "year": 2023,
-          "value": 18.71
-        },
-        {
-          "year": 2024,
-          "value": 19.09
-        }
       ]
     }
   },
@@ -27262,10 +24275,10 @@
     "iso3": "MDG",
     "iso2": "MG",
     "region": "East Africa",
-    "income_level": "Low income",
-    "capital_city": "Antananarivo",
-    "lat": -20.4667,
-    "lng": 45.7167,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 42.5,
       "fdi_inflows": 3.45,
@@ -27275,8 +24288,7 @@
       "internet_users": 18.68,
       "life_expectancy": 63.84,
       "literacy_rate": 74.69,
-      "population": 31964956.0,
-      "unemployment": 3.05
+      "population": 31964956.0
     },
     "trends": {
       "electricity_access": [
@@ -28112,108 +25124,6 @@
           "year": 2024,
           "value": 31964956.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 5.8
-        },
-        {
-          "year": 2001,
-          "value": 5.35
-        },
-        {
-          "year": 2002,
-          "value": 5.51
-        },
-        {
-          "year": 2003,
-          "value": 5.01
-        },
-        {
-          "year": 2004,
-          "value": 3.95
-        },
-        {
-          "year": 2005,
-          "value": 2.62
-        },
-        {
-          "year": 2006,
-          "value": 2.94
-        },
-        {
-          "year": 2007,
-          "value": 3.2
-        },
-        {
-          "year": 2008,
-          "value": 3.43
-        },
-        {
-          "year": 2009,
-          "value": 3.88
-        },
-        {
-          "year": 2010,
-          "value": 4.28
-        },
-        {
-          "year": 2011,
-          "value": 2.52
-        },
-        {
-          "year": 2012,
-          "value": 0.6
-        },
-        {
-          "year": 2013,
-          "value": 0.99
-        },
-        {
-          "year": 2014,
-          "value": 1.39
-        },
-        {
-          "year": 2015,
-          "value": 1.78
-        },
-        {
-          "year": 2016,
-          "value": 1.95
-        },
-        {
-          "year": 2017,
-          "value": 2.12
-        },
-        {
-          "year": 2018,
-          "value": 2.3
-        },
-        {
-          "year": 2019,
-          "value": 2.48
-        },
-        {
-          "year": 2020,
-          "value": 3.29
-        },
-        {
-          "year": 2021,
-          "value": 3.5
-        },
-        {
-          "year": 2022,
-          "value": 3.19
-        },
-        {
-          "year": 2023,
-          "value": 3.04
-        },
-        {
-          "year": 2024,
-          "value": 3.05
-        }
       ]
     }
   },
@@ -28222,10 +25132,10 @@
     "iso3": "MWI",
     "iso2": "MW",
     "region": "East Africa",
-    "income_level": "Low income",
-    "capital_city": "Lilongwe",
-    "lat": -13.9899,
-    "lng": 33.7703,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 15.6,
       "fdi_inflows": 2.98,
@@ -28235,8 +25145,7 @@
       "internet_users": 18.96,
       "life_expectancy": 67.56,
       "literacy_rate": 70.15,
-      "population": 21655286.0,
-      "unemployment": 5.05
+      "population": 21655286.0
     },
     "trends": {
       "electricity_access": [
@@ -29068,108 +25977,6 @@
           "year": 2024,
           "value": 21655286.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 5.04
-        },
-        {
-          "year": 2001,
-          "value": 5.22
-        },
-        {
-          "year": 2002,
-          "value": 5.25
-        },
-        {
-          "year": 2003,
-          "value": 5.17
-        },
-        {
-          "year": 2004,
-          "value": 4.96
-        },
-        {
-          "year": 2005,
-          "value": 4.93
-        },
-        {
-          "year": 2006,
-          "value": 4.95
-        },
-        {
-          "year": 2007,
-          "value": 4.88
-        },
-        {
-          "year": 2008,
-          "value": 4.8
-        },
-        {
-          "year": 2009,
-          "value": 4.73
-        },
-        {
-          "year": 2010,
-          "value": 4.78
-        },
-        {
-          "year": 2011,
-          "value": 4.83
-        },
-        {
-          "year": 2012,
-          "value": 4.95
-        },
-        {
-          "year": 2013,
-          "value": 4.98
-        },
-        {
-          "year": 2014,
-          "value": 4.97
-        },
-        {
-          "year": 2015,
-          "value": 4.95
-        },
-        {
-          "year": 2016,
-          "value": 5.01
-        },
-        {
-          "year": 2017,
-          "value": 5.05
-        },
-        {
-          "year": 2018,
-          "value": 5.02
-        },
-        {
-          "year": 2019,
-          "value": 4.96
-        },
-        {
-          "year": 2020,
-          "value": 5.72
-        },
-        {
-          "year": 2021,
-          "value": 5.65
-        },
-        {
-          "year": 2022,
-          "value": 5.02
-        },
-        {
-          "year": 2023,
-          "value": 5.01
-        },
-        {
-          "year": 2024,
-          "value": 5.05
-        }
       ]
     }
   },
@@ -29178,10 +25985,10 @@
     "iso3": "MLI",
     "iso2": "ML",
     "region": "West Africa",
-    "income_level": "Low income",
-    "capital_city": "Bamako",
-    "lat": 13.5667,
-    "lng": -7.50034,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 49.5,
       "fdi_inflows": 3.44,
@@ -29191,8 +25998,7 @@
       "internet_users": 36.8,
       "life_expectancy": 60.67,
       "literacy_rate": 35.63,
-      "population": 24478595.0,
-      "unemployment": 2.92
+      "population": 24478595.0
     },
     "trends": {
       "electricity_access": [
@@ -30040,108 +26846,6 @@
           "year": 2024,
           "value": 24478595.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 1.41
-        },
-        {
-          "year": 2001,
-          "value": 1.33
-        },
-        {
-          "year": 2002,
-          "value": 1.36
-        },
-        {
-          "year": 2003,
-          "value": 1.27
-        },
-        {
-          "year": 2004,
-          "value": 1.41
-        },
-        {
-          "year": 2005,
-          "value": 1.37
-        },
-        {
-          "year": 2006,
-          "value": 1.4
-        },
-        {
-          "year": 2007,
-          "value": 1.37
-        },
-        {
-          "year": 2008,
-          "value": 1.38
-        },
-        {
-          "year": 2009,
-          "value": 1.41
-        },
-        {
-          "year": 2010,
-          "value": 1.38
-        },
-        {
-          "year": 2011,
-          "value": 1.4
-        },
-        {
-          "year": 2012,
-          "value": 1.46
-        },
-        {
-          "year": 2013,
-          "value": 1.52
-        },
-        {
-          "year": 2014,
-          "value": 1.48
-        },
-        {
-          "year": 2015,
-          "value": 1.4
-        },
-        {
-          "year": 2016,
-          "value": 1.37
-        },
-        {
-          "year": 2017,
-          "value": 1.5
-        },
-        {
-          "year": 2018,
-          "value": 1.62
-        },
-        {
-          "year": 2019,
-          "value": 3.29
-        },
-        {
-          "year": 2020,
-          "value": 3.53
-        },
-        {
-          "year": 2021,
-          "value": 4.01
-        },
-        {
-          "year": 2022,
-          "value": 2.39
-        },
-        {
-          "year": 2023,
-          "value": 2.95
-        },
-        {
-          "year": 2024,
-          "value": 2.92
-        }
       ]
     }
   },
@@ -30150,10 +26854,10 @@
     "iso3": "MRT",
     "iso2": "MR",
     "region": "West Africa",
-    "income_level": "Lower middle income",
-    "capital_city": "Nouakchott",
-    "lat": 18.2367,
-    "lng": -15.9824,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 52.2,
       "fdi_inflows": 13.24,
@@ -30163,8 +26867,7 @@
       "internet_users": 45.78,
       "life_expectancy": 68.71,
       "literacy_rate": 59.53,
-      "population": 5169395.0,
-      "unemployment": 10.26
+      "population": 5169395.0
     },
     "trends": {
       "electricity_access": [
@@ -31000,108 +27703,6 @@
           "year": 2024,
           "value": 5169395.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 10.03
-        },
-        {
-          "year": 2001,
-          "value": 10.13
-        },
-        {
-          "year": 2002,
-          "value": 10.2
-        },
-        {
-          "year": 2003,
-          "value": 9.91
-        },
-        {
-          "year": 2004,
-          "value": 9.77
-        },
-        {
-          "year": 2005,
-          "value": 9.59
-        },
-        {
-          "year": 2006,
-          "value": 9.31
-        },
-        {
-          "year": 2007,
-          "value": 9.48
-        },
-        {
-          "year": 2008,
-          "value": 9.71
-        },
-        {
-          "year": 2009,
-          "value": 10.21
-        },
-        {
-          "year": 2010,
-          "value": 10.09
-        },
-        {
-          "year": 2011,
-          "value": 9.98
-        },
-        {
-          "year": 2012,
-          "value": 9.86
-        },
-        {
-          "year": 2013,
-          "value": 9.93
-        },
-        {
-          "year": 2014,
-          "value": 10.03
-        },
-        {
-          "year": 2015,
-          "value": 10.1
-        },
-        {
-          "year": 2016,
-          "value": 10.29
-        },
-        {
-          "year": 2017,
-          "value": 10.34
-        },
-        {
-          "year": 2018,
-          "value": 10.41
-        },
-        {
-          "year": 2019,
-          "value": 10.42
-        },
-        {
-          "year": 2020,
-          "value": 11.05
-        },
-        {
-          "year": 2021,
-          "value": 11.13
-        },
-        {
-          "year": 2022,
-          "value": 10.52
-        },
-        {
-          "year": 2023,
-          "value": 10.37
-        },
-        {
-          "year": 2024,
-          "value": 10.26
-        }
       ]
     }
   },
@@ -31110,10 +27711,10 @@
     "iso3": "MUS",
     "iso2": "MU",
     "region": "East Africa",
-    "income_level": "Upper middle income",
-    "capital_city": "Port Louis",
-    "lat": -20.1605,
-    "lng": 57.4977,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 100.0,
       "fdi_inflows": 4.56,
@@ -31123,8 +27724,7 @@
       "internet_users": 73.31,
       "life_expectancy": 73.79,
       "literacy_rate": 94.29,
-      "population": 1245779.0,
-      "unemployment": 5.55
+      "population": 1245779.0
     },
     "trends": {
       "electricity_access": [
@@ -31980,108 +28580,6 @@
           "year": 2024,
           "value": 1245779.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 9.12
-        },
-        {
-          "year": 2001,
-          "value": 9.14
-        },
-        {
-          "year": 2002,
-          "value": 8.21
-        },
-        {
-          "year": 2003,
-          "value": 8.32
-        },
-        {
-          "year": 2004,
-          "value": 8.34
-        },
-        {
-          "year": 2005,
-          "value": 9.52
-        },
-        {
-          "year": 2006,
-          "value": 9.04
-        },
-        {
-          "year": 2007,
-          "value": 8.47
-        },
-        {
-          "year": 2008,
-          "value": 7.17
-        },
-        {
-          "year": 2009,
-          "value": 7.26
-        },
-        {
-          "year": 2010,
-          "value": 7.65
-        },
-        {
-          "year": 2011,
-          "value": 7.45
-        },
-        {
-          "year": 2012,
-          "value": 7.47
-        },
-        {
-          "year": 2013,
-          "value": 7.32
-        },
-        {
-          "year": 2014,
-          "value": 7.47
-        },
-        {
-          "year": 2015,
-          "value": 7.41
-        },
-        {
-          "year": 2016,
-          "value": 6.81
-        },
-        {
-          "year": 2017,
-          "value": 6.75
-        },
-        {
-          "year": 2018,
-          "value": 6.43
-        },
-        {
-          "year": 2019,
-          "value": 6.33
-        },
-        {
-          "year": 2020,
-          "value": 8.63
-        },
-        {
-          "year": 2021,
-          "value": 7.72
-        },
-        {
-          "year": 2022,
-          "value": 6.32
-        },
-        {
-          "year": 2023,
-          "value": 5.57
-        },
-        {
-          "year": 2024,
-          "value": 5.55
-        }
       ]
     }
   },
@@ -32090,10 +28588,10 @@
     "iso3": "MAR",
     "iso2": "MA",
     "region": "North Africa",
-    "income_level": "Lower middle income",
-    "capital_city": "Rabat",
-    "lat": 33.9905,
-    "lng": -6.8704,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 100.0,
       "fdi_inflows": 1.09,
@@ -32103,8 +28601,7 @@
       "internet_users": 91.2,
       "life_expectancy": 75.49,
       "literacy_rate": 64.26,
-      "population": 38081173.0,
-      "unemployment": 9.1
+      "population": 38081173.0
     },
     "trends": {
       "electricity_access": [
@@ -32948,108 +29445,6 @@
           "year": 2024,
           "value": 38081173.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 13.58
-        },
-        {
-          "year": 2001,
-          "value": 12.46
-        },
-        {
-          "year": 2002,
-          "value": 11.59
-        },
-        {
-          "year": 2003,
-          "value": 11.92
-        },
-        {
-          "year": 2004,
-          "value": 10.83
-        },
-        {
-          "year": 2005,
-          "value": 11.01
-        },
-        {
-          "year": 2006,
-          "value": 9.67
-        },
-        {
-          "year": 2007,
-          "value": 9.56
-        },
-        {
-          "year": 2008,
-          "value": 9.57
-        },
-        {
-          "year": 2009,
-          "value": 8.96
-        },
-        {
-          "year": 2010,
-          "value": 9.09
-        },
-        {
-          "year": 2011,
-          "value": 8.91
-        },
-        {
-          "year": 2012,
-          "value": 8.99
-        },
-        {
-          "year": 2013,
-          "value": 9.23
-        },
-        {
-          "year": 2014,
-          "value": 9.7
-        },
-        {
-          "year": 2015,
-          "value": 9.46
-        },
-        {
-          "year": 2016,
-          "value": 9.3
-        },
-        {
-          "year": 2017,
-          "value": 9.22
-        },
-        {
-          "year": 2018,
-          "value": 9.27
-        },
-        {
-          "year": 2019,
-          "value": 9.19
-        },
-        {
-          "year": 2020,
-          "value": 11.19
-        },
-        {
-          "year": 2021,
-          "value": 10.55
-        },
-        {
-          "year": 2022,
-          "value": 9.41
-        },
-        {
-          "year": 2023,
-          "value": 8.9
-        },
-        {
-          "year": 2024,
-          "value": 9.1
-        }
       ]
     }
   },
@@ -33058,10 +29453,10 @@
     "iso3": "MOZ",
     "iso2": "MZ",
     "region": "East Africa",
-    "income_level": "Low income",
-    "capital_city": "Maputo",
-    "lat": -25.9664,
-    "lng": 32.5713,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 36.9,
       "fdi_inflows": 15.42,
@@ -33071,8 +29466,7 @@
       "internet_users": 20.53,
       "life_expectancy": 63.8,
       "literacy_rate": 61.67,
-      "population": 34631766.0,
-      "unemployment": 6.67
+      "population": 34631766.0
     },
     "trends": {
       "electricity_access": [
@@ -33896,108 +30290,6 @@
           "year": 2024,
           "value": 34631766.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 2.83
-        },
-        {
-          "year": 2001,
-          "value": 2.84
-        },
-        {
-          "year": 2002,
-          "value": 2.9
-        },
-        {
-          "year": 2003,
-          "value": 2.86
-        },
-        {
-          "year": 2004,
-          "value": 2.95
-        },
-        {
-          "year": 2005,
-          "value": 3.04
-        },
-        {
-          "year": 2006,
-          "value": 3.04
-        },
-        {
-          "year": 2007,
-          "value": 3.08
-        },
-        {
-          "year": 2008,
-          "value": 3.11
-        },
-        {
-          "year": 2009,
-          "value": 3.21
-        },
-        {
-          "year": 2010,
-          "value": 3.26
-        },
-        {
-          "year": 2011,
-          "value": 3.29
-        },
-        {
-          "year": 2012,
-          "value": 3.3
-        },
-        {
-          "year": 2013,
-          "value": 3.35
-        },
-        {
-          "year": 2014,
-          "value": 3.38
-        },
-        {
-          "year": 2015,
-          "value": 3.43
-        },
-        {
-          "year": 2016,
-          "value": 3.65
-        },
-        {
-          "year": 2017,
-          "value": 3.94
-        },
-        {
-          "year": 2018,
-          "value": 4.21
-        },
-        {
-          "year": 2019,
-          "value": 4.46
-        },
-        {
-          "year": 2020,
-          "value": 5.02
-        },
-        {
-          "year": 2021,
-          "value": 5.41
-        },
-        {
-          "year": 2022,
-          "value": 6.79
-        },
-        {
-          "year": 2023,
-          "value": 6.66
-        },
-        {
-          "year": 2024,
-          "value": 6.67
-        }
       ]
     }
   },
@@ -34006,10 +30298,10 @@
     "iso3": "NAM",
     "iso2": "NA",
     "region": "Southern Africa",
-    "income_level": "Lower middle income",
-    "capital_city": "Windhoek",
-    "lat": -22.5648,
-    "lng": 17.0931,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 59.3,
       "fdi_inflows": 14.18,
@@ -34019,8 +30311,7 @@
       "internet_users": 64.87,
       "life_expectancy": 67.52,
       "literacy_rate": 87.64,
-      "population": 3030131.0,
-      "unemployment": 19.16
+      "population": 3030131.0
     },
     "trends": {
       "electricity_access": [
@@ -34848,108 +31139,6 @@
           "year": 2024,
           "value": 3030131.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 20.3
-        },
-        {
-          "year": 2001,
-          "value": 21.01
-        },
-        {
-          "year": 2002,
-          "value": 21.54
-        },
-        {
-          "year": 2003,
-          "value": 22.1
-        },
-        {
-          "year": 2004,
-          "value": 22.09
-        },
-        {
-          "year": 2005,
-          "value": 22.11
-        },
-        {
-          "year": 2006,
-          "value": 21.85
-        },
-        {
-          "year": 2007,
-          "value": 22.12
-        },
-        {
-          "year": 2008,
-          "value": 22.0
-        },
-        {
-          "year": 2009,
-          "value": 22.27
-        },
-        {
-          "year": 2010,
-          "value": 22.12
-        },
-        {
-          "year": 2011,
-          "value": 19.48
-        },
-        {
-          "year": 2012,
-          "value": 16.77
-        },
-        {
-          "year": 2013,
-          "value": 19.03
-        },
-        {
-          "year": 2014,
-          "value": 18.52
-        },
-        {
-          "year": 2015,
-          "value": 20.79
-        },
-        {
-          "year": 2016,
-          "value": 23.35
-        },
-        {
-          "year": 2017,
-          "value": 21.75
-        },
-        {
-          "year": 2018,
-          "value": 19.88
-        },
-        {
-          "year": 2019,
-          "value": 19.93
-        },
-        {
-          "year": 2020,
-          "value": 21.0
-        },
-        {
-          "year": 2021,
-          "value": 20.93
-        },
-        {
-          "year": 2022,
-          "value": 19.61
-        },
-        {
-          "year": 2023,
-          "value": 19.15
-        },
-        {
-          "year": 2024,
-          "value": 19.16
-        }
       ]
     }
   },
@@ -34958,10 +31147,10 @@
     "iso3": "NER",
     "iso2": "NE",
     "region": "West Africa",
-    "income_level": "Low income",
-    "capital_city": "Niamey",
-    "lat": 13.514,
-    "lng": 2.1073,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 21.3,
       "fdi_inflows": 1.81,
@@ -34971,8 +31160,7 @@
       "internet_users": 15.56,
       "life_expectancy": 61.43,
       "literacy_rate": 35.61,
-      "population": 27032412.0,
-      "unemployment": 0.38
+      "population": 27032412.0
     },
     "trends": {
       "electricity_access": [
@@ -35816,108 +32004,6 @@
           "year": 2024,
           "value": 27032412.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 1.43
-        },
-        {
-          "year": 2001,
-          "value": 1.47
-        },
-        {
-          "year": 2002,
-          "value": 1.81
-        },
-        {
-          "year": 2003,
-          "value": 2.15
-        },
-        {
-          "year": 2004,
-          "value": 2.75
-        },
-        {
-          "year": 2005,
-          "value": 3.1
-        },
-        {
-          "year": 2006,
-          "value": 2.53
-        },
-        {
-          "year": 2007,
-          "value": 2.02
-        },
-        {
-          "year": 2008,
-          "value": 1.58
-        },
-        {
-          "year": 2009,
-          "value": 1.21
-        },
-        {
-          "year": 2010,
-          "value": 0.72
-        },
-        {
-          "year": 2011,
-          "value": 0.32
-        },
-        {
-          "year": 2012,
-          "value": 2.18
-        },
-        {
-          "year": 2013,
-          "value": 1.4
-        },
-        {
-          "year": 2014,
-          "value": 0.52
-        },
-        {
-          "year": 2015,
-          "value": 0.56
-        },
-        {
-          "year": 2016,
-          "value": 0.55
-        },
-        {
-          "year": 2017,
-          "value": 0.56
-        },
-        {
-          "year": 2018,
-          "value": 0.54
-        },
-        {
-          "year": 2019,
-          "value": 0.53
-        },
-        {
-          "year": 2020,
-          "value": 0.59
-        },
-        {
-          "year": 2021,
-          "value": 0.81
-        },
-        {
-          "year": 2022,
-          "value": 0.4
-        },
-        {
-          "year": 2023,
-          "value": 0.41
-        },
-        {
-          "year": 2024,
-          "value": 0.38
-        }
       ]
     }
   },
@@ -35926,10 +32012,10 @@
     "iso3": "NGA",
     "iso2": "NG",
     "region": "West Africa",
-    "income_level": "Lower middle income",
-    "capital_city": "Abuja",
-    "lat": 9.05804,
-    "lng": 7.48906,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 62.5,
       "fdi_inflows": 0.64,
@@ -35939,8 +32025,7 @@
       "internet_users": 41.21,
       "life_expectancy": 54.63,
       "literacy_rate": 70.41,
-      "population": 232679478.0,
-      "unemployment": 3.04
+      "population": 232679478.0
     },
     "trends": {
       "electricity_access": [
@@ -36780,108 +32865,6 @@
           "year": 2024,
           "value": 232679478.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 3.95
-        },
-        {
-          "year": 2001,
-          "value": 3.9
-        },
-        {
-          "year": 2002,
-          "value": 3.67
-        },
-        {
-          "year": 2003,
-          "value": 3.64
-        },
-        {
-          "year": 2004,
-          "value": 3.59
-        },
-        {
-          "year": 2005,
-          "value": 3.73
-        },
-        {
-          "year": 2006,
-          "value": 3.75
-        },
-        {
-          "year": 2007,
-          "value": 3.79
-        },
-        {
-          "year": 2008,
-          "value": 3.79
-        },
-        {
-          "year": 2009,
-          "value": 3.76
-        },
-        {
-          "year": 2010,
-          "value": 3.74
-        },
-        {
-          "year": 2011,
-          "value": 3.77
-        },
-        {
-          "year": 2012,
-          "value": 3.76
-        },
-        {
-          "year": 2013,
-          "value": 3.71
-        },
-        {
-          "year": 2014,
-          "value": 3.9
-        },
-        {
-          "year": 2015,
-          "value": 4.13
-        },
-        {
-          "year": 2016,
-          "value": 4.5
-        },
-        {
-          "year": 2017,
-          "value": 4.83
-        },
-        {
-          "year": 2018,
-          "value": 5.07
-        },
-        {
-          "year": 2019,
-          "value": 5.21
-        },
-        {
-          "year": 2020,
-          "value": 5.71
-        },
-        {
-          "year": 2021,
-          "value": 5.4
-        },
-        {
-          "year": 2022,
-          "value": 3.83
-        },
-        {
-          "year": 2023,
-          "value": 3.07
-        },
-        {
-          "year": 2024,
-          "value": 3.04
-        }
       ]
     }
   },
@@ -36890,10 +32873,10 @@
     "iso3": "RWA",
     "iso2": "RW",
     "region": "East Africa",
-    "income_level": "Low income",
-    "capital_city": "Kigali",
-    "lat": -1.95325,
-    "lng": 30.0587,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 72.0,
       "fdi_inflows": 3.79,
@@ -36903,8 +32886,7 @@
       "internet_users": 31.7,
       "life_expectancy": 68.02,
       "literacy_rate": 78.76,
-      "population": 14256567.0,
-      "unemployment": 11.33
+      "population": 14256567.0
     },
     "trends": {
       "electricity_access": [
@@ -37744,108 +33726,6 @@
           "year": 2024,
           "value": 14256567.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 11.7
-        },
-        {
-          "year": 2001,
-          "value": 11.73
-        },
-        {
-          "year": 2002,
-          "value": 11.43
-        },
-        {
-          "year": 2003,
-          "value": 11.66
-        },
-        {
-          "year": 2004,
-          "value": 11.7
-        },
-        {
-          "year": 2005,
-          "value": 11.84
-        },
-        {
-          "year": 2006,
-          "value": 11.59
-        },
-        {
-          "year": 2007,
-          "value": 11.58
-        },
-        {
-          "year": 2008,
-          "value": 11.52
-        },
-        {
-          "year": 2009,
-          "value": 11.62
-        },
-        {
-          "year": 2010,
-          "value": 11.64
-        },
-        {
-          "year": 2011,
-          "value": 11.76
-        },
-        {
-          "year": 2012,
-          "value": 11.67
-        },
-        {
-          "year": 2013,
-          "value": 11.77
-        },
-        {
-          "year": 2014,
-          "value": 11.84
-        },
-        {
-          "year": 2015,
-          "value": 11.83
-        },
-        {
-          "year": 2016,
-          "value": 11.79
-        },
-        {
-          "year": 2017,
-          "value": 11.88
-        },
-        {
-          "year": 2018,
-          "value": 10.76
-        },
-        {
-          "year": 2019,
-          "value": 11.24
-        },
-        {
-          "year": 2020,
-          "value": 11.83
-        },
-        {
-          "year": 2021,
-          "value": 15.78
-        },
-        {
-          "year": 2022,
-          "value": 15.08
-        },
-        {
-          "year": 2023,
-          "value": 12.35
-        },
-        {
-          "year": 2024,
-          "value": 11.33
-        }
       ]
     }
   },
@@ -37854,10 +33734,10 @@
     "iso3": "STP",
     "iso2": "ST",
     "region": "Central Africa",
-    "income_level": "Lower middle income",
-    "capital_city": "Sao Tome",
-    "lat": 0.20618,
-    "lng": 6.6071,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 77.7,
       "fdi_inflows": 4.68,
@@ -37867,8 +33747,7 @@
       "internet_users": 59.12,
       "life_expectancy": 69.91,
       "literacy_rate": 87.44,
-      "population": 235536.0,
-      "unemployment": 9.06
+      "population": 235536.0
     },
     "trends": {
       "electricity_access": [
@@ -38700,108 +34579,6 @@
           "year": 2024,
           "value": 235536.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 14.4
-        },
-        {
-          "year": 2001,
-          "value": 15.73
-        },
-        {
-          "year": 2002,
-          "value": 17.63
-        },
-        {
-          "year": 2003,
-          "value": 16.36
-        },
-        {
-          "year": 2004,
-          "value": 16.12
-        },
-        {
-          "year": 2005,
-          "value": 16.47
-        },
-        {
-          "year": 2006,
-          "value": 16.65
-        },
-        {
-          "year": 2007,
-          "value": 16.02
-        },
-        {
-          "year": 2008,
-          "value": 15.42
-        },
-        {
-          "year": 2009,
-          "value": 15.14
-        },
-        {
-          "year": 2010,
-          "value": 14.63
-        },
-        {
-          "year": 2011,
-          "value": 14.23
-        },
-        {
-          "year": 2012,
-          "value": 13.59
-        },
-        {
-          "year": 2013,
-          "value": 12.48
-        },
-        {
-          "year": 2014,
-          "value": 11.43
-        },
-        {
-          "year": 2015,
-          "value": 10.59
-        },
-        {
-          "year": 2016,
-          "value": 9.68
-        },
-        {
-          "year": 2017,
-          "value": 8.81
-        },
-        {
-          "year": 2018,
-          "value": 8.71
-        },
-        {
-          "year": 2019,
-          "value": 8.84
-        },
-        {
-          "year": 2020,
-          "value": 9.68
-        },
-        {
-          "year": 2021,
-          "value": 9.56
-        },
-        {
-          "year": 2022,
-          "value": 8.96
-        },
-        {
-          "year": 2023,
-          "value": 9.03
-        },
-        {
-          "year": 2024,
-          "value": 9.06
-        }
       ]
     }
   },
@@ -38810,10 +34587,10 @@
     "iso3": "SEN",
     "iso2": "SN",
     "region": "West Africa",
-    "income_level": "Lower middle income",
-    "capital_city": "Dakar",
-    "lat": 14.7247,
-    "lng": -17.4734,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 82.9,
       "fdi_inflows": 10.32,
@@ -38823,8 +34600,7 @@
       "internet_users": 60.12,
       "life_expectancy": 68.92,
       "literacy_rate": 50.36,
-      "population": 18501984.0,
-      "unemployment": 2.79
+      "population": 18501984.0
     },
     "trends": {
       "electricity_access": [
@@ -39688,108 +35464,6 @@
           "year": 2024,
           "value": 18501984.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 2.64
-        },
-        {
-          "year": 2001,
-          "value": 2.67
-        },
-        {
-          "year": 2002,
-          "value": 2.82
-        },
-        {
-          "year": 2003,
-          "value": 2.78
-        },
-        {
-          "year": 2004,
-          "value": 2.77
-        },
-        {
-          "year": 2005,
-          "value": 2.68
-        },
-        {
-          "year": 2006,
-          "value": 2.75
-        },
-        {
-          "year": 2007,
-          "value": 2.8
-        },
-        {
-          "year": 2008,
-          "value": 2.82
-        },
-        {
-          "year": 2009,
-          "value": 2.81
-        },
-        {
-          "year": 2010,
-          "value": 2.79
-        },
-        {
-          "year": 2011,
-          "value": 2.85
-        },
-        {
-          "year": 2012,
-          "value": 3.9
-        },
-        {
-          "year": 2013,
-          "value": 5.01
-        },
-        {
-          "year": 2014,
-          "value": 5.85
-        },
-        {
-          "year": 2015,
-          "value": 6.76
-        },
-        {
-          "year": 2016,
-          "value": 4.46
-        },
-        {
-          "year": 2017,
-          "value": 4.08
-        },
-        {
-          "year": 2018,
-          "value": 3.45
-        },
-        {
-          "year": 2019,
-          "value": 2.86
-        },
-        {
-          "year": 2020,
-          "value": 3.43
-        },
-        {
-          "year": 2021,
-          "value": 3.44
-        },
-        {
-          "year": 2022,
-          "value": 2.84
-        },
-        {
-          "year": 2023,
-          "value": 2.78
-        },
-        {
-          "year": 2024,
-          "value": 2.79
-        }
       ]
     }
   },
@@ -39798,10 +35472,10 @@
     "iso3": "SYC",
     "iso2": "SC",
     "region": "East Africa",
-    "income_level": "High income",
-    "capital_city": "Victoria",
-    "lat": -4.6309,
-    "lng": 55.4466,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 100.0,
       "fdi_inflows": 10.15,
@@ -40635,8 +36309,7 @@
           "year": 2024,
           "value": 121354.0
         }
-      ],
-      "unemployment": []
+      ]
     }
   },
   "SLE": {
@@ -40644,10 +36317,10 @@
     "iso3": "SLE",
     "iso2": "SL",
     "region": "West Africa",
-    "income_level": "Low income",
-    "capital_city": "Freetown",
-    "lat": 8.4821,
-    "lng": -13.2134,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 39.2,
       "fdi_inflows": 1.75,
@@ -40657,8 +36330,7 @@
       "internet_users": 25.1,
       "life_expectancy": 61.96,
       "literacy_rate": 43.58,
-      "population": 8642022.0,
-      "unemployment": 3.1
+      "population": 8642022.0
     },
     "trends": {
       "electricity_access": [
@@ -41474,108 +37146,6 @@
           "year": 2024,
           "value": 8642022.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 4.14
-        },
-        {
-          "year": 2001,
-          "value": 4.24
-        },
-        {
-          "year": 2002,
-          "value": 3.91
-        },
-        {
-          "year": 2003,
-          "value": 3.88
-        },
-        {
-          "year": 2004,
-          "value": 3.42
-        },
-        {
-          "year": 2005,
-          "value": 3.73
-        },
-        {
-          "year": 2006,
-          "value": 3.89
-        },
-        {
-          "year": 2007,
-          "value": 4.02
-        },
-        {
-          "year": 2008,
-          "value": 4.13
-        },
-        {
-          "year": 2009,
-          "value": 4.27
-        },
-        {
-          "year": 2010,
-          "value": 4.34
-        },
-        {
-          "year": 2011,
-          "value": 4.39
-        },
-        {
-          "year": 2012,
-          "value": 4.38
-        },
-        {
-          "year": 2013,
-          "value": 4.38
-        },
-        {
-          "year": 2014,
-          "value": 4.68
-        },
-        {
-          "year": 2015,
-          "value": 4.48
-        },
-        {
-          "year": 2016,
-          "value": 4.18
-        },
-        {
-          "year": 2017,
-          "value": 3.66
-        },
-        {
-          "year": 2018,
-          "value": 3.19
-        },
-        {
-          "year": 2019,
-          "value": 3.2
-        },
-        {
-          "year": 2020,
-          "value": 3.51
-        },
-        {
-          "year": 2021,
-          "value": 3.55
-        },
-        {
-          "year": 2022,
-          "value": 3.14
-        },
-        {
-          "year": 2023,
-          "value": 3.09
-        },
-        {
-          "year": 2024,
-          "value": 3.1
-        }
       ]
     }
   },
@@ -41584,10 +37154,10 @@
     "iso3": "SOM",
     "iso2": "SO",
     "region": "East Africa",
-    "income_level": "Low income",
-    "capital_city": "Mogadishu",
-    "lat": 2.07515,
-    "lng": 45.3254,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 54.4,
       "fdi_inflows": 6.39,
@@ -41596,8 +37166,7 @@
       "internet_users": 27.94,
       "life_expectancy": 58.97,
       "literacy_rate": 54.12,
-      "population": 19009151.0,
-      "unemployment": 18.95
+      "population": 19009151.0
     },
     "trends": {
       "electricity_access": [
@@ -42312,108 +37881,6 @@
           "year": 2024,
           "value": 19009151.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 18.68
-        },
-        {
-          "year": 2001,
-          "value": 18.66
-        },
-        {
-          "year": 2002,
-          "value": 18.66
-        },
-        {
-          "year": 2003,
-          "value": 18.65
-        },
-        {
-          "year": 2004,
-          "value": 18.65
-        },
-        {
-          "year": 2005,
-          "value": 18.67
-        },
-        {
-          "year": 2006,
-          "value": 18.7
-        },
-        {
-          "year": 2007,
-          "value": 18.69
-        },
-        {
-          "year": 2008,
-          "value": 18.71
-        },
-        {
-          "year": 2009,
-          "value": 18.72
-        },
-        {
-          "year": 2010,
-          "value": 18.74
-        },
-        {
-          "year": 2011,
-          "value": 18.76
-        },
-        {
-          "year": 2012,
-          "value": 18.77
-        },
-        {
-          "year": 2013,
-          "value": 18.66
-        },
-        {
-          "year": 2014,
-          "value": 18.59
-        },
-        {
-          "year": 2015,
-          "value": 18.5
-        },
-        {
-          "year": 2016,
-          "value": 18.61
-        },
-        {
-          "year": 2017,
-          "value": 18.45
-        },
-        {
-          "year": 2018,
-          "value": 18.7
-        },
-        {
-          "year": 2019,
-          "value": 18.83
-        },
-        {
-          "year": 2020,
-          "value": 19.41
-        },
-        {
-          "year": 2021,
-          "value": 19.66
-        },
-        {
-          "year": 2022,
-          "value": 19.11
-        },
-        {
-          "year": 2023,
-          "value": 18.96
-        },
-        {
-          "year": 2024,
-          "value": 18.95
-        }
       ]
     }
   },
@@ -42422,10 +37889,10 @@
     "iso3": "ZAF",
     "iso2": "ZA",
     "region": "Southern Africa",
-    "income_level": "Upper middle income",
-    "capital_city": "Pretoria",
-    "lat": -25.746,
-    "lng": 28.1871,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 90.2,
       "fdi_inflows": 0.58,
@@ -42435,8 +37902,7 @@
       "internet_users": 78.36,
       "life_expectancy": 66.31,
       "literacy_rate": 91.15,
-      "population": 64007187.0,
-      "unemployment": 32.28
+      "population": 64007187.0
     },
     "trends": {
       "electricity_access": [
@@ -43300,108 +38766,6 @@
           "year": 2024,
           "value": 64007187.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 22.79
-        },
-        {
-          "year": 2001,
-          "value": 22.65
-        },
-        {
-          "year": 2002,
-          "value": 22.58
-        },
-        {
-          "year": 2003,
-          "value": 22.68
-        },
-        {
-          "year": 2004,
-          "value": 22.57
-        },
-        {
-          "year": 2005,
-          "value": 22.47
-        },
-        {
-          "year": 2006,
-          "value": 22.3
-        },
-        {
-          "year": 2007,
-          "value": 22.26
-        },
-        {
-          "year": 2008,
-          "value": 22.41
-        },
-        {
-          "year": 2009,
-          "value": 23.52
-        },
-        {
-          "year": 2010,
-          "value": 24.68
-        },
-        {
-          "year": 2011,
-          "value": 24.64
-        },
-        {
-          "year": 2012,
-          "value": 24.73
-        },
-        {
-          "year": 2013,
-          "value": 24.56
-        },
-        {
-          "year": 2014,
-          "value": 24.89
-        },
-        {
-          "year": 2015,
-          "value": 25.15
-        },
-        {
-          "year": 2016,
-          "value": 26.54
-        },
-        {
-          "year": 2017,
-          "value": 27.04
-        },
-        {
-          "year": 2018,
-          "value": 26.91
-        },
-        {
-          "year": 2019,
-          "value": 28.47
-        },
-        {
-          "year": 2020,
-          "value": 29.22
-        },
-        {
-          "year": 2021,
-          "value": 34.01
-        },
-        {
-          "year": 2022,
-          "value": 33.27
-        },
-        {
-          "year": 2023,
-          "value": 32.1
-        },
-        {
-          "year": 2024,
-          "value": 32.28
-        }
       ]
     }
   },
@@ -43410,10 +38774,10 @@
     "iso3": "SSD",
     "iso2": "SS",
     "region": "East Africa",
-    "income_level": "Low income",
-    "capital_city": "Juba",
-    "lat": 4.85,
-    "lng": 31.6,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 5.4,
       "fdi_inflows": 0.0,
@@ -43423,8 +38787,7 @@
       "internet_users": 6.67,
       "life_expectancy": 57.74,
       "literacy_rate": 26.83,
-      "population": 11943408.0,
-      "unemployment": 12.37
+      "population": 11943408.0
     },
     "trends": {
       "electricity_access": [
@@ -43892,104 +39255,6 @@
           "year": 2024,
           "value": 11943408.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 12.31
-        },
-        {
-          "year": 2001,
-          "value": 12.28
-        },
-        {
-          "year": 2002,
-          "value": 12.23
-        },
-        {
-          "year": 2003,
-          "value": 12.23
-        },
-        {
-          "year": 2004,
-          "value": 12.26
-        },
-        {
-          "year": 2005,
-          "value": 12.27
-        },
-        {
-          "year": 2006,
-          "value": 12.27
-        },
-        {
-          "year": 2007,
-          "value": 12.27
-        },
-        {
-          "year": 2008,
-          "value": 12.3
-        },
-        {
-          "year": 2009,
-          "value": 12.44
-        },
-        {
-          "year": 2010,
-          "value": 12.47
-        },
-        {
-          "year": 2011,
-          "value": 12.59
-        },
-        {
-          "year": 2012,
-          "value": 12.8
-        },
-        {
-          "year": 2013,
-          "value": 12.66
-        },
-        {
-          "year": 2014,
-          "value": 12.56
-        },
-        {
-          "year": 2015,
-          "value": 12.46
-        },
-        {
-          "year": 2016,
-          "value": 12.85
-        },
-        {
-          "year": 2017,
-          "value": 12.98
-        },
-        {
-          "year": 2018,
-          "value": 12.85
-        },
-        {
-          "year": 2019,
-          "value": 12.66
-        },
-        {
-          "year": 2020,
-          "value": 14.25
-        },
-        {
-          "year": 2021,
-          "value": 13.95
-        },
-        {
-          "year": 2022,
-          "value": 12.47
-        },
-        {
-          "year": 2023,
-          "value": 12.37
-        }
       ]
     }
   },
@@ -43998,10 +39263,10 @@
     "iso3": "SDN",
     "iso2": "SD",
     "region": "East Africa",
-    "income_level": "Low income",
-    "capital_city": "Khartoum",
-    "lat": 15.5932,
-    "lng": 32.5363,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 66.0,
       "fdi_inflows": 0.0,
@@ -44011,8 +39276,7 @@
       "internet_users": 18.6,
       "life_expectancy": 66.52,
       "literacy_rate": 53.52,
-      "population": 50448963.0,
-      "unemployment": 7.53
+      "population": 50448963.0
     },
     "trends": {
       "electricity_access": [
@@ -44768,100 +40032,6 @@
           "year": 2024,
           "value": 50448963.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 15.6
-        },
-        {
-          "year": 2001,
-          "value": 15.56
-        },
-        {
-          "year": 2002,
-          "value": 15.51
-        },
-        {
-          "year": 2003,
-          "value": 15.52
-        },
-        {
-          "year": 2004,
-          "value": 15.54
-        },
-        {
-          "year": 2005,
-          "value": 15.54
-        },
-        {
-          "year": 2006,
-          "value": 15.54
-        },
-        {
-          "year": 2007,
-          "value": 15.53
-        },
-        {
-          "year": 2008,
-          "value": 15.57
-        },
-        {
-          "year": 2009,
-          "value": 13.0
-        },
-        {
-          "year": 2010,
-          "value": 15.17
-        },
-        {
-          "year": 2011,
-          "value": 17.44
-        },
-        {
-          "year": 2012,
-          "value": 16.97
-        },
-        {
-          "year": 2013,
-          "value": 16.27
-        },
-        {
-          "year": 2014,
-          "value": 15.41
-        },
-        {
-          "year": 2015,
-          "value": 14.39
-        },
-        {
-          "year": 2016,
-          "value": 13.66
-        },
-        {
-          "year": 2017,
-          "value": 13.0
-        },
-        {
-          "year": 2018,
-          "value": 12.35
-        },
-        {
-          "year": 2019,
-          "value": 11.7
-        },
-        {
-          "year": 2020,
-          "value": 11.99
-        },
-        {
-          "year": 2021,
-          "value": 11.09
-        },
-        {
-          "year": 2022,
-          "value": 7.53
-        }
       ]
     }
   },
@@ -44870,10 +40040,10 @@
     "iso3": "TZA",
     "iso2": "TZ",
     "region": "East Africa",
-    "income_level": "Lower middle income",
-    "capital_city": "Dodoma",
-    "lat": -6.17486,
-    "lng": 35.7382,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 52.4,
       "fdi_inflows": 2.17,
@@ -44883,8 +40053,7 @@
       "internet_users": 31.16,
       "life_expectancy": 67.21,
       "literacy_rate": 78.21,
-      "population": 68560157.0,
-      "unemployment": 1.56
+      "population": 68560157.0
     },
     "trends": {
       "electricity_access": [
@@ -45728,108 +40897,6 @@
           "year": 2024,
           "value": 68560157.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 3.13
-        },
-        {
-          "year": 2001,
-          "value": 2.99
-        },
-        {
-          "year": 2002,
-          "value": 3.02
-        },
-        {
-          "year": 2003,
-          "value": 3.05
-        },
-        {
-          "year": 2004,
-          "value": 3.1
-        },
-        {
-          "year": 2005,
-          "value": 3.19
-        },
-        {
-          "year": 2006,
-          "value": 3.3
-        },
-        {
-          "year": 2007,
-          "value": 3.02
-        },
-        {
-          "year": 2008,
-          "value": 2.77
-        },
-        {
-          "year": 2009,
-          "value": 2.5
-        },
-        {
-          "year": 2010,
-          "value": 3.03
-        },
-        {
-          "year": 2011,
-          "value": 3.47
-        },
-        {
-          "year": 2012,
-          "value": 3.22
-        },
-        {
-          "year": 2013,
-          "value": 2.93
-        },
-        {
-          "year": 2014,
-          "value": 2.12
-        },
-        {
-          "year": 2015,
-          "value": 2.01
-        },
-        {
-          "year": 2016,
-          "value": 1.93
-        },
-        {
-          "year": 2017,
-          "value": 1.85
-        },
-        {
-          "year": 2018,
-          "value": 1.79
-        },
-        {
-          "year": 2019,
-          "value": 1.74
-        },
-        {
-          "year": 2020,
-          "value": 1.79
-        },
-        {
-          "year": 2021,
-          "value": 1.88
-        },
-        {
-          "year": 2022,
-          "value": 1.57
-        },
-        {
-          "year": 2023,
-          "value": 1.56
-        },
-        {
-          "year": 2024,
-          "value": 1.56
-        }
       ]
     }
   },
@@ -45838,10 +40905,10 @@
     "iso3": "TGO",
     "iso2": "TG",
     "region": "West Africa",
-    "income_level": "Lower middle income",
-    "capital_city": "Lome",
-    "lat": 6.1228,
-    "lng": 1.2255,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 61.1,
       "fdi_inflows": 1.9,
@@ -45851,8 +40918,7 @@
       "internet_users": 39.48,
       "life_expectancy": 62.94,
       "literacy_rate": 72.6,
-      "population": 8406558.0,
-      "unemployment": 1.95
+      "population": 8406558.0
     },
     "trends": {
       "electricity_access": [
@@ -46708,108 +41774,6 @@
           "year": 2024,
           "value": 8406558.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 4.16
-        },
-        {
-          "year": 2001,
-          "value": 4.11
-        },
-        {
-          "year": 2002,
-          "value": 4.09
-        },
-        {
-          "year": 2003,
-          "value": 3.96
-        },
-        {
-          "year": 2004,
-          "value": 3.99
-        },
-        {
-          "year": 2005,
-          "value": 4.15
-        },
-        {
-          "year": 2006,
-          "value": 4.23
-        },
-        {
-          "year": 2007,
-          "value": 3.82
-        },
-        {
-          "year": 2008,
-          "value": 3.28
-        },
-        {
-          "year": 2009,
-          "value": 2.85
-        },
-        {
-          "year": 2010,
-          "value": 2.38
-        },
-        {
-          "year": 2011,
-          "value": 1.98
-        },
-        {
-          "year": 2012,
-          "value": 2.03
-        },
-        {
-          "year": 2013,
-          "value": 2.08
-        },
-        {
-          "year": 2014,
-          "value": 2.14
-        },
-        {
-          "year": 2015,
-          "value": 2.2
-        },
-        {
-          "year": 2016,
-          "value": 2.97
-        },
-        {
-          "year": 2017,
-          "value": 3.74
-        },
-        {
-          "year": 2018,
-          "value": 2.9
-        },
-        {
-          "year": 2019,
-          "value": 2.04
-        },
-        {
-          "year": 2020,
-          "value": 2.23
-        },
-        {
-          "year": 2021,
-          "value": 2.34
-        },
-        {
-          "year": 2022,
-          "value": 1.97
-        },
-        {
-          "year": 2023,
-          "value": 1.94
-        },
-        {
-          "year": 2024,
-          "value": 1.95
-        }
       ]
     }
   },
@@ -46818,10 +41782,10 @@
     "iso3": "TUN",
     "iso2": "TN",
     "region": "North Africa",
-    "income_level": "Lower middle income",
-    "capital_city": "Tunis",
-    "lat": 36.7899,
-    "lng": 10.21,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 100.0,
       "fdi_inflows": 1.47,
@@ -46831,8 +41795,7 @@
       "internet_users": 76.5,
       "life_expectancy": 76.71,
       "literacy_rate": 86.25,
-      "population": 12277109.0,
-      "unemployment": 15.34
+      "population": 12277109.0
     },
     "trends": {
       "electricity_access": [
@@ -47688,108 +42651,6 @@
           "year": 2024,
           "value": 12277109.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 14.94
-        },
-        {
-          "year": 2001,
-          "value": 14.4
-        },
-        {
-          "year": 2002,
-          "value": 14.55
-        },
-        {
-          "year": 2003,
-          "value": 14.51
-        },
-        {
-          "year": 2004,
-          "value": 14.23
-        },
-        {
-          "year": 2005,
-          "value": 12.87
-        },
-        {
-          "year": 2006,
-          "value": 12.51
-        },
-        {
-          "year": 2007,
-          "value": 12.37
-        },
-        {
-          "year": 2008,
-          "value": 12.44
-        },
-        {
-          "year": 2009,
-          "value": 13.29
-        },
-        {
-          "year": 2010,
-          "value": 13.05
-        },
-        {
-          "year": 2011,
-          "value": 18.33
-        },
-        {
-          "year": 2012,
-          "value": 17.63
-        },
-        {
-          "year": 2013,
-          "value": 15.93
-        },
-        {
-          "year": 2014,
-          "value": 14.26
-        },
-        {
-          "year": 2015,
-          "value": 15.16
-        },
-        {
-          "year": 2016,
-          "value": 15.56
-        },
-        {
-          "year": 2017,
-          "value": 15.33
-        },
-        {
-          "year": 2018,
-          "value": 15.46
-        },
-        {
-          "year": 2019,
-          "value": 17.15
-        },
-        {
-          "year": 2020,
-          "value": 17.65
-        },
-        {
-          "year": 2021,
-          "value": 16.63
-        },
-        {
-          "year": 2022,
-          "value": 15.3
-        },
-        {
-          "year": 2023,
-          "value": 15.11
-        },
-        {
-          "year": 2024,
-          "value": 15.34
-        }
       ]
     }
   },
@@ -47798,10 +42659,10 @@
     "iso3": "UGA",
     "iso2": "UG",
     "region": "East Africa",
-    "income_level": "Low income",
-    "capital_city": "Kampala",
-    "lat": 0.314269,
-    "lng": 32.5729,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 55.3,
       "fdi_inflows": 5.78,
@@ -47811,8 +42672,7 @@
       "internet_users": 8.95,
       "life_expectancy": 68.49,
       "literacy_rate": 77.04,
-      "population": 50015092.0,
-      "unemployment": 2.74
+      "population": 50015092.0
     },
     "trends": {
       "electricity_access": [
@@ -48668,108 +43528,6 @@
           "year": 2024,
           "value": 50015092.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 3.53
-        },
-        {
-          "year": 2001,
-          "value": 3.52
-        },
-        {
-          "year": 2002,
-          "value": 3.5
-        },
-        {
-          "year": 2003,
-          "value": 3.6
-        },
-        {
-          "year": 2004,
-          "value": 2.7
-        },
-        {
-          "year": 2005,
-          "value": 1.9
-        },
-        {
-          "year": 2006,
-          "value": 2.26
-        },
-        {
-          "year": 2007,
-          "value": 2.67
-        },
-        {
-          "year": 2008,
-          "value": 3.04
-        },
-        {
-          "year": 2009,
-          "value": 3.6
-        },
-        {
-          "year": 2010,
-          "value": 3.62
-        },
-        {
-          "year": 2011,
-          "value": 3.52
-        },
-        {
-          "year": 2012,
-          "value": 3.55
-        },
-        {
-          "year": 2013,
-          "value": 1.91
-        },
-        {
-          "year": 2014,
-          "value": 2.36
-        },
-        {
-          "year": 2015,
-          "value": 2.68
-        },
-        {
-          "year": 2016,
-          "value": 3.0
-        },
-        {
-          "year": 2017,
-          "value": 3.43
-        },
-        {
-          "year": 2018,
-          "value": 3.25
-        },
-        {
-          "year": 2019,
-          "value": 3.06
-        },
-        {
-          "year": 2020,
-          "value": 3.82
-        },
-        {
-          "year": 2021,
-          "value": 3.42
-        },
-        {
-          "year": 2022,
-          "value": 2.88
-        },
-        {
-          "year": 2023,
-          "value": 2.75
-        },
-        {
-          "year": 2024,
-          "value": 2.74
-        }
       ]
     }
   },
@@ -48778,10 +43536,10 @@
     "iso3": "ZMB",
     "iso2": "ZM",
     "region": "East Africa",
-    "income_level": "Lower middle income",
-    "capital_city": "Lusaka",
-    "lat": -15.3982,
-    "lng": 28.2937,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 53.6,
       "fdi_inflows": 9.32,
@@ -48791,8 +43549,7 @@
       "internet_users": 17.1,
       "life_expectancy": 66.53,
       "literacy_rate": 71.77,
-      "population": 21314956.0,
-      "unemployment": 5.9
+      "population": 21314956.0
     },
     "trends": {
       "electricity_access": [
@@ -49640,108 +44397,6 @@
           "year": 2024,
           "value": 21314956.0
         }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 12.93
-        },
-        {
-          "year": 2001,
-          "value": 13.4
-        },
-        {
-          "year": 2002,
-          "value": 14.13
-        },
-        {
-          "year": 2003,
-          "value": 14.7
-        },
-        {
-          "year": 2004,
-          "value": 15.33
-        },
-        {
-          "year": 2005,
-          "value": 15.9
-        },
-        {
-          "year": 2006,
-          "value": 13.23
-        },
-        {
-          "year": 2007,
-          "value": 10.56
-        },
-        {
-          "year": 2008,
-          "value": 7.93
-        },
-        {
-          "year": 2009,
-          "value": 10.58
-        },
-        {
-          "year": 2010,
-          "value": 13.19
-        },
-        {
-          "year": 2011,
-          "value": 10.55
-        },
-        {
-          "year": 2012,
-          "value": 7.85
-        },
-        {
-          "year": 2013,
-          "value": 7.27
-        },
-        {
-          "year": 2014,
-          "value": 6.58
-        },
-        {
-          "year": 2015,
-          "value": 5.95
-        },
-        {
-          "year": 2016,
-          "value": 5.24
-        },
-        {
-          "year": 2017,
-          "value": 4.53
-        },
-        {
-          "year": 2018,
-          "value": 5.03
-        },
-        {
-          "year": 2019,
-          "value": 5.54
-        },
-        {
-          "year": 2020,
-          "value": 6.03
-        },
-        {
-          "year": 2021,
-          "value": 5.2
-        },
-        {
-          "year": 2022,
-          "value": 5.99
-        },
-        {
-          "year": 2023,
-          "value": 5.86
-        },
-        {
-          "year": 2024,
-          "value": 5.9
-        }
       ]
     }
   },
@@ -49750,10 +44405,10 @@
     "iso3": "ZWE",
     "iso2": "ZW",
     "region": "East Africa",
-    "income_level": "Lower middle income",
-    "capital_city": "Harare",
-    "lat": -17.8312,
-    "lng": 31.0672,
+    "income_level": "Unknown",
+    "capital_city": "",
+    "lat": 0,
+    "lng": 0,
     "latest": {
       "electricity_access": 62.0,
       "fdi_inflows": 1.12,
@@ -49763,8 +44418,7 @@
       "internet_users": 41.64,
       "life_expectancy": 63.06,
       "literacy_rate": 93.23,
-      "population": 16634373.0,
-      "unemployment": 9.44
+      "population": 16634373.0
     },
     "trends": {
       "electricity_access": [
@@ -50539,108 +45193,6 @@
         {
           "year": 2024,
           "value": 16634373.0
-        }
-      ],
-      "unemployment": [
-        {
-          "year": 2000,
-          "value": 5.68
-        },
-        {
-          "year": 2001,
-          "value": 5.31
-        },
-        {
-          "year": 2002,
-          "value": 5.0
-        },
-        {
-          "year": 2003,
-          "value": 4.74
-        },
-        {
-          "year": 2004,
-          "value": 4.39
-        },
-        {
-          "year": 2005,
-          "value": 4.63
-        },
-        {
-          "year": 2006,
-          "value": 4.77
-        },
-        {
-          "year": 2007,
-          "value": 5.01
-        },
-        {
-          "year": 2008,
-          "value": 5.4
-        },
-        {
-          "year": 2009,
-          "value": 5.48
-        },
-        {
-          "year": 2010,
-          "value": 5.47
-        },
-        {
-          "year": 2011,
-          "value": 5.37
-        },
-        {
-          "year": 2012,
-          "value": 5.06
-        },
-        {
-          "year": 2013,
-          "value": 4.95
-        },
-        {
-          "year": 2014,
-          "value": 4.77
-        },
-        {
-          "year": 2015,
-          "value": 5.4
-        },
-        {
-          "year": 2016,
-          "value": 5.9
-        },
-        {
-          "year": 2017,
-          "value": 6.35
-        },
-        {
-          "year": 2018,
-          "value": 6.79
-        },
-        {
-          "year": 2019,
-          "value": 7.37
-        },
-        {
-          "year": 2020,
-          "value": 8.62
-        },
-        {
-          "year": 2021,
-          "value": 9.54
-        },
-        {
-          "year": 2022,
-          "value": 10.09
-        },
-        {
-          "year": 2023,
-          "value": 9.35
-        },
-        {
-          "year": 2024,
-          "value": 9.44
         }
       ]
     }

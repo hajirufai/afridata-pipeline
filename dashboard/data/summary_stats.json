@@ -43,11 +43,11 @@
     "name": "Unemployment (% of labor force)",
     "category": "Labor",
     "unit": "%",
-    "avg": 8.95,
-    "min": 0.38,
-    "max": 34.64,
-    "median": 5.95,
-    "countries": 53
+    "avg": null,
+    "min": null,
+    "max": null,
+    "median": null,
+    "countries": 0
   },
   "life_expectancy": {
     "name": "Life Expectancy at Birth",
